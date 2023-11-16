@@ -5,16 +5,19 @@ on:
   schedule:
     - cron: '1 0 * * *' # Runs every day at midnight
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Set up Node.js
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v4
       with:
         node-version: '18'
 
@@ -26,3 +29,12 @@ jobs:
 
     - name: Run scraper
       run: npm start
+
+    - name: Commit and Push Data
+      run: |
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        git pull origin main
+        git add data/*
+        git commit -m "Add data files"
+        git push
