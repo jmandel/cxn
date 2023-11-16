@@ -1,0 +1,28 @@
+name: Run NYT Scraper with Playwright
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '1 0 * * *' # Runs every day at midnight
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Install dependencies
+      run: npx playwright install --with-deps chromium
+
+    - name: Run scraper
+      run: npm start
