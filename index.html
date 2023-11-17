@@ -126,7 +126,7 @@
             };
 
             const currentColor = corner.style.backgroundColor;
-            const targetColor = colors[Array.from(corner.classList).filter(c => c.contains("-"))[0]];
+            const targetColor = colors[Array.from(corner.classList).filter(c => c.includes("-"))[0]];
 
             if (currentColor === 'white' || currentColor === '') {
                 corner.style.backgroundColor = targetColor;
