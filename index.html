@@ -64,7 +64,8 @@
             let wordsMatrix = [];
 
             try {
-                const response = await fetch('data/yyyy-mm-dd.json'); // Replace with actual path
+                const today = new Date().toISOString().split('T')[0]; // Gets today's date in yyyy-mm-dd format
+                const response = await fetch(`data/${today}.json`); // Adjusts the file path dynamically
                 if (response.ok) {
                     wordsMatrix = await response.json(); // Assuming JSON structure: [["word1", "word2", ...], [...], ...]
                 } else {
