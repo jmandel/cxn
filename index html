@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Tile Game</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f4;
+        }
+
+        #gameBoard {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            grid-gap: 10px;
+            max-width: 450px;
+            padding: 10px;
+            background-color: #e8e8e8;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .tile {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100px;
+            border: 2px solid #8c8c8c;
+            border-radius: 15px;
+            position: relative;
+            background-color: #ffffff;
+            color: #333333;
+            font-weight: bold;
+            font-size: 16px;
+            overflow: hidden;
+        }
+
+        .corner {
+            position: absolute;
+            width: 35px;
+            height: 35px;
+            background-color: white;
+            border: 1px solid #ccc;
+        }
+
+        .top-left { top: 5px; left: 5px; border-radius: 15px 0 0 0; }
+        .top-right { top: 5px; right: 5px; border-radius: 0 15px 0 0; }
+        .bottom-left { bottom: 5px; left: 5px; border-radius: 0 0 0 15px; }
+        .bottom-right { bottom: 5px; right: 5px; border-radius: 0 0 15px 0; }
+    </style>
+</head>
+<body>
+    <div id="gameBoard"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            const gameBoard = document.getElementById('gameBoard');
+            let wordsMatrix = [];
+
+            try {
+                const response = await fetch('data/yyyy-mm-dd.json'); // Replace with actual path
+                if (response.ok) {
+                    wordsMatrix = await response.json(); // Assuming JSON structure: [["word1", "word2", ...], [...], ...]
+                } else {
+                    console.error('Failed to load words:', response.status);
+                    return;
+                }
+            } catch (error) {
+                console.error('Error fetching words:', error);
+                return;
+            }
+
+            wordsMatrix.flat().forEach(word => {
+                const tile = document.createElement('div');
+                tile.className = 'tile';
+                tile.innerText = word;
+
+                ['top-left', 'top-right', 'bottom-left', 'bottom-right'].forEach(pos => {
+                    const corner = document.createElement('div');
+                    corner.className = `corner ${pos}`;
+                    corner.addEventListener('click', (event) => {
+                        event.stopPropagation();
+                        toggleCorner(corner);
+                    });
+                    tile.appendChild(corner);
+                });
+
+                gameBoard.appendChild(tile);
+            });
+        });
+
+        function toggleCorner(corner) {
+            const colors = {
+                'top-left': '#ffd700', // Gold
+                'top-right': '#32cd32', // Lime Green
+                'bottom-left': '#1e90ff', // Dodger Blue
+                'bottom-right': '#da70d6' // Orchid
+            };
+            const currentColor = corner.style.backgroundColor;
+            corner.style.backgroundColor = currentColor === 'white' || currentColor === '' ? colors[corner.classList[1]] : 'white';
+        }
+    </script>
+</body>
+</html>
