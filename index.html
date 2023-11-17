@@ -97,20 +97,20 @@
         });
 
         const colorCounters = {
-            'yellow': 0,
-            'green': 0,
-            'blue': 0,
-            'purple': 0
+            'top-left': 0,
+            'top-right': 0,
+            'bottom-left': 0,
+            'bottom-right': 0
         };
 
         function updateSpecialBorder() {
             for (const color in colorCounters) {
                 if (colorCounters[color] === 4) {
-                    document.querySelectorAll(`.corner[style*="background-color: ${color}"]`).forEach(corner => {
+                    document.querySelectorAll(`.corner.${color}`).forEach(corner => {
                         corner.classList.remove('incomplete');
                     });
                 } else {
-                    document.querySelectorAll(`.corner[style*="background-color: ${color}"]`).forEach(corner => {
+                    document.querySelectorAll(`.corner.${color}`).forEach(corner => {
                         corner.classList.add('incomplete');
                     });
                 }
@@ -126,14 +126,14 @@
             };
 
             const currentColor = corner.style.backgroundColor;
-            const targetColor = colors[Array.from(corner.classList).filter(c => c.includes("-"))[0]];
+            const targetCorner = Array.from(corner.classList).filter(c => c.includes("-"))[0];
 
             if (currentColor === 'white' || currentColor === '') {
-                corner.style.backgroundColor = targetColor;
-                colorCounters[targetColor]++;
+                corner.style.backgroundColor = colors[targetCorner];
+                colorCounters[targetCorner]++;
             } else {
                 corner.style.backgroundColor = 'white';
-                colorCounters[targetColor]--;
+                colorCounters[targetCorner]--;
             }
 
             updateSpecialBorder(); // Check and update special borders
