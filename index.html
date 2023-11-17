@@ -5,12 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Word Tile Game</title>
     <style>
+        html {height: 100%;}
         body {
-            display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vmin;
-            width: 100vmin;
             margin: 0;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #f4f4f4;
@@ -20,7 +18,7 @@
             display: grid;
             grid-template-columns: repeat(4, 1fr);
             grid-gap: 10px;
-            max-width: 450px;
+            width: 100vmin;
             padding: 10px;
             background-color: #e8e8e8;
             border-radius: 10px;
@@ -47,7 +45,6 @@
             width: 35px;
             height: 35px;
             background-color: white;
-            border: 1px solid #ccc;
         }
 
         .top-left { top: 5px; left: 5px; border-radius: 15px 0 0 0; }
@@ -129,7 +126,7 @@
             };
 
             const currentColor = corner.style.backgroundColor;
-            const targetColor = colors[corner.classList[1]];
+            const targetColor = colors[Array.from(corner.classList).filter(c => c.contains("-")[0]];
 
             if (currentColor === 'white' || currentColor === '') {
                 corner.style.backgroundColor = targetColor;
