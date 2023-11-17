@@ -9,7 +9,8 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
+            height: 100vmin;
+            width: 100vmin;
             margin: 0;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             background-color: #f4f4f4;
@@ -53,6 +54,7 @@
         .top-right { top: 5px; right: 5px; border-radius: 0 15px 0 0; }
         .bottom-left { bottom: 5px; left: 5px; border-radius: 0 0 0 15px; }
         .bottom-right { bottom: 5px; right: 5px; border-radius: 0 0 15px 0; }
+        .incomplete {  filter: blur(2px) opacity(.6); }
     </style>
 </head>
 <body>
@@ -85,7 +87,7 @@
 
                 ['top-left', 'top-right', 'bottom-left', 'bottom-right'].forEach(pos => {
                     const corner = document.createElement('div');
-                    corner.className = `corner ${pos}`;
+                    corner.className = `incomplete corner ${pos}`;
                     corner.addEventListener('click', (event) => {
                         event.stopPropagation();
                         toggleCorner(corner);
@@ -97,15 +99,47 @@
             });
         });
 
+        const colorCounters = {
+            'yellow': 0,
+            'green': 0,
+            'blue': 0,
+            'purple': 0
+        };
+
+        function updateSpecialBorder() {
+            for (const color in colorCounters) {
+                if (colorCounters[color] === 4) {
+                    document.querySelectorAll(`.corner[style*="background-color: ${color}"]`).forEach(corner => {
+                        corner.classList.remove('incomplete');
+                    });
+                } else {
+                    document.querySelectorAll(`.corner[style*="background-color: ${color}"]`).forEach(corner => {
+                        corner.classList.add('incomplete');
+                    });
+                }
+            }
+        }
+
         function toggleCorner(corner) {
             const colors = {
-                'top-left': '#ffd700', // Gold
-                'top-right': '#32cd32', // Lime Green
-                'bottom-left': '#1e90ff', // Dodger Blue
-                'bottom-right': '#da70d6' // Orchid
+                'top-left': '#rgb(255 215 0 / 100%)', // Gold
+                'top-right': 'rgb(157 235 157 / 100%)', // Lime Green
+                'bottom-left': 'rgb(30 144 255 / 100%)', // Dodger Blue
+                'bottom-right': 'rgb(145 0 139 / 100%)' // Orchid
             };
+
             const currentColor = corner.style.backgroundColor;
-            corner.style.backgroundColor = currentColor === 'white' || currentColor === '' ? colors[corner.classList[1]] : 'white';
+            const targetColor = colors[corner.classList[1]];
+
+            if (currentColor === 'white' || currentColor === '') {
+                corner.style.backgroundColor = targetColor;
+                colorCounters[targetColor]++;
+            } else {
+                corner.style.backgroundColor = 'white';
+                colorCounters[targetColor]--;
+            }
+
+            updateSpecialBorder(); // Check and update special borders
         }
     </script>
 </body>
