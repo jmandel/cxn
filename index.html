@@ -95,6 +95,7 @@
 
                 gameBoard.appendChild(tile);
             });
+            adjustTileFontSize()
         });
 
         const colorCounters = {
@@ -117,7 +118,17 @@
                 }
             }
         }
+        function adjustTileFontSize() {
+            const tiles = document.querySelectorAll('#gameBoard .tile');
 
+            tiles.forEach(tile => {
+                let fontSize = parseInt(window.getComputedStyle(tile).fontSize);
+                while (tile.scrollWidth > tile.offsetWidth && fontSize > 1) {
+                    fontSize--;
+                    tile.style.fontSize = fontSize + 'px';
+                }
+            });
+        }
         function toggleCorner(corner) {
             const colors = {
                 'top-left': 'rgb(255 215 0 / 100%)', // Gold
