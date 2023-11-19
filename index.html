@@ -123,7 +123,7 @@
 
             tiles.forEach(tile => {
                 let fontSize = parseInt(window.getComputedStyle(tile).fontSize);
-                while (tile.scrollWidth > tile.offsetWidth && fontSize > 1) {
+                while (tile.scrollWidth + 4 > tile.offsetWidth && fontSize > 1) {
                     fontSize--;
                     tile.style.fontSize = fontSize + 'px';
                 }
