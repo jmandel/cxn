@@ -48,16 +48,17 @@
             z-index: 1;
             pointer-events: none; /* Ensure clicks pass through to the divs below */
         }
-        .tile > div {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            width: 33.33%;
-            height: 33.33%;
-            background: rgba(255, 255, 255, 0.3);
-            z-index: 2;
-            cursor: pointer; /* Visual cue that these are clickable */
-        }
+.tile > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 33.33%;
+    height: 33.33%; /* This ensures that the divs have height */
+    background: rgba(255, 255, 255, 0.3);
+    z-index: 2;
+    cursor: pointer; /* Visual cue that these are clickable */
+}
+
         .incomplete {
             background: rgba(255, 255, 255, 0.3);
             z-index: 2;
