@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Tile Game</title>
+    <style>
+        html, body { height: 100%; margin: 0; }
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f4;
+        }
+        #gameBoard {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            grid-gap: 10px;
+            max-width: 600px;
+            padding: 10px;
+            margin: 20px;
+            background-color: #e8e8e8;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .tile {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-rows: repeat(3, 1fr);
+            justify-content: center;
+            align-items: center;
+            height: 100px;
+            border: 2px solid #8c8c8c;
+            border-radius: 15px;
+            background-color: #ffffff;
+            color: #333333;
+            font-weight: bold;
+            font-size: 16px;
+            position: relative;
+            overflow: hidden;
+        }
+        .tile > span {
+            grid-column: 1 / -1;
+            grid-row: 1 / -1;
+            justify-self: center;
+            align-self: center;
+            z-index: 1;
+        }
+        .tile > div {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 33.33%;
+            height: 33.33%;
+            background: rgba(255, 255, 255, 0.3);
+            z-index: 2;
+        }
+        .incomplete {
+            background: rgba(255, 255, 255, 0.3);
+            z-index: 2;
+        }
+    </style>
+</head>
+<body>
+    <div id="gameBoard"></div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const wordsMatrix = [
+                ["FADE", "OUTFIT", "UNDO", "BOB", "BAND", "GOOFY"],
+                ["CUT", "CREW", "SOFT", "ICE", "RIGHT", "FOOT"],
+                ["HYPHEN", "TAKE", "SPACE", "PASTE", "WRITE", "BEAR"],
+                ["DAISY", "DASH", "STOMACH", "PICKLE", "COLON", "SHAG"],
+                ["BASKET", "STONE", "PLUTO", "PARTY", "COPY", "RITE"],
+                ["WRIGHT", "PERIOD", "MULLET", "HANDLE", "GILDED", "MINNIE"]
+            ];
+            const gameBoard = document.getElementById('gameBoard');
+            wordsMatrix.forEach(row => {
+                row.forEach(word => {
+                    const tile = document.createElement('div');
+                    tile.className = 'tile';
+                    const wordSpan = document.createElement('span');
+                    wordSpan.textContent = word;
+                    tile.appendChild(wordSpan);
+                    for (let i = 0; i < 9; i++) {
+                        const part = document.createElement('div');
+                        part.dataset.index = i;
+                        part.addEventListener('click', () => togglePart(part));
+                        tile.appendChild(part);
+                    }
+                    gameBoard.appendChild(tile);
+                });
+            });
+            adjustTileFontSize();
+        });
+
+        function adjustTileFontSize() {
+            const tiles = document.querySelectorAll('.tile span');
+            tiles.forEach(tileSpan => {
+                const maxHeight = tileSpan.parentNode.clientHeight - 10; // Max height for the word
+                const maxWidth = tileSpan.parentNode.clientWidth - 10; // Max width for the word
+                let fontSize = 16; // Start with a base font size
+                tileSpan.style.fontSize = `${fontSize}px`;
+                while ((tileSpan.scrollHeight > maxHeight || tileSpan.scrollWidth > maxWidth) && fontSize > 1) {
+                    fontSize--;
+                    tileSpan.style.fontSize = `${fontSize}px`;
+                }
+            });
+        }
+
+        const colors = ['red', 'green', 'blue', 'yellow', 'purple', 'cyan', 'magenta', 'lime', 'orange'];
+        const colorCounters = Array(9).fill(0);
+
+        function togglePart(part) {
+            const index = parseInt(part.dataset.index, 10);
+            if (!part.style.backgroundColor) {
+                part.style.backgroundColor = colors[index];
+                part.textContent = index + 1;
+                colorCounters[index]++;
+            } else {
+                part.style.backgroundColor = 'rgba(255, 255, 255, 0.3)';
+                part.textContent = '';
+                colorCounters[index]--;
+            }
+            updateSpecialBlur();
+        }
+
+        function updateSpecialBlur() {
+            const tiles = document.querySelectorAll('.tile');
+            tiles.forEach(tile => {
+                const selectedParts = tile.querySelectorAll('div');
+                selectedParts.forEach(part => {
+                    const index = parseInt(part.dataset.index, 10);
+                    if (colorCounters[index] === 4) {
+                        part.classList.remove('incomplete');
+                    } else {
+                        part.classList.add('incomplete');
+                    }
+                });
+            });
+        }
+    </script>
+</body>
+</html>
