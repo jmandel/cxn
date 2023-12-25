@@ -1,0 +1,246 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Tile Game</title>
+    <style>
+        html {height: 100%;}
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f4;
+        }
+
+        #gameBoard {
+            box-sizing: border-box;
+            display: grid;
+            grid-template-columns: repeat(9, 1fr);
+            grid-gap: 5px;
+            width: 90vmin;
+            padding: 5px;
+            background-color: #e8e8e8;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .tile {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 10vmin;
+            border: 1px solid #8c8c8c;
+            border-radius: 8px;
+            position: relative;
+            background-color: #ffffff;
+            color: #333333;
+            font-weight: bold;
+            font-size: 1.5vmin;
+            overflow: hidden;
+        }
+
+        .corner {
+            position: absolute;
+            width: 20%;
+            height: 20%;
+            background-color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #333;
+            font-weight: bold;
+            font-size: 1.2vmin;
+        }
+
+        .top-left { top: 5%; left: 5%; border-radius: 8px 0 0 0; }
+        .top-right { top: 5%; right: 5%; border-radius: 0 8px 0 0; }
+        .bottom-left { bottom: 5%; left: 5%; border-radius: 0 0 0 8px; }
+        .bottom-right { bottom: 5%; right: 5%; border-radius: 0 0 8px 0; }
+        .incomplete {  filter: blur(1px) opacity(.6); }
+    </style>
+</head>
+<body>
+    <div id="gameBoard"></div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const gameBoard = document.getElementById('gameBoard');
+            const wordsMatrix = [
+    [
+        "FADE",
+        "OUTFIT",
+        "UNDO",
+        "BOB",
+        "BAND",
+        "GOOFY",
+        "RIGHT",
+        "FOOT",
+        ""
+    ],
+    [
+        "CUT",
+        "CREW",
+        "SOFT",
+        "ICE",
+        "GOOFY",
+        "FOOT",
+        "",
+        "",
+        ""
+    ],
+    [
+        "HYPHEN",
+        "TAKE",
+        "SPACE",
+        "PASTE",
+        "WRITE",
+        "BEAR",
+        "",
+        "",
+        ""
+    ],
+    [
+        "DAISY",
+        "DASH",
+        "STOMACH",
+        "PICKLE",
+        "COLON",
+        "SHAG",
+        "",
+        "",
+        ""
+    ],
+    [
+        "BASKET",
+        "STONE",
+        "PLUTO",
+        "PARTY",
+        "COPY",
+        "RITE",
+        "",
+        "",
+        ""
+    ],
+    [
+        "WRIGHT",
+        "PERIOD",
+        "MULLET",
+        "HANDLE",
+        "GILDED",
+        "MINNIE",
+        "",
+        "",
+        ""
+    ],
+    [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ]
+]; // Hardcoded words matrix
+
+            wordsMatrix.flat().forEach((word, index) => {
+                const tile = document.createElement('div');
+                tile.className = 'tile';
+                tile.innerText = word;
+
+                const colors = [
+                    'rgb(255, 69, 0)',   // Red
+                    'rgb(255, 140, 0)',  // Dark Orange
+                    'rgb(255, 215, 0)',  // Gold
+                    'rgb(154, 205, 50)', // Yellow Green
+                    'rgb(0, 128, 0)',    // Green
+                    'rgb(30, 144, 255)', // Dodger Blue
+                    'rgb(0, 0, 255)',    // Blue
+                    'rgb(238, 130, 238)',// Violet
+                    'rgb(255, 105, 180)' // Hot Pink
+                ];
+
+                ['top-left', 'top-right', 'bottom-left', 'bottom-right'].forEach((pos, posIndex) => {
+                    const corner = document.createElement('div');
+                    corner.className = `incomplete corner ${pos}`;
+                    corner.innerText = index % 9 + 1; // Insert numbers 1 through 9
+
+                    corner.style.backgroundColor = colors[index % colors.length]; // Assign color
+
+                    corner.addEventListener('click', (event) => {
+                        event.stopPropagation();
+                        toggleCorner(corner, index % colors.length);
+                    });
+
+                    tile.appendChild(corner);
+                });
+
+                gameBoard.appendChild(tile);
+            });
+            adjustTileFontSize();
+        });
+
+        function adjustTileFontSize() {
+            const tiles = document.querySelectorAll('#gameBoard .tile');
+
+            tiles.forEach(tile => {
+                let fontSize = parseInt(window.getComputedStyle(tile).fontSize);
+                while (tile.scrollWidth > tile.offsetWidth && fontSize > 1) {
+                    fontSize--;
+                    tile.style.fontSize = fontSize + 'px';
+                }
+            });
+        }
+
+        function toggleCorner(corner, colorIndex) {
+            const colors = [
+                'rgb(255, 69, 0)',   // Red
+                'rgb(255, 140, 0)',  // Dark Orange
+                'rgb(255, 215, 0)',  // Gold
+                'rgb(154, 205, 50)', // Yellow Green
+                'rgb(0, 128, 0)',    // Green
+                'rgb(30, 144, 255)', // Dodger Blue
+                'rgb(0, 0, 255)',    // Blue
+                'rgb(238, 130, 238)',// Violet
+                'rgb(255, 105, 180)' // Hot Pink
+            ];
+
+            corner.classList.toggle('incomplete');
+            if (corner.classList.contains('incomplete')) {
+                corner.style.backgroundColor = 'white';
+            } else {
+                corner.style.backgroundColor = colors[colorIndex];
+            }
+        }
+    </script>
+</body>
+</html>
