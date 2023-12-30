@@ -109,7 +109,8 @@ tile.onmousedown = tile.ontouchstart = function() {
 };
 
 tile.onmouseup = tile.onmouseleave = tile.ontouchend = function() {
-    longPressTimer && clearTimeout(longPressTimer);
+    if(!longPressTimer) return;
+    clearTimeout(longPressTimer);
     setTimeout(()=>longPressTimer = null, 400);
 };
                 });
