@@ -98,7 +98,7 @@
                     corner.className = `incomplete corner ${pos}`;
                     corner.addEventListener('click', (event) => {
                         event.stopPropagation();
-                        toggleCorner(corner);
+                        longPressTimer || toggleCorner(corner);
                     });
                     tile.appendChild(corner);
                     let longPressTimer;
@@ -108,7 +108,8 @@ tile.onmousedown = tile.ontouchstart = function() {
 };
 
 tile.onmouseup = tile.onmouseleave = tile.ontouchend = function() {
-    clearTimeout(longPressTimer);
+    longPressTimer && clearTimeout(longPressTimer);
+    longPressTimer = null;
 };
                 });
 
