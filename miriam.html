@@ -97,7 +97,7 @@
                     const corner = document.createElement('div');
                     corner.className = `incomplete corner ${pos}`;
                     corner.addEventListener('click', (event) => {
-                        if(longPressTimer) return;
+                       // if(longPressTimer) return;
                         event.stopPropagation();
                         toggleCorner(corner);
                     });
