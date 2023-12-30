@@ -53,6 +53,10 @@
         .bottom-left { bottom: 5px; left: 5px; border-radius: 0 0 0 15px; }
         .bottom-right { bottom: 5px; right: 5px; border-radius: 0 0 15px 0; }
         .incomplete {  filter: blur(2px) opacity(.6); }
+
+        .opacity-tentative {
+    opacity: 0.5;
+        }
     </style>
 </head>
 <body>
@@ -91,6 +95,15 @@
                         toggleCorner(corner);
                     });
                     tile.appendChild(corner);
+                    let longPressTimer;
+
+tile.onmousedown = tile.ontouchstart = function() {
+    longPressTimer = setTimeout(() => handleLongPress(tile), 800); // 800 ms for long press
+};
+
+tile.onmouseup = tile.onmouseleave = tile.ontouchend = function() {
+    clearTimeout(longPressTimer);
+};
                 });
 
                 gameBoard.appendChild(tile);
@@ -149,6 +162,9 @@
             }
 
             updateSpecialBorder(); // Check and update special borders
+        }
+        function handleLongPress(tile) {
+    tile.classList.toggle('opacity-tentative');
         }
     </script>
 </body>
