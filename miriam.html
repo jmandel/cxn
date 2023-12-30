@@ -97,6 +97,7 @@
                     const corner = document.createElement('div');
                     corner.className = `incomplete corner ${pos}`;
                     corner.addEventListener('click', (event) => {
+                        if(longPressTimer) return;
                         event.stopPropagation();
                         toggleCorner(corner);
                     });
@@ -109,7 +110,7 @@ tile.onmousedown = tile.ontouchstart = function() {
 
 tile.onmouseup = tile.onmouseleave = tile.ontouchend = function() {
     longPressTimer && clearTimeout(longPressTimer);
-    setTimeout(()=>longPressTimer = null, 200);
+    setTimeout(()=>longPressTimer = null, 400);
 };
                 });
 
