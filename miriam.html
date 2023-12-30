@@ -98,7 +98,7 @@
                     corner.className = `incomplete corner ${pos}`;
                     corner.addEventListener('click', (event) => {
                         event.stopPropagation();
-                        longPressTimer || toggleCorner(corner);
+                        toggleCorner(corner);
                     });
                     tile.appendChild(corner);
                     let longPressTimer;
