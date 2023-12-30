@@ -104,7 +104,7 @@
                     let longPressTimer;
 
 tile.onmousedown = tile.ontouchstart = function() {
-    longPressTimer = setTimeout(() => handleLongPress(tile), 500); // 800 ms for long press
+    longPressTimer = setTimeout(() => handleLongPress(tile), 100); // ms for long press
 };
 
 tile.onmouseup = tile.onmouseleave = tile.ontouchend = function() {
