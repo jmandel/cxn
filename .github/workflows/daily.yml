@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '1 0 * * *' # Runs every day at midnight
-
+    - cron: '1 1 * * *' # Runs every day at 1a
 permissions:
   contents: write
 
