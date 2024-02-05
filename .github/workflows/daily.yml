@@ -35,6 +35,4 @@ jobs:
         git config --global user.email "you@example.com"
         git config --global user.name "Your Name"
         git pull origin main
-        git add data/*
-        git commit -m "Add data files"
-        git push
+        (git add data/* && git commit -m "Add data files" && git push) || true
