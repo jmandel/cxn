@@ -81,7 +81,9 @@
             wordsMatrix.flat().forEach(word => {
                 const tile = document.createElement('div');
                 tile.className = 'tile';
-                tile.innerText = word;
+                const span = document.createElement('span');
+                span.innerText = word;
+                tile.appendChild(span);
 
                 ['top-left', 'top-right', 'bottom-left', 'bottom-right'].forEach(pos => {
                     const corner = document.createElement('div');
