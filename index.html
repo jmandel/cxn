@@ -125,9 +125,11 @@
 
             tiles.forEach(tile => {
                 let fontSize = parseInt(window.getComputedStyle(tile).fontSize);
-                while (tile.scrollWidth + 4 > tile.offsetWidth && fontSize > 1) {
+                let interiorSize = document.querySelector("span", tile).clientWidth;
+                while (interiorSize + 4 > tile.offsetWidth && fontSize > 1) {
                     fontSize--;
                     tile.style.fontSize = fontSize + 'px';
+                    interiorSize = document.querySelector("span", tile).clientWidth;
                 }
             });
         }
