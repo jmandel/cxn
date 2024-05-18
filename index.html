@@ -122,14 +122,13 @@
         }
         function adjustTileFontSize() {
             const tiles = document.querySelectorAll('#gameBoard .tile');
-
             tiles.forEach(tile => {
                 let fontSize = parseInt(window.getComputedStyle(tile).fontSize);
-                let interiorSize = document.querySelector("span", tile).clientWidth;
+                let interiorSize = tile.querySelector("span").clientWidth;
                 while (interiorSize + 4 > tile.offsetWidth && fontSize > 1) {
                     fontSize--;
                     tile.style.fontSize = fontSize + 'px';
-                    interiorSize = document.querySelector("span", tile).clientWidth;
+                    interiorSize = tile.querySelector("span").clientWidth;
                 }
             });
         }
