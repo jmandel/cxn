@@ -1,0 +1,43 @@
+{
+  "id": 885,
+  "print_date": "2025-10-02",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "DOG COMMANDS",
+      "members": [
+        "COME",
+        "DOWN",
+        "HEEL",
+        "STAY"
+      ]
+    },
+    {
+      "title": "DESERVED",
+      "members": [
+        "DUE",
+        "FAIR",
+        "JUST",
+        "RIGHT"
+      ]
+    },
+    {
+      "title": "SITUATED",
+      "members": [
+        "LEFT",
+        "PLACED",
+        "PUT",
+        "SET"
+      ]
+    },
+    {
+      "title": "BEST ANIMATED FEATURE OSCAR WINNERS",
+      "members": [
+        "BRAVE",
+        "FLOW",
+        "FROZEN",
+        "UP"
+      ]
+    }
+  ]
+}
