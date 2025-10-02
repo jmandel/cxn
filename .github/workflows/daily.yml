@@ -1,4 +1,4 @@
-name: Run NYT Scraper with Playwright
+name: Run NYT Connections scraper
 
 on:
   workflow_dispatch:
@@ -24,11 +24,8 @@ jobs:
     - name: Install dependencies
       run: npm ci
 
-    - name: Install dependencies
-      run: npx playwright install --with-deps chromium
-
     - name: Run scraper
-      run: npm start
+      run: npm start -- --include-answers
 
     - name: Commit and Push Data
       run: |
