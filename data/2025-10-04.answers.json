@@ -1,0 +1,43 @@
+{
+  "id": 883,
+  "print_date": "2025-10-04",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FIX A HOLE IN CLOTHING",
+      "members": [
+        "DARN",
+        "MEND",
+        "PATCH",
+        "STITCH"
+      ]
+    },
+    {
+      "title": "RUSH OF WIND",
+      "members": [
+        "BLAST",
+        "BLOW",
+        "GALE",
+        "GUST"
+      ]
+    },
+    {
+      "title": "ANAGRAMS",
+      "members": [
+        "ARTS",
+        "RATS",
+        "STAR",
+        "TSAR"
+      ]
+    },
+    {
+      "title": "KINDS OF COOKIES",
+      "members": [
+        "FORTUNE",
+        "OATMEAL",
+        "RAINBOW",
+        "SUGAR"
+      ]
+    }
+  ]
+}
