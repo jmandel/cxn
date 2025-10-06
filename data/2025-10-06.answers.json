@@ -1,0 +1,43 @@
+{
+  "id": 891,
+  "print_date": "2025-10-06",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PARTS OF A RECORD PLAYER SETUP",
+      "members": [
+        "AMP",
+        "PREAMP",
+        "SPEAKER",
+        "TURNTABLE"
+      ]
+    },
+    {
+      "title": "KINDS OF COATS",
+      "members": [
+        "CAMEL",
+        "DUFFLE",
+        "PEA",
+        "TRENCH"
+      ]
+    },
+    {
+      "title": "THINGS THAT COME ON SPOOLS",
+      "members": [
+        "FILM",
+        "TAPE",
+        "THREAD",
+        "WIRE"
+      ]
+    },
+    {
+      "title": "STARTING WITH HOMOPHONES OF GREETINGS",
+      "members": [
+        "HAIKU",
+        "HAYSTACK",
+        "HELONIUM",
+        "YEOMAN"
+      ]
+    }
+  ]
+}
