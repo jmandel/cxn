@@ -1,0 +1,43 @@
+{
+  "id": 890,
+  "print_date": "2025-10-07",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "GOSSIP",
+      "members": [
+        "BUZZ",
+        "DIRT",
+        "DISH",
+        "TALK"
+      ]
+    },
+    {
+      "title": "SEEN AT A WEDDING",
+      "members": [
+        "ALTAR",
+        "BOUQUET",
+        "CAKE",
+        "RING"
+      ]
+    },
+    {
+      "title": "TEAM",
+      "members": [
+        "BUNCH",
+        "CREW",
+        "GROUP",
+        "PACK"
+      ]
+    },
+    {
+      "title": "MUSICALS PLUS STARTING LETTER",
+      "members": [
+        "BRENT",
+        "CHAIR",
+        "FANNIE",
+        "SCATS"
+      ]
+    }
+  ]
+}
