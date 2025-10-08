@@ -1,0 +1,43 @@
+{
+  "id": 888,
+  "print_date": "2025-10-08",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FINEST",
+      "members": [
+        "BEST",
+        "CREAM",
+        "ELITE",
+        "SELECT"
+      ]
+    },
+    {
+      "title": "ROCK MUSIC SUBGENRES",
+      "members": [
+        "ALTERNATIVE",
+        "ARENA",
+        "CLASSIC",
+        "GARAGE"
+      ]
+    },
+    {
+      "title": "PAINT FINISHES",
+      "members": [
+        "EGGSHELL",
+        "GLOSS",
+        "MATTE",
+        "PEARL"
+      ]
+    },
+    {
+      "title": "KINDS OF BEDS",
+      "members": [
+        "FLOWER",
+        "NAIL",
+        "OYSTER",
+        "RIVER"
+      ]
+    }
+  ]
+}
