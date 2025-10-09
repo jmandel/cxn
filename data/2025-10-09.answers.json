@@ -1,0 +1,43 @@
+{
+  "id": 889,
+  "print_date": "2025-10-09",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FANTASY",
+      "members": [
+        "INVENTION",
+        "FANCY",
+        "FICTION",
+        "FIGMENT"
+      ]
+    },
+    {
+      "title": "KINDS OF ROCKS",
+      "members": [
+        "FLINT",
+        "LIMESTONE",
+        "MARBLE",
+        "SLATE"
+      ]
+    },
+    {
+      "title": "NEWS ARTICLE FEATURES",
+      "members": [
+        "CAPTION",
+        "DATELINE",
+        "LEDE",
+        "PHOTO"
+      ]
+    },
+    {
+      "title": "TITLE FIGURES IN CLASSIC VIDEO GAMES",
+      "members": [
+        "GORILLA",
+        "HEDGEHOG",
+        "PLUMBER",
+        "PRINCESS"
+      ]
+    }
+  ]
+}
