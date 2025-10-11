@@ -1,0 +1,43 @@
+{
+  "id": 899,
+  "print_date": "2025-10-11",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "EQUIPMENT",
+      "members": [
+        "GEAR",
+        "KIT",
+        "STUFF",
+        "TACKLE"
+      ]
+    },
+    {
+      "title": "DRESS IN",
+      "members": [
+        "DON",
+        "PUT ON",
+        "SPORT",
+        "WEAR"
+      ]
+    },
+    {
+      "title": "STREET SUFFIXES",
+      "members": [
+        "ALLEY",
+        "COURT",
+        "LANE",
+        "WAY"
+      ]
+    },
+    {
+      "title": "NICKNAMES THAT HAVE OTHER MEANINGS",
+      "members": [
+        "BILL",
+        "BOB",
+        "PAT",
+        "TOM"
+      ]
+    }
+  ]
+}
