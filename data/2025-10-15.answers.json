@@ -1,0 +1,43 @@
+{
+  "id": 898,
+  "print_date": "2025-10-15",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "TYPES OF POOLS",
+      "members": [
+        "INFINITY",
+        "KIDDIE",
+        "KIDNEY",
+        "OLYMPIC"
+      ]
+    },
+    {
+      "title": "IN THE NATO PHONETIC ALPHABET",
+      "members": [
+        "BRAVO",
+        "DELTA",
+        "GOLF",
+        "LIMA"
+      ]
+    },
+    {
+      "title": "FORD MODELS",
+      "members": [
+        "BRONCO",
+        "FIESTA",
+        "MUSTANG",
+        "PINTO"
+      ]
+    },
+    {
+      "title": "___ SEAL",
+      "members": [
+        "ELEPHANT",
+        "GREAT",
+        "NAVY",
+        "VACUUM"
+      ]
+    }
+  ]
+}
