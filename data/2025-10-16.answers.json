@@ -1,0 +1,43 @@
+{
+  "id": 896,
+  "print_date": "2025-10-16",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FRUIT DESSERTS",
+      "members": [
+        "COBBLER",
+        "CRISP",
+        "CRUMBLE",
+        "TART"
+      ]
+    },
+    {
+      "title": "CRABBY",
+      "members": [
+        "CROSS",
+        "PRICKLY",
+        "SORE",
+        "SOUR"
+      ]
+    },
+    {
+      "title": "FISH",
+      "members": [
+        "CHAR",
+        "FLUKE",
+        "PIKE",
+        "SKATE"
+      ]
+    },
+    {
+      "title": "BANANA ___",
+      "members": [
+        "BOAT",
+        "BREAD",
+        "SLUG",
+        "SPLIT"
+      ]
+    }
+  ]
+}
