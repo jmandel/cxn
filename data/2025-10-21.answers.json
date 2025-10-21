@@ -1,0 +1,43 @@
+{
+  "id": 903,
+  "print_date": "2025-10-21",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PLAYING CARDS",
+      "members": [
+        "ACES",
+        "JACKS",
+        "KINGS",
+        "QUEENS"
+      ]
+    },
+    {
+      "title": "TAKES ON",
+      "members": [
+        "ADDRESSES",
+        "DOES",
+        "HANDLES",
+        "TACKLES"
+      ]
+    },
+    {
+      "title": "N.B.A. TEAMS",
+      "members": [
+        "BUCKS",
+        "BULLS",
+        "HORNETS",
+        "SPURS"
+      ]
+    },
+    {
+      "title": "THINGS YOU CAN CONTROL WITH REMOTES",
+      "members": [
+        "DRONES",
+        "GARAGE DOORS",
+        "TELEVISIONS",
+        "WIIS"
+      ]
+    }
+  ]
+}
