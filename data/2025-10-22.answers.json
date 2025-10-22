@@ -1,0 +1,43 @@
+{
+  "id": 907,
+  "print_date": "2025-10-22",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "UTILITIES",
+      "members": [
+        "ELECTRIC",
+        "GAS",
+        "TELEPHONE",
+        "WATER"
+      ]
+    },
+    {
+      "title": "ADAPT TO FIT ONE'S NEEDS",
+      "members": [
+        "FASHION",
+        "MOLD",
+        "SHAPE",
+        "TAILOR"
+      ]
+    },
+    {
+      "title": "KINDS OF ANTS",
+      "members": [
+        "ARMY",
+        "CARPENTER",
+        "FIRE",
+        "PHARAOH"
+      ]
+    },
+    {
+      "title": "COPY___",
+      "members": [
+        "CAT",
+        "PASTA",
+        "RIGHT",
+        "WRITER"
+      ]
+    }
+  ]
+}
