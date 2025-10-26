@@ -1,0 +1,43 @@
+{
+  "id": 910,
+  "print_date": "2025-10-26",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KINDS OF INSTRUMENTS",
+      "members": [
+        "BRASS",
+        "PERCUSSION",
+        "STRING",
+        "WIND"
+      ]
+    },
+    {
+      "title": "WORDS IN A FAMOUS MUHAMMAD ALI QUOTE",
+      "members": [
+        "BEE",
+        "BUTTERFLY",
+        "FLOAT",
+        "STING"
+      ]
+    },
+    {
+      "title": "KINDS OF CONTESTS",
+      "members": [
+        "BEAUTY",
+        "POPULARITY",
+        "STARING",
+        "TALENT"
+      ]
+    },
+    {
+      "title": "WORDS WITH DIMINUTIVE SUFFIXES",
+      "members": [
+        "DOGGY",
+        "DROPLET",
+        "KITCHENETTE",
+        "STARLING"
+      ]
+    }
+  ]
+}
