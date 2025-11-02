@@ -1,0 +1,43 @@
+{
+  "id": 923,
+  "print_date": "2025-11-02",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "GOODS TO BE TRANSPORTED",
+      "members": [
+        "CARGO",
+        "FREIGHT",
+        "HAUL",
+        "LOAD"
+      ]
+    },
+    {
+      "title": "LIGHT BROWN SHADES",
+      "members": [
+        "CAMEL",
+        "FAWN",
+        "KHAKI",
+        "TAN"
+      ]
+    },
+    {
+      "title": "SHOW SIGNS OF PHYSICAL EXERTION",
+      "members": [
+        "CRAMP",
+        "PANT",
+        "REDDEN",
+        "SWEAT"
+      ]
+    },
+    {
+      "title": "STARTS OF ZODIAC SIGNS",
+      "members": [
+        "AQUA",
+        "CAPRI",
+        "GEM",
+        "SAG"
+      ]
+    }
+  ]
+}
