@@ -1,0 +1,43 @@
+{
+  "id": 917,
+  "print_date": "2025-11-04",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "STEER",
+      "members": [
+        "DIRECT",
+        "DRIVE",
+        "GUIDE",
+        "PILOT"
+      ]
+    },
+    {
+      "title": "THIN LAYER",
+      "members": [
+        "COAT",
+        "FILM",
+        "LEAF",
+        "SHEET"
+      ]
+    },
+    {
+      "title": "FILE EXTENSIONS",
+      "members": [
+        "DOC",
+        "MID",
+        "TIFF",
+        "ZIP"
+      ]
+    },
+    {
+      "title": "___ GUITAR",
+      "members": [
+        "AIR",
+        "ELECTRIC",
+        "RHYTHM",
+        "SLIDE"
+      ]
+    }
+  ]
+}
