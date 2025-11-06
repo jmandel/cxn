@@ -1,0 +1,43 @@
+{
+  "id": 929,
+  "print_date": "2025-11-06",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "COST",
+      "members": [
+        "AMOUNT",
+        "FIGURE",
+        "PRICE",
+        "VALUE"
+      ]
+    },
+    {
+      "title": "WAYS TO UNLOCK A DEVICE",
+      "members": [
+        "FACE",
+        "FINGERPRINT",
+        "PASSWORD",
+        "PIN"
+      ]
+    },
+    {
+      "title": "PARTS OF A SHIP",
+      "members": [
+        "AFT",
+        "DECK",
+        "FORE",
+        "MAST"
+      ]
+    },
+    {
+      "title": "FEATURES OF A CARTOON CUPID",
+      "members": [
+        "ARROW",
+        "BOW",
+        "DIAPER",
+        "WINGS"
+      ]
+    }
+  ]
+}
