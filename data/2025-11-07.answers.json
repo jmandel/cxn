@@ -1,0 +1,43 @@
+{
+  "id": 918,
+  "print_date": "2025-11-07",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "TEXTILE PATTERNS",
+      "members": [
+        "ANIMAL PRINT",
+        "HERRINGBONE",
+        "HOUNDSTOOTH",
+        "POLKA DOT"
+      ]
+    },
+    {
+      "title": "GREEN CONDIMENTS",
+      "members": [
+        "CHIMICHURRI",
+        "PESTO",
+        "RELISH",
+        "SALSA VERDE"
+      ]
+    },
+    {
+      "title": "THINGS WITH HOLES IN THE MIDDLE",
+      "members": [
+        "BAGEL",
+        "HULA HOOP",
+        "INNER TUBE",
+        "WASHER"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE PURPLE",
+      "members": [
+        "BARNEY THE DINOSAUR",
+        "EGGPLANT",
+        "PEOPLE EATER",
+        "SWING STATE"
+      ]
+    }
+  ]
+}
