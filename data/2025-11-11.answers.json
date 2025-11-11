@@ -1,0 +1,43 @@
+{
+  "id": 927,
+  "print_date": "2025-11-11",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "MAKEUP",
+      "members": [
+        "BLUSH",
+        "FOUNDATION",
+        "HIGHLIGHTER",
+        "POWDER"
+      ]
+    },
+    {
+      "title": "BREADTH",
+      "members": [
+        "EXTENT",
+        "RANGE",
+        "SCALE",
+        "SCOPE"
+      ]
+    },
+    {
+      "title": "OBJECT USED FOR SUPPORT",
+      "members": [
+        "BASE",
+        "HOLDER",
+        "REST",
+        "STAND"
+      ]
+    },
+    {
+      "title": "ICONS ON AN IPHONE",
+      "members": [
+        "COMPASS",
+        "ENVELOPE",
+        "MUSIC NOTES",
+        "SPEECH BUBBLE"
+      ]
+    }
+  ]
+}
