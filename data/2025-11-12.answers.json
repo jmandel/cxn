@@ -1,0 +1,43 @@
+{
+  "id": 928,
+  "print_date": "2025-11-12",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SPORTS",
+      "members": [
+        "GOLF",
+        "JUDO",
+        "POLO",
+        "SUMO"
+      ]
+    },
+    {
+      "title": "DOOFUS",
+      "members": [
+        "BOZO",
+        "DODO",
+        "DOPE",
+        "YO-YO"
+      ]
+    },
+    {
+      "title": "ACRONYMS",
+      "members": [
+        "BOGO",
+        "FOMO",
+        "GOAT",
+        "YOLO"
+      ]
+    },
+    {
+      "title": "SPANISH WORDS",
+      "members": [
+        "COMO",
+        "LOCO",
+        "POCO",
+        "ROJO"
+      ]
+    }
+  ]
+}
