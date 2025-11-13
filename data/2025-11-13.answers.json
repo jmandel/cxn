@@ -1,0 +1,43 @@
+{
+  "id": 936,
+  "print_date": "2025-11-13",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ATTIRE",
+      "members": [
+        "DUDS",
+        "FIT",
+        "GETUP",
+        "THREADS"
+      ]
+    },
+    {
+      "title": "FOAMY THINGS",
+      "members": [
+        "BEER",
+        "FIRE EXTINGUISHER",
+        "SEA",
+        "SHAVING CREAM"
+      ]
+    },
+    {
+      "title": "THINGS THAT USE FILTERS",
+      "members": [
+        "AIR PURIFIER",
+        "CIGARETTE",
+        "COFFEE MAKER",
+        "INSTAGRAM"
+      ]
+    },
+    {
+      "title": "___ OFFICE",
+      "members": [
+        "BOX",
+        "MICROSOFT",
+        "OVAL",
+        "POST"
+      ]
+    }
+  ]
+}
