@@ -1,0 +1,43 @@
+{
+  "id": 930,
+  "print_date": "2025-11-14",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "EVALUATE",
+      "members": [
+        "GRADE",
+        "JUDGE",
+        "RATE",
+        "REVIEW"
+      ]
+    },
+    {
+      "title": "RADIO TUNING OPTIONS",
+      "members": [
+        "BAND",
+        "CHANNEL",
+        "FREQUENCY",
+        "STATION"
+      ]
+    },
+    {
+      "title": "ACTION FILM SUBGENRES",
+      "members": [
+        "BUDDY",
+        "DISASTER",
+        "MARTIAL ARTS",
+        "SUPERHERO"
+      ]
+    },
+    {
+      "title": "CLASSIC '90S ACTION FILMS",
+      "members": [
+        "ARMAGEDDON",
+        "HARD BOILED",
+        "HEAT",
+        "SPEED"
+      ]
+    }
+  ]
+}
