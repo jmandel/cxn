@@ -1,0 +1,43 @@
+{
+  "id": 933,
+  "print_date": "2025-11-16",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "TECHNIQUE",
+      "members": [
+        "APPROACH",
+        "METHOD",
+        "PHILOSOPHY",
+        "SCHOOL"
+      ]
+    },
+    {
+      "title": "RUN-OF-THE-MILL",
+      "members": [
+        "BANAL",
+        "EVERYDAY",
+        "HUMDRUM",
+        "PEDESTRIAN"
+      ]
+    },
+    {
+      "title": "STRIPY THINGS",
+      "members": [
+        "BARCODE",
+        "IBM LOGO",
+        "RUGBY SHIRT",
+        "ZEBRA"
+      ]
+    },
+    {
+      "title": "WORDS ON MONOPOLY SQUARES",
+      "members": [
+        "AVENUE",
+        "PARKING",
+        "RAILROAD",
+        "TAX"
+      ]
+    }
+  ]
+}
