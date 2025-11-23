@@ -1,0 +1,43 @@
+{
+  "id": 946,
+  "print_date": "2025-11-23",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "LENIENT",
+      "members": [
+        "EASY",
+        "LAX",
+        "LOOSE",
+        "SLACK"
+      ]
+    },
+    {
+      "title": "ANIMAL HOMES",
+      "members": [
+        "BURROW",
+        "DEN",
+        "LODGE",
+        "WARREN"
+      ]
+    },
+    {
+      "title": "OLIVER STONE MOVIES",
+      "members": [
+        "JFK",
+        "NIXON",
+        "PLATOON",
+        "WALL STREET"
+      ]
+    },
+    {
+      "title": "SECOND WORDS IN TITLES OF ABBA HITS",
+      "members": [
+        "GIMME",
+        "MIA",
+        "QUEEN",
+        "TROUPER"
+      ]
+    }
+  ]
+}
