@@ -1,0 +1,43 @@
+{
+  "id": 924,
+  "print_date": "2025-11-24",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SMALL KITCHEN APPLIANCES",
+      "members": [
+        "BLENDER",
+        "MICROWAVE",
+        "RICE COOKER",
+        "TOASTER"
+      ]
+    },
+    {
+      "title": "FEATURES OF A CAR'S CENTER CONSOLE",
+      "members": [
+        "AIR CONDITIONER",
+        "CUP HOLDER",
+        "RADIO",
+        "SHIFTER"
+      ]
+    },
+    {
+      "title": "SEEN WHILE GOING THROUGH AIRPORT SECURITY",
+      "members": [
+        "BIN",
+        "CARRY-ON",
+        "METAL DETECTOR",
+        "X-RAY"
+      ]
+    },
+    {
+      "title": "ENDING IN COLORS",
+      "members": [
+        "INFRARED",
+        "MARIGOLD",
+        "STINGRAY",
+        "ULTRAVIOLET"
+      ]
+    }
+  ]
+}
