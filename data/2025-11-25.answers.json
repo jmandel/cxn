@@ -1,0 +1,43 @@
+{
+  "id": 911,
+  "print_date": "2025-11-25",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SMALL-TIME",
+      "members": [
+        "MICKEY MOUSE",
+        "RINKY-DINK",
+        "TRIVIAL",
+        "TWO-BIT"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE PINK",
+      "members": [
+        "BARBIE DREAMHOUSE",
+        "CALAMINE LOTION",
+        "CHERRY BLOSSOM",
+        "FLAMINGO"
+      ]
+    },
+    {
+      "title": "THINGS YOU CAN SCRATCH",
+      "members": [
+        "BUG BITE",
+        "LOTTERY TICKET",
+        "VINYL RECORD",
+        "YOUR HEAD"
+      ]
+    },
+    {
+      "title": "STARTING WITH OPTIMISTIC WORDS",
+      "members": [
+        "GLAD-HAND",
+        "HAPPY MEAL",
+        "MERRY-GO-ROUND",
+        "SUNNY-SIDE UP"
+      ]
+    }
+  ]
+}
