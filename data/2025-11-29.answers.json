@@ -1,0 +1,43 @@
+{
+  "id": 950,
+  "print_date": "2025-11-29",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ABDOMINAL AREA",
+      "members": [
+        "CORE",
+        "MIDSECTION",
+        "TORSO",
+        "TRUNK"
+      ]
+    },
+    {
+      "title": "REPLACEMENT",
+      "members": [
+        "BACKUP",
+        "COVER",
+        "RELIEF",
+        "SUBSTITUTE"
+      ]
+    },
+    {
+      "title": "PARK STAPLES",
+      "members": [
+        "BENCH",
+        "PIGEON",
+        "STATUE",
+        "TREE"
+      ]
+    },
+    {
+      "title": "BLACKJACK TERMS",
+      "members": [
+        "BUST",
+        "HIT",
+        "SPLIT",
+        "STAND"
+      ]
+    }
+  ]
+}
