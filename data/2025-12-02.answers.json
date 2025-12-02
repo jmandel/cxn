@@ -1,0 +1,43 @@
+{
+  "id": 944,
+  "print_date": "2025-12-02",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "APPROXIMATE",
+      "members": [
+        "BALLPARK",
+        "BROAD",
+        "GENERAL",
+        "ROUGH"
+      ]
+    },
+    {
+      "title": "MILD OATHS",
+      "members": [
+        "FRICK",
+        "FUDGE",
+        "SHOOT",
+        "SUGAR"
+      ]
+    },
+    {
+      "title": "MLB PLAYER",
+      "members": [
+        "ANGEL",
+        "MET",
+        "RAY",
+        "ROYAL"
+      ]
+    },
+    {
+      "title": "FAMILY MEMBER NICKNAME PLUS A LETTER",
+      "members": [
+        "BROW",
+        "DADA",
+        "MOMA",
+        "SISI"
+      ]
+    }
+  ]
+}
