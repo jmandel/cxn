@@ -1,0 +1,43 @@
+{
+  "id": 953,
+  "print_date": "2025-12-03",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KINDS OF JEWELRY",
+      "members": [
+        "BANGLE",
+        "CHAIN",
+        "CHARM",
+        "RING"
+      ]
+    },
+    {
+      "title": "SOCIAL GATHERING",
+      "members": [
+        "EVENT",
+        "FUNCTION",
+        "PARTY",
+        "RECEPTION"
+      ]
+    },
+    {
+      "title": "PETITION (FOR)",
+      "members": [
+        "APPEAL",
+        "CAMPAIGN",
+        "LOBBY",
+        "PRESS"
+      ]
+    },
+    {
+      "title": "\"___ MAN\" SONGS FROM THE '70S",
+      "members": [
+        "IRON",
+        "MACHO",
+        "PIANO",
+        "ROCKET"
+      ]
+    }
+  ]
+}
