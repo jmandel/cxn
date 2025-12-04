@@ -1,0 +1,43 @@
+{
+  "id": 958,
+  "print_date": "2025-12-04",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CUDDLE",
+      "members": [
+        "DRAW CLOSE",
+        "HOLD TIGHT",
+        "NUZZLE",
+        "SPOON"
+      ]
+    },
+    {
+      "title": "IMBIBE",
+      "members": [
+        "GUZZLE",
+        "KNOCK BACK",
+        "POUND DOWN",
+        "SWILL"
+      ]
+    },
+    {
+      "title": "THINGS YOU ASSEMBLE",
+      "members": [
+        "IKEA FURNITURE",
+        "LEGO SET",
+        "MODEL",
+        "PUZZLE"
+      ]
+    },
+    {
+      "title": "SNOUTS",
+      "members": [
+        "BEAK",
+        "MUZZLE",
+        "PROBOSCIS",
+        "ROSTRUM"
+      ]
+    }
+  ]
+}
