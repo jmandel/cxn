@@ -1,0 +1,43 @@
+{
+  "id": 962,
+  "print_date": "2025-12-12",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CONTAIN",
+      "members": [
+        "HOLD",
+        "HOUSE",
+        "KEEP",
+        "STORE"
+      ]
+    },
+    {
+      "title": "MOVE IN THE WIND",
+      "members": [
+        "BLOW",
+        "FLAP",
+        "SWAY",
+        "WAVE"
+      ]
+    },
+    {
+      "title": "VEGETABLE UNITS",
+      "members": [
+        "BULB",
+        "EAR",
+        "HEAD",
+        "SPEAR"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE DIVIDED INTO TWELVE SEGMENTS",
+      "members": [
+        "CLOCK",
+        "FOOT",
+        "YEAR",
+        "ZODIAC"
+      ]
+    }
+  ]
+}
