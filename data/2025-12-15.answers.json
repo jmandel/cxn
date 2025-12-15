@@ -1,0 +1,43 @@
+{
+  "id": 974,
+  "print_date": "2025-12-15",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "TOURNAMENT ROUNDS",
+      "members": [
+        "FINAL",
+        "QUALIFIER",
+        "QUARTER",
+        "SEMI"
+      ]
+    },
+    {
+      "title": "ENORMOUS",
+      "members": [
+        "BUMPER",
+        "GIANT",
+        "MONSTER",
+        "TITANIC"
+      ]
+    },
+    {
+      "title": "DISREPUTABLE ESTABLISHMENT",
+      "members": [
+        "DIVE",
+        "DUMP",
+        "HOLE",
+        "JOINT"
+      ]
+    },
+    {
+      "title": "WHAT \"C\" MIGHT MEAN",
+      "members": [
+        "CELSIUS",
+        "COLD",
+        "ONE HUNDRED",
+        "SEE"
+      ]
+    }
+  ]
+}
