@@ -1,0 +1,43 @@
+{
+  "id": 943,
+  "print_date": "2025-12-16",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "DANCES",
+      "members": [
+        "BOLERO",
+        "FOXTROT",
+        "MAMBO",
+        "QUICKSTEP"
+      ]
+    },
+    {
+      "title": "DESCENDANTS",
+      "members": [
+        "BROOD",
+        "FAMILY",
+        "OFFSPRING",
+        "POSTERITY"
+      ]
+    },
+    {
+      "title": "HITCHCOCK MOVIES",
+      "members": [
+        "LIFEBOAT",
+        "ROPE",
+        "SPELLBOUND",
+        "SUSPICION"
+      ]
+    },
+    {
+      "title": "STARTING WITH PERCUSSION INSTRUMENTS",
+      "members": [
+        "BELLHOP",
+        "CHIMERA",
+        "DRUMROLL",
+        "RATTLESNAKE"
+      ]
+    }
+  ]
+}
