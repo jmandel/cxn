@@ -1,0 +1,43 @@
+{
+  "id": 956,
+  "print_date": "2025-12-17",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "HUMAN-POWERED WATERCRAFT",
+      "members": [
+        "DUGOUT",
+        "KAYAK",
+        "RAFT",
+        "SHELL"
+      ]
+    },
+    {
+      "title": "FLUSH",
+      "members": [
+        "EVEN",
+        "FLAT",
+        "LEVEL",
+        "PLANE"
+      ]
+    },
+    {
+      "title": "HONDA MODELS",
+      "members": [
+        "ACCORD",
+        "CIVIC",
+        "ODYSSEY",
+        "PILOT"
+      ]
+    },
+    {
+      "title": "BIBLICAL FIGURES PLUS STARTING LETTER",
+      "members": [
+        "FLUKE",
+        "LABEL",
+        "MADAM",
+        "TRUTH"
+      ]
+    }
+  ]
+}
