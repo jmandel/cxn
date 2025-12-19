@@ -1,0 +1,43 @@
+{
+  "id": 961,
+  "print_date": "2025-12-19",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FINDINGS",
+      "members": [
+        "DATA",
+        "DETAILS",
+        "INFORMATION",
+        "INTELLIGENCE"
+      ]
+    },
+    {
+      "title": "DINNER OPTIONS",
+      "members": [
+        "COOK",
+        "DELIVERY",
+        "GO OUT",
+        "LEFTOVERS"
+      ]
+    },
+    {
+      "title": "U.S. CABINET DEPARTMENTS",
+      "members": [
+        "COMMERCE",
+        "EDUCATION",
+        "ENERGY",
+        "LABOR"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF PLACES TO PARK A SHIP",
+      "members": [
+        "BIRTH",
+        "DOC",
+        "PEER",
+        "WORF"
+      ]
+    }
+  ]
+}
