@@ -1,0 +1,43 @@
+{
+  "id": 949,
+  "print_date": "2025-12-20",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CONTAINERS",
+      "members": [
+        "BUCKET",
+        "CAN",
+        "DRUM",
+        "TIN"
+      ]
+    },
+    {
+      "title": "LAUNDRY SERVICES",
+      "members": [
+        "DRY",
+        "FOLD",
+        "PRESS",
+        "WASH"
+      ]
+    },
+    {
+      "title": "BRITISH BANDS FORMED IN THE 1970S, WITH \"THE\"",
+      "members": [
+        "CLASH",
+        "CURE",
+        "DAMNED",
+        "FALL"
+      ]
+    },
+    {
+      "title": "ROCK ___",
+      "members": [
+        "BOTTOM",
+        "LOBSTER",
+        "MUSIC",
+        "SALT"
+      ]
+    }
+  ]
+}
