@@ -1,0 +1,43 @@
+{
+  "id": 976,
+  "print_date": "2025-12-21",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FEATURES OF A TEAPOT",
+      "members": [
+        "HANDLE",
+        "LID",
+        "SPOUT",
+        "STRAINER"
+      ]
+    },
+    {
+      "title": "LIBRARY SECTIONS",
+      "members": [
+        "CIRCULATION",
+        "PERIODICALS",
+        "REFERENCE",
+        "STACKS"
+      ]
+    },
+    {
+      "title": "ARISE",
+      "members": [
+        "EMERGE",
+        "FLOW",
+        "ISSUE",
+        "RESULT"
+      ]
+    },
+    {
+      "title": "___DROP",
+      "members": [
+        "AIR",
+        "EAVES",
+        "GUM",
+        "RAIN"
+      ]
+    }
+  ]
+}
