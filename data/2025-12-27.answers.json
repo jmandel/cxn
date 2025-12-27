@@ -1,0 +1,43 @@
+{
+  "id": 948,
+  "print_date": "2025-12-27",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "AIRLINE CLASSES",
+      "members": [
+        "BUSINESS",
+        "ECONOMY",
+        "FIRST",
+        "PREMIUM"
+      ]
+    },
+    {
+      "title": "ATTRIBUTE",
+      "members": [
+        "CITE",
+        "CREDIT",
+        "NAME",
+        "REFERENCE"
+      ]
+    },
+    {
+      "title": "VOCATION",
+      "members": [
+        "CALLING",
+        "CRAFT",
+        "LINE",
+        "TRADE"
+      ]
+    },
+    {
+      "title": "ENDING WITH ALCOHOLIC BEVERAGES",
+      "members": [
+        "DECIDER",
+        "NAMESAKE",
+        "REPORT",
+        "VILLAGER"
+      ]
+    }
+  ]
+}
