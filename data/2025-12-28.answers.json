@@ -1,0 +1,43 @@
+{
+  "id": 972,
+  "print_date": "2025-12-28",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CONTAINERS FOR SHIPPING",
+      "members": [
+        "BOX",
+        "ENVELOPE",
+        "MAILER",
+        "TUBE"
+      ]
+    },
+    {
+      "title": "UNMOVING",
+      "members": [
+        "CONSTANT",
+        "STATIC",
+        "STATIONARY",
+        "STILL"
+      ]
+    },
+    {
+      "title": "MECHANICAL WATCH PARTS",
+      "members": [
+        "GEAR",
+        "PAWL",
+        "RATCHET",
+        "SPRING"
+      ]
+    },
+    {
+      "title": "DOGS WITH FIRST LETTER CHANGED",
+      "members": [
+        "DUSKY",
+        "NOODLE",
+        "PERRIER",
+        "SOXER"
+      ]
+    }
+  ]
+}
