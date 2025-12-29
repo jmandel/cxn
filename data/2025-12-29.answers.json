@@ -1,0 +1,43 @@
+{
+  "id": 959,
+  "print_date": "2025-12-29",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "TENDENCY",
+      "members": [
+        "COURSE",
+        "DIRECTION",
+        "TIDE",
+        "TREND"
+      ]
+    },
+    {
+      "title": "BIOLOGICAL STRUCTURES",
+      "members": [
+        "CELL",
+        "GENE",
+        "PROTEIN",
+        "TISSUE"
+      ]
+    },
+    {
+      "title": "SUMMER OLYMPIC EVENTS",
+      "members": [
+        "ATHLETICS",
+        "EQUESTRIAN",
+        "SWIMMING",
+        "TRIATHLON"
+      ]
+    },
+    {
+      "title": "CAR BRAND HOMOPHONES",
+      "members": [
+        "INFINITY",
+        "MINNIE",
+        "OPAL",
+        "OUTIE"
+      ]
+    }
+  ]
+}
