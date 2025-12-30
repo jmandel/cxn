@@ -1,0 +1,43 @@
+{
+  "id": 994,
+  "print_date": "2025-12-30",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "INTENTION",
+      "members": [
+        "AIM",
+        "GOAL",
+        "OBJECT",
+        "POINT"
+      ]
+    },
+    {
+      "title": "MEASURING DEVICES",
+      "members": [
+        "CLOCK",
+        "COMPASS",
+        "RULER",
+        "SCALE"
+      ]
+    },
+    {
+      "title": "PARTS OF A FLIGHT",
+      "members": [
+        "CLIMB",
+        "TAKEOFF",
+        "TAXI",
+        "TOUCHDOWN"
+      ]
+    },
+    {
+      "title": "BIKE ACCESSORIES",
+      "members": [
+        "BASKET",
+        "BELL",
+        "RACK",
+        "REFLECTOR"
+      ]
+    }
+  ]
+}
