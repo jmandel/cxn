@@ -1,0 +1,43 @@
+{
+  "id": 970,
+  "print_date": "2026-01-02",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "WRITE",
+      "members": [
+        "JOT",
+        "LOG",
+        "NOTE",
+        "RECORD"
+      ]
+    },
+    {
+      "title": "SHTICK",
+      "members": [
+        "BIT",
+        "GAG",
+        "NUMBER",
+        "ROUTINE"
+      ]
+    },
+    {
+      "title": "BENCHMARK",
+      "members": [
+        "BAR",
+        "EXAMPLE",
+        "METRIC",
+        "STANDARD"
+      ]
+    },
+    {
+      "title": "VEGETABLES MINUS STARTING LETTER",
+      "members": [
+        "ALE",
+        "EEK",
+        "HIVE",
+        "QUASH"
+      ]
+    }
+  ]
+}
