@@ -1,0 +1,43 @@
+{
+  "id": 993,
+  "print_date": "2026-01-03",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ARMY RANKS",
+      "members": [
+        "CAPTAIN",
+        "GENERAL",
+        "MAJOR",
+        "PRIVATE"
+      ]
+    },
+    {
+      "title": "LEGWEAR IN THE SINGULAR",
+      "members": [
+        "JEAN",
+        "JOGGER",
+        "OVERALL",
+        "SLACK"
+      ]
+    },
+    {
+      "title": "RIHANNA #1 HITS",
+      "members": [
+        "DIAMONDS",
+        "SOS",
+        "UMBRELLA",
+        "WORK"
+      ]
+    },
+    {
+      "title": "WET ___",
+      "members": [
+        "BAR",
+        "BLANKET",
+        "NURSE",
+        "WILLY"
+      ]
+    }
+  ]
+}
