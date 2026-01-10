@@ -1,0 +1,43 @@
+{
+  "id": 999,
+  "print_date": "2026-01-10",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "HOLLOW CYLINDERS",
+      "members": [
+        "HOSE",
+        "PIPE",
+        "STRAW",
+        "TUBE"
+      ]
+    },
+    {
+      "title": "SOFTWARE PLATFORMS",
+      "members": [
+        "APP",
+        "DESKTOP",
+        "MOBILE",
+        "WEB"
+      ]
+    },
+    {
+      "title": "TAKE OFF",
+      "members": [
+        "BOOK",
+        "DIP",
+        "JET",
+        "SPLIT"
+      ]
+    },
+    {
+      "title": "UNITS OF MEASURE",
+      "members": [
+        "BAR",
+        "GRAM",
+        "MOLE",
+        "VOLT"
+      ]
+    }
+  ]
+}
