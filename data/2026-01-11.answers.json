@@ -1,0 +1,43 @@
+{
+  "id": 1001,
+  "print_date": "2026-01-11",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "GROUP",
+      "members": [
+        "BAND",
+        "CREW",
+        "PACK",
+        "TEAM"
+      ]
+    },
+    {
+      "title": "PLUNGE",
+      "members": [
+        "CRASH",
+        "CRATER",
+        "DROP",
+        "TANK"
+      ]
+    },
+    {
+      "title": "PARTS OF A SINK",
+      "members": [
+        "BASIN",
+        "DRAIN",
+        "FAUCET",
+        "STOPPER"
+      ]
+    },
+    {
+      "title": "EQUESTRIAN GEAR",
+      "members": [
+        "BIT",
+        "CROP",
+        "HALTER",
+        "SADDLE"
+      ]
+    }
+  ]
+}
