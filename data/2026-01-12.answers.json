@@ -1,0 +1,43 @@
+{
+  "id": 1000,
+  "print_date": "2026-01-12",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "LIVING ROOM FURNITURE",
+      "members": [
+        "ARMCHAIR",
+        "BOOKCASE",
+        "CONSOLE",
+        "FOOTSTOOL"
+      ]
+    },
+    {
+      "title": "EXPERIENCE LEVELS",
+      "members": [
+        "EXPERT",
+        "INTERMEDIATE",
+        "NOVICE",
+        "PROFICIENT"
+      ]
+    },
+    {
+      "title": "PROMISE",
+      "members": [
+        "AGREEMENT",
+        "COMPACT",
+        "HANDSHAKE",
+        "UNDERSTANDING"
+      ]
+    },
+    {
+      "title": "ENDING IN U.S. COINS",
+      "members": [
+        "CEFTAZIDIME",
+        "HEADQUARTER",
+        "MONEYPENNY",
+        "PUMPERNICKEL"
+      ]
+    }
+  ]
+}
