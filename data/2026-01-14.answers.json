@@ -1,0 +1,43 @@
+{
+  "id": 1011,
+  "print_date": "2026-01-14",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FIXED",
+      "members": [
+        "FAST",
+        "FIRM",
+        "SECURE",
+        "TIGHT"
+      ]
+    },
+    {
+      "title": "RECEIVER OF GOODS OR SERVICES",
+      "members": [
+        "ACCOUNT",
+        "CLIENT",
+        "CONSUMER",
+        "USER"
+      ]
+    },
+    {
+      "title": "STARTING WITH WEATHER CONDITIONS",
+      "members": [
+        "FROSTY",
+        "MISTLETOE",
+        "RAINMAKER",
+        "SNOWMAN"
+      ]
+    },
+    {
+      "title": "SILENT ___",
+      "members": [
+        "AUCTION",
+        "MOVIE",
+        "PARTNER",
+        "TREATMENT"
+      ]
+    }
+  ]
+}
