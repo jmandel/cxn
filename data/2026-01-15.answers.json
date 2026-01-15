@@ -1,0 +1,43 @@
+{
+  "id": 1004,
+  "print_date": "2026-01-15",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "GARDENING TOOLS",
+      "members": [
+        "HOSE",
+        "RAKE",
+        "SHOVEL",
+        "SPADE"
+      ]
+    },
+    {
+      "title": "UNMOVING",
+      "members": [
+        "FROZEN",
+        "STATIC",
+        "STATIONARY",
+        "STILL"
+      ]
+    },
+    {
+      "title": "THINGS THAT COME IN FLAKES",
+      "members": [
+        "CEREAL",
+        "DANDRUFF",
+        "SALT",
+        "SNOW"
+      ]
+    },
+    {
+      "title": "WORDS FORMED BY TWO MEN’S NAMES",
+      "members": [
+        "JACKAL",
+        "LEVITATE",
+        "MELTED",
+        "PATRON"
+      ]
+    }
+  ]
+}
