@@ -1,0 +1,43 @@
+{
+  "id": 1005,
+  "print_date": "2026-01-16",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KINDS OF HATS",
+      "members": [
+        "DERBY",
+        "FEDORA",
+        "PANAMA",
+        "PORKPIE"
+      ]
+    },
+    {
+      "title": "COMPONENTS OF A KID’S BEDTIME ROUTINE",
+      "members": [
+        "BATH",
+        "BRUSHING",
+        "PAJAMAS",
+        "STORY"
+      ]
+    },
+    {
+      "title": "MUSICAL ACTS WITH \"A\" AS THE ONLY VOWEL",
+      "members": [
+        "ALABAMA",
+        "BANANARAMA",
+        "KANSAS",
+        "SANTANA"
+      ]
+    },
+    {
+      "title": "GRAND ___",
+      "members": [
+        "BAHAMA",
+        "CANYON",
+        "SLAM",
+        "PIANO"
+      ]
+    }
+  ]
+}
