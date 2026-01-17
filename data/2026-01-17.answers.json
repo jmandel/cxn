@@ -1,0 +1,43 @@
+{
+  "id": 1009,
+  "print_date": "2026-01-17",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SPREAD OVER",
+      "members": [
+        "BLANKET",
+        "COAT",
+        "COVER",
+        "PLASTER"
+      ]
+    },
+    {
+      "title": "THROW",
+      "members": [
+        "CAST",
+        "HURL",
+        "PELT",
+        "SLING"
+      ]
+    },
+    {
+      "title": "ANAGRAMS",
+      "members": [
+        "INKS",
+        "KINS",
+        "SINK",
+        "SKIN"
+      ]
+    },
+    {
+      "title": "FIRST WORDS OF KIDS' GAMES",
+      "members": [
+        "CAPTURE",
+        "HIDE",
+        "RED",
+        "SIMON"
+      ]
+    }
+  ]
+}
