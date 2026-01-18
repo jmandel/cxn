@@ -1,0 +1,43 @@
+{
+  "id": 1012,
+  "print_date": "2026-01-18",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FEATURES OF A DUCK",
+      "members": [
+        "BILL",
+        "FEATHERS",
+        "WEBBING",
+        "WINGS"
+      ]
+    },
+    {
+      "title": "DESTROY",
+      "members": [
+        "BREAK",
+        "DAMAGE",
+        "TOTAL",
+        "WRECK"
+      ]
+    },
+    {
+      "title": "FOUND ON A BOOK JACKET",
+      "members": [
+        "AUTHOR",
+        "QUOTE",
+        "SYNOPSIS",
+        "TITLE"
+      ]
+    },
+    {
+      "title": "CLASSIC HOLLYWOOD ACTORS",
+      "members": [
+        "COOPER",
+        "GRANT",
+        "PECK",
+        "PRICE"
+      ]
+    }
+  ]
+}
