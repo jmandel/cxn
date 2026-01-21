@@ -1,0 +1,43 @@
+{
+  "id": 1014,
+  "print_date": "2026-01-21",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ITEMS TO RECYCLE",
+      "members": [
+        "BOTTLE",
+        "CAN",
+        "CARDBOARD BOX",
+        "NEWSPAPER"
+      ]
+    },
+    {
+      "title": "BEDDING",
+      "members": [
+        "BLANKET",
+        "SHAM",
+        "SHEET",
+        "THROW"
+      ]
+    },
+    {
+      "title": "PLAGIARIZE",
+      "members": [
+        "COPY",
+        "CRIB",
+        "LIFT",
+        "PIRATE"
+      ]
+    },
+    {
+      "title": "BATMAN'S \"BAT\" THINGS",
+      "members": [
+        "CAVE",
+        "MOBILE",
+        "SIGNAL",
+        "SUIT"
+      ]
+    }
+  ]
+}
