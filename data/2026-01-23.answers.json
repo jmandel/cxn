@@ -1,0 +1,43 @@
+{
+  "id": 1007,
+  "print_date": "2026-01-23",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FACIAL FEATURES",
+      "members": [
+        "CHEEK",
+        "EYE",
+        "LIP",
+        "TEMPLE"
+      ]
+    },
+    {
+      "title": "KINDS OF PARKING",
+      "members": [
+        "GARAGE",
+        "METER",
+        "STREET",
+        "VALET"
+      ]
+    },
+    {
+      "title": "IMPERIAL UNITS",
+      "members": [
+        "ACRE",
+        "BUSHEL",
+        "FOOT",
+        "STONE"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE \"LIGHT\"",
+      "members": [
+        "FLOOD",
+        "LIME",
+        "PILOT",
+        "TRAFFIC"
+      ]
+    }
+  ]
+}
