@@ -1,0 +1,43 @@
+{
+  "id": 1018,
+  "print_date": "2026-01-24",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "GEAR FOR A BOXER",
+      "members": [
+        "GLOVES",
+        "MOUTHGUARD",
+        "ROBE",
+        "SHORTS"
+      ]
+    },
+    {
+      "title": "CHAMPIONSHIP",
+      "members": [
+        "AWARD",
+        "CROWN",
+        "CUP",
+        "TITLE"
+      ]
+    },
+    {
+      "title": "KINDS OF NECKLINES",
+      "members": [
+        "BOAT",
+        "CREW",
+        "HALTER",
+        "SCOOP"
+      ]
+    },
+    {
+      "title": "SNOW ___",
+      "members": [
+        "CONE",
+        "GLOBE",
+        "LEOPARD",
+        "PEA"
+      ]
+    }
+  ]
+}
