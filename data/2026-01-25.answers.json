@@ -1,0 +1,43 @@
+{
+  "id": 1024,
+  "print_date": "2026-01-25",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ACT AS A BACKUP",
+      "members": [
+        "COVER",
+        "FILL IN",
+        "SUB",
+        "TEMP"
+      ]
+    },
+    {
+      "title": "PC KEYBOARD KEYS",
+      "members": [
+        "ALT",
+        "ENTER",
+        "MENU",
+        "WINDOWS"
+      ]
+    },
+    {
+      "title": "PASTA SHAPES",
+      "members": [
+        "BOWTIE",
+        "RIBBON",
+        "SHELL",
+        "TUBE"
+      ]
+    },
+    {
+      "title": "SUFFIXES",
+      "members": [
+        "ATE",
+        "DOM",
+        "HOOD",
+        "SHIP"
+      ]
+    }
+  ]
+}
