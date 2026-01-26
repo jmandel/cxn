@@ -1,0 +1,43 @@
+{
+  "id": 995,
+  "print_date": "2026-01-26",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "EXPLOIT",
+      "members": [
+        "DRAIN",
+        "FLEECE",
+        "MILK",
+        "SQUEEZE"
+      ]
+    },
+    {
+      "title": "DAUNT",
+      "members": [
+        "BUFFALO",
+        "COW",
+        "RATTLE",
+        "RUFFLE"
+      ]
+    },
+    {
+      "title": "ICONIC ACTRESSES",
+      "members": [
+        "CLOSE",
+        "FIELD",
+        "FOSTER",
+        "WEAVER"
+      ]
+    },
+    {
+      "title": "MAMMALS MINUS LAST LETTER",
+      "members": [
+        "BADGE",
+        "GOA",
+        "MOOS",
+        "RABBI"
+      ]
+    }
+  ]
+}
