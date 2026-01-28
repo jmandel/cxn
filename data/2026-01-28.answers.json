@@ -1,0 +1,43 @@
+{
+  "id": 1026,
+  "print_date": "2026-01-28",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "IMITATION",
+      "members": [
+        "DUMMY",
+        "MOCK",
+        "PRETEND",
+        "SHAM"
+      ]
+    },
+    {
+      "title": "CLEANING SUPPLIES",
+      "members": [
+        "BUCKET",
+        "GLOVES",
+        "RAG",
+        "SOAP"
+      ]
+    },
+    {
+      "title": "COMPONENTS OF A RECORD PLAYER",
+      "members": [
+        "MOTOR",
+        "NEEDLE",
+        "PLATTER",
+        "TONEARM"
+      ]
+    },
+    {
+      "title": "SPARE ___",
+      "members": [
+        "ME",
+        "RIB",
+        "TIME",
+        "TIRE"
+      ]
+    }
+  ]
+}
