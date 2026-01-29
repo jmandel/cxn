@@ -1,0 +1,43 @@
+{
+  "id": 1006,
+  "print_date": "2026-01-29",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "MAKEUP",
+      "members": [
+        "BRONZER",
+        "FOUNDATION",
+        "LINER",
+        "STAIN"
+      ]
+    },
+    {
+      "title": "FEATURED IN GOLDILOCKS AND THE THREE BEARS",
+      "members": [
+        "BEAR",
+        "BED",
+        "GOLDILOCKS",
+        "PORRIDGE"
+      ]
+    },
+    {
+      "title": "ENDING WITH DRINKING VESSELS",
+      "members": [
+        "FIBERGLASS",
+        "SILVERSTEIN",
+        "SMUG",
+        "STUMBLER"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF WORDS MEANING \"BRUTAL\"",
+      "members": [
+        "GOREY",
+        "GRIMM",
+        "GRIZZLY",
+        "SCARRY"
+      ]
+    }
+  ]
+}
