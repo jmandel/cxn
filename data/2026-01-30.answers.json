@@ -1,0 +1,43 @@
+{
+  "id": 1021,
+  "print_date": "2026-01-30",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "REGION",
+      "members": [
+        "AREA",
+        "CLUSTER",
+        "PATCH",
+        "POCKET"
+      ]
+    },
+    {
+      "title": "GROOMING ITEMS",
+      "members": [
+        "COMB",
+        "COMPACT",
+        "NAIL FILE",
+        "TWEEZERS"
+      ]
+    },
+    {
+      "title": "THINGS WITH ADHESIVE SURFACES",
+      "members": [
+        "BAND-AID",
+        "LINT ROLLER",
+        "STICKER",
+        "TAPE"
+      ]
+    },
+    {
+      "title": "___ HAND",
+      "members": [
+        "HELPING",
+        "MINUTE",
+        "POKER",
+        "UPPER"
+      ]
+    }
+  ]
+}
