@@ -1,0 +1,43 @@
+{
+  "id": 1023,
+  "print_date": "2026-01-31",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KINDS OF PARTIES",
+      "members": [
+        "BALL",
+        "MIXER",
+        "RECEPTION",
+        "SHOWER"
+      ]
+    },
+    {
+      "title": "WAYS TO APPLY PAINT",
+      "members": [
+        "BRUSH",
+        "PALETTE KNIFE",
+        "ROLLER",
+        "SPRAY CAN"
+      ]
+    },
+    {
+      "title": "Y-SHAPED THINGS",
+      "members": [
+        "SLINGSHOT",
+        "STETHOSCOPE",
+        "TUNING FORK",
+        "WISHBONE"
+      ]
+    },
+    {
+      "title": "WHAT \"SHIFT\" MIGHT REFER TO",
+      "members": [
+        "COMPUTER KEY",
+        "DRESS",
+        "FLUCTUATION",
+        "WORK PERIOD"
+      ]
+    }
+  ]
+}
