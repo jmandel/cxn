@@ -1,0 +1,43 @@
+{
+  "id": 1015,
+  "print_date": "2026-02-01",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PUBLICIZE",
+      "members": [
+        "BOOST",
+        "HYPE",
+        "PITCH",
+        "PLUG"
+      ]
+    },
+    {
+      "title": "KINDS OF SHOES",
+      "members": [
+        "CLOG",
+        "FLAT",
+        "MULE",
+        "WEDGE"
+      ]
+    },
+    {
+      "title": "ANTHEM",
+      "members": [
+        "BANGER",
+        "BOP",
+        "HEATER",
+        "JAM"
+      ]
+    },
+    {
+      "title": "MUSICAL INSTRUMENTS PLUS STARTING LETTER",
+      "members": [
+        "GLUTE",
+        "MORGAN",
+        "SHARP",
+        "THORN"
+      ]
+    }
+  ]
+}
