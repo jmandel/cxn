@@ -1,0 +1,43 @@
+{
+  "id": 1022,
+  "print_date": "2026-02-02",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "DURATION",
+      "members": [
+        "INTERVAL",
+        "PERIOD",
+        "SPAN",
+        "STRETCH"
+      ]
+    },
+    {
+      "title": "CREDENTIALS FOR ENTRY",
+      "members": [
+        "LANYARD",
+        "PASS",
+        "STAMP",
+        "WRISTBAND"
+      ]
+    },
+    {
+      "title": "MODERN CRIME SERIES PROTAGONISTS",
+      "members": [
+        "BOSCH",
+        "CROSS",
+        "REACHER",
+        "RYAN"
+      ]
+    },
+    {
+      "title": "TREES PLUS A LETTER",
+      "members": [
+        "FAIR",
+        "MARPLE",
+        "POPULAR",
+        "PSALM"
+      ]
+    }
+  ]
+}
