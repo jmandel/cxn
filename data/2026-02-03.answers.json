@@ -1,0 +1,43 @@
+{
+  "id": 1020,
+  "print_date": "2026-02-03",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CUT INTO PIECES",
+      "members": [
+        "CUBE",
+        "DICE",
+        "HASH",
+        "MINCE"
+      ]
+    },
+    {
+      "title": "PROVIDE WITH A PLACE TO STAY",
+      "members": [
+        "BOARD",
+        "HOUSE",
+        "LODGE",
+        "QUARTER"
+      ]
+    },
+    {
+      "title": "KINDS OF GOLF CLUBS",
+      "members": [
+        "IRON",
+        "PUTTER",
+        "WEDGE",
+        "WOOD"
+      ]
+    },
+    {
+      "title": "MEMORY ___",
+      "members": [
+        "CARD",
+        "FOAM",
+        "HOLE",
+        "LANE"
+      ]
+    }
+  ]
+}
