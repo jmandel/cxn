@@ -1,0 +1,43 @@
+{
+  "id": 1031,
+  "print_date": "2026-02-04",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CONTENTION",
+      "members": [
+        "CONFLICT",
+        "DISCORD",
+        "FRICTION",
+        "RIVALRY"
+      ]
+    },
+    {
+      "title": "GAMES OF CHANCE",
+      "members": [
+        "BINGO",
+        "CRAPS",
+        "LOTTERY",
+        "WAR"
+      ]
+    },
+    {
+      "title": "MORE OR LESS, COLLOQUIALLY",
+      "members": [
+        "APPROX",
+        "BOUT",
+        "LIKE",
+        "ROUND"
+      ]
+    },
+    {
+      "title": "STARTING WITH NBA TEAMS",
+      "members": [
+        "BULLSEYE",
+        "HEATED",
+        "MAGICAL",
+        "NETSCAPE"
+      ]
+    }
+  ]
+}
