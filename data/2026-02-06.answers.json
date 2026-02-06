@@ -1,0 +1,43 @@
+{
+  "id": 1017,
+  "print_date": "2026-02-06",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ITEMS AT A COFFEE STATION",
+      "members": [
+        "CUP",
+        "LID",
+        "STIRRER",
+        "STRAW"
+      ]
+    },
+    {
+      "title": "THINGS WITH STRIPES",
+      "members": [
+        "CANDY CANE",
+        "CROSSWALK",
+        "REFEREE",
+        "TIGER"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE \"FLY\" IN INSECT NAMES",
+      "members": [
+        "BUTTER",
+        "DRAGON",
+        "FIRE",
+        "HORSE"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF GREETINGS",
+      "members": [
+        "CHOW",
+        "HAY",
+        "HIGH",
+        "YEOH"
+      ]
+    }
+  ]
+}
