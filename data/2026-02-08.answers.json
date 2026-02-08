@@ -1,0 +1,43 @@
+{
+  "id": 1030,
+  "print_date": "2026-02-08",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SUPPRESS",
+      "members": [
+        "GAG",
+        "INHIBIT",
+        "MUZZLE",
+        "SILENCE"
+      ]
+    },
+    {
+      "title": "SAME OLD STUFF",
+      "members": [
+        "DRILL",
+        "GRIND",
+        "HABIT",
+        "ROUTINE"
+      ]
+    },
+    {
+      "title": "FEATURES OF A STRONG PASSWORD",
+      "members": [
+        "LENGTH",
+        "NUMBER",
+        "SYMBOL",
+        "UPPERCASE"
+      ]
+    },
+    {
+      "title": "WORDS AFTER \"TWO\"",
+      "members": [
+        "BIT",
+        "CENTS",
+        "FACED",
+        "TIMER"
+      ]
+    }
+  ]
+}
