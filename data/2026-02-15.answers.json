@@ -1,0 +1,43 @@
+{
+  "id": 1025,
+  "print_date": "2026-02-15",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "REFERENCE BOOKS",
+      "members": [
+        "ATLAS",
+        "DICTIONARY",
+        "ENCYCLOPEDIA",
+        "THESAURUS"
+      ]
+    },
+    {
+      "title": "SOMETHING THAT BRINGS BACK MEMORIES",
+      "members": [
+        "ECHO",
+        "REMINDER",
+        "TRACE",
+        "VESTIGE"
+      ]
+    },
+    {
+      "title": "KINDS OF COMPLEXES",
+      "members": [
+        "ELECTRA",
+        "INFERIORITY",
+        "OEDIPUS",
+        "SUPERIORITY"
+      ]
+    },
+    {
+      "title": "STARTING WITH WAYS TO REACH SOMEONE VIA PHONE",
+      "members": [
+        "BUZZARD",
+        "CALLIOPE",
+        "DIALECT",
+        "RINGMASTER"
+      ]
+    }
+  ]
+}
