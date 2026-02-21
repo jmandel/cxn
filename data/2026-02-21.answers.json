@@ -1,0 +1,43 @@
+{
+  "id": 1067,
+  "print_date": "2026-02-21",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "EXPERIENCE",
+      "members": [
+        "BACKGROUND",
+        "HISTORY",
+        "LIFE",
+        "PAST"
+      ]
+    },
+    {
+      "title": "ATTENDANCE STATUS",
+      "members": [
+        "ABSENT",
+        "EXCUSED",
+        "LATE",
+        "PRESENT"
+      ]
+    },
+    {
+      "title": "COMMENTARY ABOUT YOUR CONNECTIONS RESULTS",
+      "members": [
+        "GREAT",
+        "PERFECT",
+        "PHEW",
+        "SOLID"
+      ]
+    },
+    {
+      "title": "CAR BRANDS PLUS TWO LETTERS",
+      "members": [
+        "AUDITS",
+        "DODGERS",
+        "INFINITIVE",
+        "MINION"
+      ]
+    }
+  ]
+}
