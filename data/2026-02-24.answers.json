@@ -1,0 +1,43 @@
+{
+  "id": 1066,
+  "print_date": "2026-02-24",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CALCIUM-BASED STRUCTURES",
+      "members": [
+        "BONES",
+        "CORAL",
+        "SHELLS",
+        "TEETH"
+      ]
+    },
+    {
+      "title": "SYMBOLS OF SCOTLAND",
+      "members": [
+        "BAGPIPES",
+        "SCOTTIE",
+        "TARTAN",
+        "THISTLE"
+      ]
+    },
+    {
+      "title": "FAMOUS PLAYWRIGHTS",
+      "members": [
+        "CHEKHOV",
+        "COWARD",
+        "MILLER",
+        "SHAW"
+      ]
+    },
+    {
+      "title": "___ BEAM",
+      "members": [
+        "BALANCE",
+        "JIM",
+        "LASER",
+        "TRACTOR"
+      ]
+    }
+  ]
+}
