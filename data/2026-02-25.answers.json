@@ -1,0 +1,43 @@
+{
+  "id": 1076,
+  "print_date": "2026-02-25",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CARE FOR",
+      "members": [
+        "BABY",
+        "FOSTER",
+        "MOTHER",
+        "NURSE"
+      ]
+    },
+    {
+      "title": "ELEMENTARY",
+      "members": [
+        "BASIC",
+        "KEY",
+        "PRIMARY",
+        "PRINCIPAL"
+      ]
+    },
+    {
+      "title": "JAMESES",
+      "members": [
+        "BROWN",
+        "COOK",
+        "DEAN",
+        "HARDEN"
+      ]
+    },
+    {
+      "title": "ENDING IN FAMILY WORDS",
+      "members": [
+        "ALKALINE",
+        "DECLAN",
+        "DIATRIBE",
+        "NAPKIN"
+      ]
+    }
+  ]
+}
