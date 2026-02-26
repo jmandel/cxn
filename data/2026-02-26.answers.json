@@ -1,0 +1,43 @@
+{
+  "id": 1073,
+  "print_date": "2026-02-26",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PIVOTAL POINT",
+      "members": [
+        "CROSSROADS",
+        "LANDMARK",
+        "MILESTONE",
+        "WATERSHED"
+      ]
+    },
+    {
+      "title": "GREEN THINGS",
+      "members": [
+        "GRASSHOPPER",
+        "SHAMROCK",
+        "STATUE OF LIBERTY",
+        "WASABI"
+      ]
+    },
+    {
+      "title": "ELEMENTS OF JOKE-TELLING",
+      "members": [
+        "CALLBACK",
+        "PUNCHLINE",
+        "SETUP",
+        "TIMING"
+      ]
+    },
+    {
+      "title": "\"___ PLEASE\"",
+      "members": [
+        "ATTENTION",
+        "CHECK",
+        "DRUMROLL",
+        "PRETTY"
+      ]
+    }
+  ]
+}
