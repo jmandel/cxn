@@ -1,0 +1,43 @@
+{
+  "id": 1075,
+  "print_date": "2026-03-01",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "LITTLE BITE",
+      "members": [
+        "CANAPÉ",
+        "FINGER FOOD",
+        "HORS D'OEUVRE",
+        "TAPA"
+      ]
+    },
+    {
+      "title": "CONSTRUCTION EQUIPMENT",
+      "members": [
+        "HARD HAT",
+        "LADDER",
+        "NAIL GUN",
+        "TOOL BELT"
+      ]
+    },
+    {
+      "title": "VACATION EMOJI",
+      "members": [
+        "AIRPLANE",
+        "LUGGAGE",
+        "PALM TREE",
+        "SMILING FACE WITH SUNGLASSES"
+      ]
+    },
+    {
+      "title": "THINGS YOU DON'T EAT THAT END IN FOODS",
+      "members": [
+        "COPYPASTA",
+        "JOHANNESBURGER",
+        "KNUCKLE SANDWICH",
+        "LICORICE PIZZA"
+      ]
+    }
+  ]
+}
