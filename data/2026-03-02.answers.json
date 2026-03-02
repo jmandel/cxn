@@ -1,0 +1,43 @@
+{
+  "id": 1071,
+  "print_date": "2026-03-02",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "GYMNASTICS APPARATUS",
+      "members": [
+        "BEAM",
+        "HORSE",
+        "RINGS",
+        "VAULT"
+      ]
+    },
+    {
+      "title": "STATUS",
+      "members": [
+        "POSITION",
+        "RANK",
+        "STANDING",
+        "STATION"
+      ]
+    },
+    {
+      "title": "BASEBALL CALLS",
+      "members": [
+        "BALL",
+        "FOUL",
+        "SAFE",
+        "STRIKE"
+      ]
+    },
+    {
+      "title": "___ CHICKEN",
+      "members": [
+        "FUNKY",
+        "POPCORN",
+        "RUBBER",
+        "SPRING"
+      ]
+    }
+  ]
+}
