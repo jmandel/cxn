@@ -1,0 +1,43 @@
+{
+  "id": 1081,
+  "print_date": "2026-03-04",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PURSUE",
+      "members": [
+        "HOUND",
+        "SHADOW",
+        "TAIL",
+        "TRACK"
+      ]
+    },
+    {
+      "title": "SPORTSMANLIKE",
+      "members": [
+        "FAIR",
+        "HONEST",
+        "SPORTING",
+        "SQUARE"
+      ]
+    },
+    {
+      "title": "CLASSIC KID GIFTS",
+      "members": [
+        "BIKE",
+        "BOOK",
+        "TOY",
+        "VIDEO GAME"
+      ]
+    },
+    {
+      "title": "\"___ GIRL\" TITLES",
+      "members": [
+        "GONE",
+        "GOSSIP",
+        "NEW",
+        "WORKING"
+      ]
+    }
+  ]
+}
