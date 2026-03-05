@@ -1,0 +1,43 @@
+{
+  "id": 1078,
+  "print_date": "2026-03-05",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "BITS OF HARDWARE",
+      "members": [
+        "BOLT",
+        "NUT",
+        "SCREW",
+        "WASHER"
+      ]
+    },
+    {
+      "title": "PLACES WHERE IDEAS ARE DEVELOPED",
+      "members": [
+        "INCUBATOR",
+        "LAB",
+        "SANDBOX",
+        "TEST BED"
+      ]
+    },
+    {
+      "title": "GO BACK AND FORTH",
+      "members": [
+        "ALTERNATE",
+        "SEESAW",
+        "SWITCH",
+        "TOGGLE"
+      ]
+    },
+    {
+      "title": "WHAT \"SUB\" MIGHT REFER TO",
+      "members": [
+        "BELOW",
+        "HERO",
+        "REPLACEMENT",
+        "SUBMARINE"
+      ]
+    }
+  ]
+}
