@@ -1,0 +1,43 @@
+{
+  "id": 1080,
+  "print_date": "2026-03-06",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FREELOADER",
+      "members": [
+        "LEECH",
+        "MOOCH",
+        "PARASITE",
+        "SPONGE"
+      ]
+    },
+    {
+      "title": "CONCEALING COVER",
+      "members": [
+        "BLANKET",
+        "CLOAK",
+        "CURTAIN",
+        "LAYER"
+      ]
+    },
+    {
+      "title": "WAYS ONE MIGHT REFER TO #",
+      "members": [
+        "HASH",
+        "NUMBER",
+        "POUND",
+        "SHARP"
+      ]
+    },
+    {
+      "title": "WORDS FOR LUCIDITY, IN THE SINGULAR",
+      "members": [
+        "FACULTY",
+        "MARBLE",
+        "SENSE",
+        "WIT"
+      ]
+    }
+  ]
+}
