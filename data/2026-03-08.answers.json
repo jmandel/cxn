@@ -1,0 +1,43 @@
+{
+  "id": 1083,
+  "print_date": "2026-03-08",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CITIES",
+      "members": [
+        "LIMA",
+        "NICE",
+        "OSAKA",
+        "PHOENIX"
+      ]
+    },
+    {
+      "title": "PALINDROMES",
+      "members": [
+        "EYE",
+        "REFER",
+        "ROTATOR",
+        "SELES"
+      ]
+    },
+    {
+      "title": "HORROR MOVIES MINUS \"S\"",
+      "members": [
+        "GREMLIN",
+        "JAW",
+        "SINNER",
+        "TREMOR"
+      ]
+    },
+    {
+      "title": "STARTING WITH SLANG FOR ZERO",
+      "members": [
+        "JACKET",
+        "NADAL",
+        "SQUATTER",
+        "ZIPPER"
+      ]
+    }
+  ]
+}
