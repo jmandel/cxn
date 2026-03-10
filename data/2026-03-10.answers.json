@@ -1,0 +1,43 @@
+{
+  "id": 1082,
+  "print_date": "2026-03-10",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "COOK WITH DRY HEAT",
+      "members": [
+        "BROWN",
+        "ROAST",
+        "SEAR",
+        "TOAST"
+      ]
+    },
+    {
+      "title": "FAMILIAL NICKNAMES",
+      "members": [
+        "CUZ",
+        "GRAM",
+        "POP",
+        "UNC"
+      ]
+    },
+    {
+      "title": "U.S. STATE ABBREVIATIONS",
+      "members": [
+        "MASS",
+        "MISS",
+        "PENN",
+        "WASH"
+      ]
+    },
+    {
+      "title": "PUNCH",
+      "members": [
+        "BOX",
+        "DUKE",
+        "SLUG",
+        "SOCK"
+      ]
+    }
+  ]
+}
