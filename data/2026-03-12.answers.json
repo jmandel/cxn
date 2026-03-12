@@ -1,0 +1,43 @@
+{
+  "id": 1086,
+  "print_date": "2026-03-12",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PLACES TO FIND SAND",
+      "members": [
+        "BUNKER",
+        "DESERT",
+        "HOURGLASS",
+        "SANDBOX"
+      ]
+    },
+    {
+      "title": "THINGS THAT MOVE BACK AND FORTH",
+      "members": [
+        "METRONOME",
+        "PENDULUM",
+        "SWING",
+        "WINDSHIELD WIPER"
+      ]
+    },
+    {
+      "title": "APPARATUS-BASED EXERCISE CLASSES",
+      "members": [
+        "BARRE",
+        "REFORMER",
+        "SPIN",
+        "STEP"
+      ]
+    },
+    {
+      "title": "FEATURING BIRDS",
+      "members": [
+        "CUCKOO CLOCK",
+        "FROOT LOOPS",
+        "MEXICAN FLAG",
+        "WEATHER VANE"
+      ]
+    }
+  ]
+}
