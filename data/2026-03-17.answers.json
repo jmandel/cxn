@@ -1,0 +1,43 @@
+{
+  "id": 1094,
+  "print_date": "2026-03-17",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "METAPHORS FOR TROUBLE",
+      "members": [
+        "BIND",
+        "HOT WATER",
+        "JAM",
+        "PICKLE"
+      ]
+    },
+    {
+      "title": "MUSIC THEORY CONCEPTS",
+      "members": [
+        "KEY",
+        "PITCH",
+        "SCALE",
+        "TONE"
+      ]
+    },
+    {
+      "title": "THINGS WITH STRINGS",
+      "members": [
+        "BALLOON",
+        "KITE",
+        "TEA BAG",
+        "YO-YO"
+      ]
+    },
+    {
+      "title": "METAPHORS FOR QUICKNESS",
+      "members": [
+        "ARROW",
+        "LIGHTNING",
+        "ROCKET",
+        "WIND"
+      ]
+    }
+  ]
+}
