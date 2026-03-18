@@ -1,0 +1,43 @@
+{
+  "id": 1093,
+  "print_date": "2026-03-18",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "INTERVAL",
+      "members": [
+        "PATCH",
+        "PERIOD",
+        "SPELL",
+        "STRETCH"
+      ]
+    },
+    {
+      "title": "REACT TO A STUBBED TOE",
+      "members": [
+        "CURSE",
+        "HOP",
+        "WINCE",
+        "YELL"
+      ]
+    },
+    {
+      "title": "GUITAR EFFECTS PEDALS",
+      "members": [
+        "DELAY",
+        "REVERB",
+        "WAH",
+        "WHAMMY"
+      ]
+    },
+    {
+      "title": "___ CHECK",
+      "members": [
+        "BLANK",
+        "COAT",
+        "RAIN",
+        "REALITY"
+      ]
+    }
+  ]
+}
