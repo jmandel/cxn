@@ -1,0 +1,43 @@
+{
+  "id": 1085,
+  "print_date": "2026-03-19",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FOLK TALE CHARACTERS",
+      "members": [
+        "CHICKEN LITTLE",
+        "FROG PRINCE",
+        "GINGERBREAD MAN",
+        "GOLDILOCKS"
+      ]
+    },
+    {
+      "title": "GOOD LUCK SYMBOLS",
+      "members": [
+        "EVIL EYE",
+        "FOUR-LEAF CLOVER",
+        "HORSESHOE",
+        "RABBIT'S FOOT"
+      ]
+    },
+    {
+      "title": "THINGS THAT CHANGE COLOR",
+      "members": [
+        "CHAMELEON",
+        "MOOD RING",
+        "SUNSET",
+        "TRAFFIC LIGHT"
+      ]
+    },
+    {
+      "title": "ENDING IN MUSIC GENRES",
+      "members": [
+        "BABY BLUES",
+        "PET ROCK",
+        "SCRAP METAL",
+        "SODA POP"
+      ]
+    }
+  ]
+}
