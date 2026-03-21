@@ -1,0 +1,43 @@
+{
+  "id": 1098,
+  "print_date": "2026-03-21",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "DIRECT",
+      "members": [
+        "BLUNT",
+        "FRANK",
+        "PLAIN",
+        "STRAIGHT"
+      ]
+    },
+    {
+      "title": "TARGET",
+      "members": [
+        "GOAL",
+        "MARK",
+        "OBJECT",
+        "POINT"
+      ]
+    },
+    {
+      "title": "CHECKERS TERMS",
+      "members": [
+        "CAPTURE",
+        "CROWN",
+        "JUMP",
+        "KING"
+      ]
+    },
+    {
+      "title": "20TH CENTURY AMERICAN POETS",
+      "members": [
+        "BISHOP",
+        "FROST",
+        "POUND",
+        "RICH"
+      ]
+    }
+  ]
+}
