@@ -1,0 +1,43 @@
+{
+  "id": 1101,
+  "print_date": "2026-03-25",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "OBFUSCATE",
+      "members": [
+        "BLUR",
+        "CLOUD",
+        "MUDDY",
+        "OBSCURE"
+      ]
+    },
+    {
+      "title": "MAGAZINES",
+      "members": [
+        "FORTUNE",
+        "PEOPLE",
+        "SPIN",
+        "TIME"
+      ]
+    },
+    {
+      "title": "PAYMENT METHODS",
+      "members": [
+        "CASH",
+        "CHARGE",
+        "CHECK",
+        "WIRE"
+      ]
+    },
+    {
+      "title": "UNITS OF VOLUME WITH LAST LETTER CHANGED",
+      "members": [
+        "CUR",
+        "GALLOP",
+        "PING",
+        "QUARK"
+      ]
+    }
+  ]
+}
