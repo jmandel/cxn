@@ -1,0 +1,43 @@
+{
+  "id": 1100,
+  "print_date": "2026-03-26",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FOOD PROCUREMENT METHODS",
+      "members": [
+        "AGRICULTURE",
+        "FISHING",
+        "GATHERING",
+        "HUNTING"
+      ]
+    },
+    {
+      "title": "MEMBER OF A DETROIT SPORTS TEAM",
+      "members": [
+        "LION",
+        "PISTON",
+        "RED WING",
+        "TIGER"
+      ]
+    },
+    {
+      "title": "FEATURES OF A CLASSIC VOTING BOOTH",
+      "members": [
+        "BALLOT",
+        "BOOTH",
+        "CURTAIN",
+        "LEVER"
+      ]
+    },
+    {
+      "title": "THEY HAVE BOLTS",
+      "members": [
+        "FRANKENSTEIN'S MONSTER",
+        "HARDWARE STORE",
+        "LIGHTNING",
+        "LOCK"
+      ]
+    }
+  ]
+}
