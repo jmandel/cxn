@@ -1,0 +1,43 @@
+{
+  "id": 1108,
+  "print_date": "2026-03-28",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "STEP ONTO, AS A VEHICLE",
+      "members": [
+        "BOARD",
+        "EMBARK",
+        "ENTER",
+        "MOUNT"
+      ]
+    },
+    {
+      "title": "QUANTITIES IN MECHANICS",
+      "members": [
+        "ACCELERATION",
+        "FORCE",
+        "MASS",
+        "MOMENTUM"
+      ]
+    },
+    {
+      "title": "TEXTBOOK IMAGES",
+      "members": [
+        "FIGURE",
+        "ILLUSTRATION",
+        "PICTURE",
+        "PLATE"
+      ]
+    },
+    {
+      "title": "___ PLANT",
+      "members": [
+        "FACE",
+        "PITCHER",
+        "POWER",
+        "ROBERT"
+      ]
+    }
+  ]
+}
