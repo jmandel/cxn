@@ -1,0 +1,43 @@
+{
+  "id": 1110,
+  "print_date": "2026-03-30",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "IMITATION",
+      "members": [
+        "DUMMY",
+        "ERSATZ",
+        "FAUX",
+        "MOCK"
+      ]
+    },
+    {
+      "title": "PLAY AROUND (WITH)",
+      "members": [
+        "FUTZ",
+        "MESS",
+        "TINKER",
+        "TOY"
+      ]
+    },
+    {
+      "title": "CAR RENTAL COMPANIES",
+      "members": [
+        "AVIS",
+        "BUDGET",
+        "DOLLAR",
+        "HERTZ"
+      ]
+    },
+    {
+      "title": "SNACK BRANDS PLUS STARTING LETTER",
+      "members": [
+        "FRITZ",
+        "PLAYS",
+        "TRUFFLES",
+        "YUTZ"
+      ]
+    }
+  ]
+}
