@@ -1,0 +1,43 @@
+{
+  "id": 1111,
+  "print_date": "2026-04-01",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "BEER BRANDS",
+      "members": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "title": "ROCK BANDS",
+      "members": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "title": "MOVIES",
+      "members": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "title": "U.S. CITY NICKNAMES",
+      "members": [
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ]
+}
