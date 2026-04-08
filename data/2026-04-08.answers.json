@@ -1,0 +1,43 @@
+{
+  "id": 1116,
+  "print_date": "2026-04-08",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "COHORT MEMBER",
+      "members": [
+        "ASSOCIATE",
+        "COLLEAGUE",
+        "FELLOW",
+        "PEER"
+      ]
+    },
+    {
+      "title": "AESTHETIC",
+      "members": [
+        "DESIGN",
+        "LOOK",
+        "SCHEME",
+        "STYLE"
+      ]
+    },
+    {
+      "title": "KINDS OF BAR APPARATUSES",
+      "members": [
+        "MONKEY",
+        "PARALLEL",
+        "PULL-UP",
+        "UNEVEN"
+      ]
+    },
+    {
+      "title": "EYEWEAR IN THE SINGULAR",
+      "members": [
+        "CONTACT",
+        "GOGGLE",
+        "SHADE",
+        "SPECTACLE"
+      ]
+    }
+  ]
+}
