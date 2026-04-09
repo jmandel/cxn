@@ -1,0 +1,43 @@
+{
+  "id": 1112,
+  "print_date": "2026-04-09",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "GLOOMY",
+      "members": [
+        "BLUE",
+        "DARK",
+        "DOWN",
+        "LOW"
+      ]
+    },
+    {
+      "title": "OINTMENT",
+      "members": [
+        "BALM",
+        "CREAM",
+        "PASTE",
+        "RUB"
+      ]
+    },
+    {
+      "title": "ZODIAC SYMBOLS",
+      "members": [
+        "ARCHER",
+        "FISH",
+        "GOAT",
+        "RAM"
+      ]
+    },
+    {
+      "title": "MUSCULAR, MINUS \"ED\" SOUND",
+      "members": [
+        "JACK",
+        "RIP",
+        "SHRED",
+        "YOKE"
+      ]
+    }
+  ]
+}
