@@ -1,0 +1,43 @@
+{
+  "id": 1115,
+  "print_date": "2026-04-10",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PEPPERS",
+      "members": [
+        "BELL PEPPER",
+        "CAROLINA REAPER",
+        "CHIPOTLE",
+        "PEPPERONCINO"
+      ]
+    },
+    {
+      "title": "THINGS THAT POP UP",
+      "members": [
+        "EJECTOR SEAT",
+        "JACK-IN-THE-BOX",
+        "POP-UP BOOK",
+        "TOASTER"
+      ]
+    },
+    {
+      "title": "DESCRIPTORS FOR SWISS CHEESE",
+      "members": [
+        "FIRM",
+        "HOLEY",
+        "NUTTY",
+        "SWISS"
+      ]
+    },
+    {
+      "title": "BLUE CHARACTERS",
+      "members": [
+        "BLUE",
+        "GENIE",
+        "GONZO",
+        "SONIC"
+      ]
+    }
+  ]
+}
