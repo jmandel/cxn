@@ -1,0 +1,43 @@
+{
+  "id": 1125,
+  "print_date": "2026-04-12",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PANTS FEATURES",
+      "members": [
+        "BELT LOOP",
+        "CUFF",
+        "FLY",
+        "POCKET"
+      ]
+    },
+    {
+      "title": "PERSPECTIVE",
+      "members": [
+        "ANGLE",
+        "POSITION",
+        "STANCE",
+        "TAKE"
+      ]
+    },
+    {
+      "title": "EMIT",
+      "members": [
+        "CAST",
+        "PROJECT",
+        "RADIATE",
+        "SHED"
+      ]
+    },
+    {
+      "title": "___ DOLL",
+      "members": [
+        "PAPER",
+        "RAG",
+        "RUSSIAN",
+        "TROLL"
+      ]
+    }
+  ]
+}
