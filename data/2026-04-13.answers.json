@@ -1,0 +1,43 @@
+{
+  "id": 1113,
+  "print_date": "2026-04-13",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SEEN OUTSIDE A THEATER",
+      "members": [
+        "BOX OFFICE",
+        "MARQUEE",
+        "TICKET LINE",
+        "VELVET ROPE"
+      ]
+    },
+    {
+      "title": "ACCESSORIES FOR A MAGICIAN",
+      "members": [
+        "CAPE",
+        "HANDKERCHIEF",
+        "MAGIC WAND",
+        "RABBIT"
+      ]
+    },
+    {
+      "title": "TV SHOW TITLE SURNAMES",
+      "members": [
+        "HOUSE",
+        "LASSO",
+        "MONTANA",
+        "SOPRANO"
+      ]
+    },
+    {
+      "title": "THEY HAVE CAPS",
+      "members": [
+        "BASEBALL PLAYER",
+        "CAMERA LENS",
+        "MUSHROOM",
+        "PEN"
+      ]
+    }
+  ]
+}
