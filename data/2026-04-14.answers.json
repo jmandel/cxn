@@ -1,0 +1,43 @@
+{
+  "id": 1123,
+  "print_date": "2026-04-14",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "THINGS STORED BY A BROWSER",
+      "members": [
+        "BOOKMARK",
+        "CACHE",
+        "COOKIE",
+        "HISTORY"
+      ]
+    },
+    {
+      "title": "BOXING TERMS",
+      "members": [
+        "BELL",
+        "GLOVES",
+        "RING",
+        "ROUND"
+      ]
+    },
+    {
+      "title": "TILT",
+      "members": [
+        "LEAN",
+        "LIST",
+        "PITCH",
+        "TIP"
+      ]
+    },
+    {
+      "title": "FREE___",
+      "members": [
+        "LANCE",
+        "MASON",
+        "STYLE",
+        "WAY"
+      ]
+    }
+  ]
+}
