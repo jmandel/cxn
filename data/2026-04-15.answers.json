@@ -1,0 +1,43 @@
+{
+  "id": 1119,
+  "print_date": "2026-04-15",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "GRADUATION GEAR",
+      "members": [
+        "CAP",
+        "DIPLOMA",
+        "GOWN",
+        "TASSEL"
+      ]
+    },
+    {
+      "title": "TEDIOUS UNDERTAKING",
+      "members": [
+        "CHORE",
+        "GRIND",
+        "HASSLE",
+        "TRIAL"
+      ]
+    },
+    {
+      "title": "OVERSIMPLISTIC",
+      "members": [
+        "FACILE",
+        "FLIP",
+        "SHALLOW",
+        "TRITE"
+      ]
+    },
+    {
+      "title": "SHAPES OF CHESS PIECES",
+      "members": [
+        "CASTLE",
+        "CROWN",
+        "HORSE",
+        "MITER"
+      ]
+    }
+  ]
+}
