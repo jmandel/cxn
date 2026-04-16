@@ -1,0 +1,43 @@
+{
+  "id": 1120,
+  "print_date": "2026-04-16",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "TEASE",
+      "members": [
+        "NEEDLE",
+        "RIB",
+        "RIDE",
+        "ROAST"
+      ]
+    },
+    {
+      "title": "THERMOSTAT SETTINGS",
+      "members": [
+        "AUTO",
+        "COOL",
+        "FAN",
+        "HEAT"
+      ]
+    },
+    {
+      "title": "FEATURES OF A CATWOMAN COSTUME",
+      "members": [
+        "BODYSUIT",
+        "CLAWS",
+        "MASK",
+        "WHIP"
+      ]
+    },
+    {
+      "title": "TRAINING ___",
+      "members": [
+        "BRA",
+        "CAMP",
+        "DAY",
+        "WHEELS"
+      ]
+    }
+  ]
+}
