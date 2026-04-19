@@ -1,0 +1,43 @@
+{
+  "id": 1122,
+  "print_date": "2026-04-19",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CHEEKY",
+      "members": [
+        "ARCH",
+        "FRESH",
+        "SASSY",
+        "WISE"
+      ]
+    },
+    {
+      "title": "DRESS MEASUREMENTS",
+      "members": [
+        "BUST",
+        "HIPS",
+        "LENGTH",
+        "WAIST"
+      ]
+    },
+    {
+      "title": "CARDS IN TEXAS HOLD 'EM",
+      "members": [
+        "FLOP",
+        "HOLE",
+        "RIVER",
+        "TURN"
+      ]
+    },
+    {
+      "title": "LAST WORDS OF CANDY BRANDS IN THE SINGULAR",
+      "members": [
+        "CAP",
+        "DUD",
+        "KID",
+        "MINT"
+      ]
+    }
+  ]
+}
