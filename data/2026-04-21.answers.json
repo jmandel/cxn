@@ -1,0 +1,43 @@
+{
+  "id": 1127,
+  "print_date": "2026-04-21",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "AMBLE (IN)",
+      "members": [
+        "BREEZE",
+        "MOSEY",
+        "STROLL",
+        "WALTZ"
+      ]
+    },
+    {
+      "title": "BALDERDASH",
+      "members": [
+        "BALONEY",
+        "BILGE",
+        "BULL",
+        "BUNK"
+      ]
+    },
+    {
+      "title": "KINDS OF BAGS",
+      "members": [
+        "CROSSBODY",
+        "HOBO",
+        "MESSENGER",
+        "SADDLE"
+      ]
+    },
+    {
+      "title": "STARTS OF ONE-WORD JAMES BOND MOVIE TITLES",
+      "members": [
+        "GOLD",
+        "MOON",
+        "OCTOPUS",
+        "THUNDER"
+      ]
+    }
+  ]
+}
