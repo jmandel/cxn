@@ -1,0 +1,43 @@
+{
+  "id": 1128,
+  "print_date": "2026-04-22",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "POTTERY EQUIPMENT",
+      "members": [
+        "CLAY",
+        "GLAZE",
+        "KILN",
+        "WHEEL"
+      ]
+    },
+    {
+      "title": "WALLOP",
+      "members": [
+        "DECK",
+        "PUNCH",
+        "SLUG",
+        "SOCK"
+      ]
+    },
+    {
+      "title": "WORDS PRONOUNCED DIFFERENT WAYS AS PROPER NOUNS",
+      "members": [
+        "HERB",
+        "NICE",
+        "POLISH",
+        "READING"
+      ]
+    },
+    {
+      "title": "PICK-UP ___",
+      "members": [
+        "ARTIST",
+        "GAME",
+        "STICKS",
+        "TRUCK"
+      ]
+    }
+  ]
+}
