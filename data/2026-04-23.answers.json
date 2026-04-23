@@ -1,0 +1,43 @@
+{
+  "id": 1121,
+  "print_date": "2026-04-23",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "BORDER",
+      "members": [
+        "FLANK",
+        "NEIGHBOR",
+        "SKIRT",
+        "TOUCH"
+      ]
+    },
+    {
+      "title": "KINDS OF FICTION",
+      "members": [
+        "HISTORICAL",
+        "LITERARY",
+        "PULP",
+        "SCIENCE"
+      ]
+    },
+    {
+      "title": "WORDS IN A PLANETARY MNEMONIC",
+      "members": [
+        "EDUCATED",
+        "MOTHER",
+        "MY",
+        "VERY"
+      ]
+    },
+    {
+      "title": "STARTING WITH FOUR-LETTER '80S BANDS",
+      "members": [
+        "ASIAGO",
+        "DEVOTE",
+        "TOTORO",
+        "WHAMMY"
+      ]
+    }
+  ]
+}
