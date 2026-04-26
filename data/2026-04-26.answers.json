@@ -1,0 +1,43 @@
+{
+  "id": 1140,
+  "print_date": "2026-04-26",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "STIPULATION",
+      "members": [
+        "CATCH",
+        "CAVEAT",
+        "FINE PRINT",
+        "STRINGS"
+      ]
+    },
+    {
+      "title": "VOCAL CHARACTERISTICS",
+      "members": [
+        "PITCH",
+        "RANGE",
+        "REGISTER",
+        "TONE"
+      ]
+    },
+    {
+      "title": "CHARACTERS IN \"DICK AND JANE\"",
+      "members": [
+        "DICK",
+        "JANE",
+        "MOTHER",
+        "SPOT"
+      ]
+    },
+    {
+      "title": "THINGS WITH FACES",
+      "members": [
+        "BUILDING",
+        "CLIFF",
+        "CLOCK",
+        "POLYHEDRON"
+      ]
+    }
+  ]
+}
