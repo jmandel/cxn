@@ -1,0 +1,43 @@
+{
+  "id": 1090,
+  "print_date": "2026-04-27",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SALAD INGREDIENTS",
+      "members": [
+        "RANCH DRESSING",
+        "RED ONION",
+        "ROASTED CHICKEN",
+        "ROMAINE LETTUCE"
+      ]
+    },
+    {
+      "title": "CLASSIC FILMS",
+      "members": [
+        "RAIN MAN",
+        "REAR WINDOW",
+        "RESERVOIR DOGS",
+        "ROMAN HOLIDAY"
+      ]
+    },
+    {
+      "title": "\"THE SIMPSONS\" CHARACTERS",
+      "members": [
+        "RADIOACTIVE MAN",
+        "RALPH WIGGUM",
+        "REVEREND LOVEJOY",
+        "ROD FLANDERS"
+      ]
+    },
+    {
+      "title": "ENDING IN NBA PLAYERS",
+      "members": [
+        "RAGING BULL",
+        "REGINA KING",
+        "ROE BUCK",
+        "ROTARY CLIPPER"
+      ]
+    }
+  ]
+}
