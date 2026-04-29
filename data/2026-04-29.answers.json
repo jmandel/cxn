@@ -1,0 +1,43 @@
+{
+  "id": 1137,
+  "print_date": "2026-04-29",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "STEP IN A PROCESS",
+      "members": [
+        "LEVEL",
+        "PHASE",
+        "ROUND",
+        "STAGE"
+      ]
+    },
+    {
+      "title": "SOUND LIKE THUNDER",
+      "members": [
+        "BOOM",
+        "CLAP",
+        "ROLL",
+        "RUMBLE"
+      ]
+    },
+    {
+      "title": "KINDS OF PUPPETS",
+      "members": [
+        "HAND",
+        "SHADOW",
+        "SOCK",
+        "STRING"
+      ]
+    },
+    {
+      "title": "STANDING ___",
+      "members": [
+        "JOKE",
+        "ORDERS",
+        "OVATION",
+        "ROOM"
+      ]
+    }
+  ]
+}
