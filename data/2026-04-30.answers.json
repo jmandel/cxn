@@ -1,0 +1,43 @@
+{
+  "id": 1136,
+  "print_date": "2026-04-30",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "UNNERVE",
+      "members": [
+        "ALARM",
+        "DISTURB",
+        "SHAKE",
+        "SHOCK"
+      ]
+    },
+    {
+      "title": "REMOVE, AS AN ITEM FROM A LIST, WITH \"OFF\"",
+      "members": [
+        "CHECK",
+        "CROSS",
+        "MARK",
+        "TICK"
+      ]
+    },
+    {
+      "title": "WHAT \"T\" MIGHT STAND FOR",
+      "members": [
+        "TESLA",
+        "TIME",
+        "TRUE",
+        "TYRANNOSAURUS"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF POSSESSIVE ADJECTIVES",
+      "members": [
+        "HOUR",
+        "HUR",
+        "THERE",
+        "YORE"
+      ]
+    }
+  ]
+}
