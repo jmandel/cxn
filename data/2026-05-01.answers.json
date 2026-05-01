@@ -1,0 +1,43 @@
+{
+  "id": 1135,
+  "print_date": "2026-05-01",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "MAKE GLOSSY",
+      "members": [
+        "BUFF",
+        "POLISH",
+        "SHINE",
+        "WAX"
+      ]
+    },
+    {
+      "title": "TRANSLUSCENT GOLDEN THINGS",
+      "members": [
+        "ALE",
+        "AMBER",
+        "CITRINE",
+        "HONEY"
+      ]
+    },
+    {
+      "title": "FEATURES OF A BIRD'S HEAD",
+      "members": [
+        "BEAK",
+        "COMB",
+        "CREST",
+        "WATTLE"
+      ]
+    },
+    {
+      "title": "NUMBERS WITH FIRST LETTER CHANGED",
+      "members": [
+        "HIVE",
+        "MIX",
+        "POUR",
+        "WIGHT"
+      ]
+    }
+  ]
+}
