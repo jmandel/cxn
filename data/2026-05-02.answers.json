@@ -1,0 +1,43 @@
+{
+  "id": 1124,
+  "print_date": "2026-05-02",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CLAIRVOYANT",
+      "members": [
+        "EXTRASENSORY",
+        "MENTAL",
+        "PSYCHIC",
+        "TELEPATHIC"
+      ]
+    },
+    {
+      "title": "STAGED PERFORMANCES",
+      "members": [
+        "BALLET",
+        "MUSICAL",
+        "OPERA",
+        "PLAY"
+      ]
+    },
+    {
+      "title": "U.S. CABINET DEPARTMENTS",
+      "members": [
+        "EDUCATION",
+        "INTERIOR",
+        "STATE",
+        "TREASURY"
+      ]
+    },
+    {
+      "title": "STARTING WITH NEWSPAPER NAMES",
+      "members": [
+        "GLOBETROTTER",
+        "HERALDRY",
+        "POST-IT",
+        "TIMES TABLES"
+      ]
+    }
+  ]
+}
