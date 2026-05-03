@@ -1,0 +1,43 @@
+{
+  "id": 1134,
+  "print_date": "2026-05-03",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "HOME STRUCTURES",
+      "members": [
+        "GARAGE",
+        "HOUSE",
+        "PORCH",
+        "SHED"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH 1960S COUNTERCULTURE",
+      "members": [
+        "ACID",
+        "COMMUNE",
+        "FREE LOVE",
+        "HIPPIE"
+      ]
+    },
+    {
+      "title": "FAMOUS REVOLUTIONS IN HISTORY",
+      "members": [
+        "FRENCH",
+        "GREEN",
+        "INDUSTRIAL",
+        "SEXUAL"
+      ]
+    },
+    {
+      "title": "GESTURES MADE WITH THE INDEX AND MIDDLE FINGERS",
+      "members": [
+        "AIR QUOTES",
+        "BUNNY EARS",
+        "FINGERS CROSSED",
+        "PEACE"
+      ]
+    }
+  ]
+}
