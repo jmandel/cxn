@@ -1,0 +1,43 @@
+{
+  "id": 1146,
+  "print_date": "2026-05-07",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FISHING GEAR",
+      "members": [
+        "FLY",
+        "HOOK",
+        "LINE",
+        "NET"
+      ]
+    },
+    {
+      "title": "MULTITUDE",
+      "members": [
+        "DROVE",
+        "HOST",
+        "MASS",
+        "PACK"
+      ]
+    },
+    {
+      "title": "COMMIT A BASKETBALL INFRACTION",
+      "members": [
+        "CARRY",
+        "DOUBLE-DRIBBLE",
+        "GOALTEND",
+        "TRAVEL"
+      ]
+    },
+    {
+      "title": "CONTROLLED WITH UP/DOWN BUTTONS",
+      "members": [
+        "CAR WINDOW",
+        "CHANNEL",
+        "ELEVATOR",
+        "VOLUME"
+      ]
+    }
+  ]
+}
