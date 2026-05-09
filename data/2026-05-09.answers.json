@@ -1,0 +1,43 @@
+{
+  "id": 1144,
+  "print_date": "2026-05-09",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "UNITS OF TV PROGRAMS",
+      "members": [
+        "EPISODE",
+        "FRANCHISE",
+        "SEASON",
+        "SERIES"
+      ]
+    },
+    {
+      "title": "THINGS WORN AROUND THE NECK",
+      "members": [
+        "BOA",
+        "CHAIN",
+        "LANYARD",
+        "TIE"
+      ]
+    },
+    {
+      "title": "STRINGS TIED IN KNOTS",
+      "members": [
+        "FRIENDSHIP BRACELET",
+        "MACRAMÉ",
+        "QUIPU",
+        "SHOELACES"
+      ]
+    },
+    {
+      "title": "___ PIECE",
+      "members": [
+        "CONVERSATION",
+        "PERIOD",
+        "PUFF",
+        "THINK"
+      ]
+    }
+  ]
+}
