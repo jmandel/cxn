@@ -1,0 +1,43 @@
+{
+  "id": 1141,
+  "print_date": "2026-05-10",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "MUSIC PLAYER BUTTONS",
+      "members": [
+        "PLAY",
+        "REPEAT",
+        "SHUFFLE",
+        "SKIP"
+      ]
+    },
+    {
+      "title": "DESTINED",
+      "members": [
+        "BOUND",
+        "CERTAIN",
+        "FATED",
+        "SURE"
+      ]
+    },
+    {
+      "title": "VERBS IN MAKING A MOJITO",
+      "members": [
+        "GARNISH",
+        "MUDDLE",
+        "POUR",
+        "STIR"
+      ]
+    },
+    {
+      "title": "WHAT \"SPRING\" MIGHT REFER TO",
+      "members": [
+        "COIL",
+        "FOUNTAIN",
+        "LEAP",
+        "SEASON"
+      ]
+    }
+  ]
+}
