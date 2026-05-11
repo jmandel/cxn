@@ -1,0 +1,43 @@
+{
+  "id": 1145,
+  "print_date": "2026-05-11",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "MOVE STEALTHILY, WITH \"IN\"",
+      "members": [
+        "CREEP",
+        "SLIP",
+        "SNEAK",
+        "STEAL"
+      ]
+    },
+    {
+      "title": "KINDS OF SCHEMES",
+      "members": [
+        "COLOR",
+        "PONZI",
+        "PYRAMID",
+        "RHYME"
+      ]
+    },
+    {
+      "title": "DETECTIVE MOVIES",
+      "members": [
+        "CHINATOWN",
+        "KNIVES OUT",
+        "SEVEN",
+        "VERTIGO"
+      ]
+    },
+    {
+      "title": "BODY PARTS SURROUNDED BY TWO LETTERS",
+      "members": [
+        "ELEGY",
+        "KARMA",
+        "KEYED",
+        "SHANDY"
+      ]
+    }
+  ]
+}
