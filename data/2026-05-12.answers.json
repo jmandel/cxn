@@ -1,0 +1,43 @@
+{
+  "id": 1154,
+  "print_date": "2026-05-12",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SUBSTANTIAL BOOK",
+      "members": [
+        "OPUS",
+        "TOME",
+        "VOLUME",
+        "WORK"
+      ]
+    },
+    {
+      "title": "\"SAINT\" CITIES",
+      "members": [
+        "MONICA",
+        "PAULO",
+        "PETERSBURG",
+        "SALVADOR"
+      ]
+    },
+    {
+      "title": "\"LONG\" THINGS",
+      "members": [
+        "DISTANCE",
+        "DIVISION",
+        "JOHNS",
+        "WEEKEND"
+      ]
+    },
+    {
+      "title": "CURRENCIES PLUS A LETTER",
+      "members": [
+        "FRANCI",
+        "RANDO",
+        "REALM",
+        "WONK"
+      ]
+    }
+  ]
+}
