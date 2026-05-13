@@ -1,0 +1,43 @@
+{
+  "id": 1150,
+  "print_date": "2026-05-13",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "LONG SANDWICH",
+      "members": [
+        "GRINDER",
+        "HERO",
+        "HOAGIE",
+        "SUB"
+      ]
+    },
+    {
+      "title": "PRETEXT",
+      "members": [
+        "ARGUMENT",
+        "BASIS",
+        "CAUSE",
+        "GROUNDS"
+      ]
+    },
+    {
+      "title": "SMARTPHONE PHOTO EDITING OPTIONS",
+      "members": [
+        "ADJUST",
+        "CROP",
+        "FILTERS",
+        "MARKUP"
+      ]
+    },
+    {
+      "title": "JELLY ___",
+      "members": [
+        "BEAN",
+        "BELLY",
+        "DONUT",
+        "ROLL"
+      ]
+    }
+  ]
+}
