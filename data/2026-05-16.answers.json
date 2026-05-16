@@ -1,0 +1,43 @@
+{
+  "id": 1149,
+  "print_date": "2026-05-16",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "GLASSWARE",
+      "members": [
+        "COUPE",
+        "FLUTE",
+        "STEIN",
+        "TUMBLER"
+      ]
+    },
+    {
+      "title": "MESS AROUND (WITH)",
+      "members": [
+        "FIDDLE",
+        "MESS",
+        "PLAY",
+        "TINKER"
+      ]
+    },
+    {
+      "title": "MUSIC PERFORMANCE DIRECTIONS",
+      "members": [
+        "ALLEGRO",
+        "FORTE",
+        "LARGO",
+        "PIANO"
+      ]
+    },
+    {
+      "title": "ENDING IN SYNONYMS FOR \"ASAP\"",
+      "members": [
+        "BASSOON",
+        "BELFAST",
+        "NESQUICK",
+        "THERMOSTAT"
+      ]
+    }
+  ]
+}
