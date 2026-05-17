@@ -1,0 +1,43 @@
+{
+  "id": 1148,
+  "print_date": "2026-05-17",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CONDUIT",
+      "members": [
+        "DUCT",
+        "LINE",
+        "MAIN",
+        "PIPE"
+      ]
+    },
+    {
+      "title": "SWINDLE",
+      "members": [
+        "FLEECE",
+        "HOSE",
+        "SQUEEZE",
+        "STIFF"
+      ]
+    },
+    {
+      "title": "TEA-MAKING VERBS",
+      "members": [
+        "BOIL",
+        "POUR",
+        "STEEP",
+        "STRAIN"
+      ]
+    },
+    {
+      "title": "\"SCHOOL\" MODIFIERS",
+      "members": [
+        "GRADE",
+        "GRAMMAR",
+        "HIGH",
+        "PRIMARY"
+      ]
+    }
+  ]
+}
