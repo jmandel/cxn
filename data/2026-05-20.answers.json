@@ -1,0 +1,43 @@
+{
+  "id": 1157,
+  "print_date": "2026-05-20",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "STOVE KNOB SETTINGS",
+      "members": [
+        "HIGH",
+        "MEDIUM",
+        "OFF",
+        "SIMMER"
+      ]
+    },
+    {
+      "title": "POTENCY",
+      "members": [
+        "CONCENTRATION",
+        "FORCE",
+        "INTENSITY",
+        "MIGHT"
+      ]
+    },
+    {
+      "title": "MUSIC THEORY CONCEPTS",
+      "members": [
+        "INTERVAL",
+        "KEY",
+        "MODE",
+        "SCALE"
+      ]
+    },
+    {
+      "title": "\"___ DAY\" MOVIES",
+      "members": [
+        "GROUNDHOG",
+        "INDEPENDENCE",
+        "THE LONGEST",
+        "TRAINING"
+      ]
+    }
+  ]
+}
