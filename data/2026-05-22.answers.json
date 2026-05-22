@@ -1,0 +1,43 @@
+{
+  "id": 1153,
+  "print_date": "2026-05-22",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "REACH BACK OUT",
+      "members": [
+        "CHECK IN",
+        "FOLLOW UP",
+        "RECONNECT",
+        "TOUCH BASE"
+      ]
+    },
+    {
+      "title": "THE WAY THINGS ARE DONE",
+      "members": [
+        "CONVENTION",
+        "CUSTOM",
+        "SOCIAL NORM",
+        "UNWRITTEN RULE"
+      ]
+    },
+    {
+      "title": "PLACES WITH CONVEYOR BELTS",
+      "members": [
+        "ASSEMBLY LINE",
+        "BAGGAGE CLAIM",
+        "CHECKOUT LANE",
+        "REVOLVING SUSHI BAR"
+      ]
+    },
+    {
+      "title": "STARTING WITH NAME HOMOPHONES",
+      "members": [
+        "CARRY-ON",
+        "EL NIÑO",
+        "LOOSEY-GOOSEY",
+        "TAILOR-MADE"
+      ]
+    }
+  ]
+}
