@@ -1,0 +1,43 @@
+{
+  "id": 1160,
+  "print_date": "2026-05-23",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "HAIRDOS",
+      "members": [
+        "BEEHIVE",
+        "BOUFFANT",
+        "CHIGNON",
+        "POMPADOUR"
+      ]
+    },
+    {
+      "title": "MORE READILY",
+      "members": [
+        "FIRST",
+        "PREFERABLY",
+        "RATHER",
+        "SOONER"
+      ]
+    },
+    {
+      "title": "MARVEL CHARACTERS",
+      "members": [
+        "DAREDEVIL",
+        "HAWKEYE",
+        "NIGHTCRAWLER",
+        "WOLVERINE"
+      ]
+    },
+    {
+      "title": "WORDS AFTER \"THE\" IN \"STAR WARS\" MOVIE TITLES",
+      "members": [
+        "EMPIRE",
+        "FORCE",
+        "LAST",
+        "PHANTOM"
+      ]
+    }
+  ]
+}
