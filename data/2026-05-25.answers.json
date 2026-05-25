@@ -1,0 +1,43 @@
+{
+  "id": 1163,
+  "print_date": "2026-05-25",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "COMMON PROMO ITEMS",
+      "members": [
+        "CAP",
+        "PIN",
+        "SHIRT",
+        "STICKER"
+      ]
+    },
+    {
+      "title": "TINY BIT",
+      "members": [
+        "JOT",
+        "SCRAP",
+        "SHRED",
+        "WHIT"
+      ]
+    },
+    {
+      "title": "TEXTING ABBREVIATIONS",
+      "members": [
+        "ATM",
+        "CYA",
+        "LOL",
+        "TIA"
+      ]
+    },
+    {
+      "title": "EYE___",
+      "members": [
+        "BALL",
+        "BROW",
+        "LASH",
+        "LID"
+      ]
+    }
+  ]
+}
