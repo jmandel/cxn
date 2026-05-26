@@ -1,0 +1,43 @@
+{
+  "id": 1155,
+  "print_date": "2026-05-26",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CHAMPIONSHIP AWARDS",
+      "members": [
+        "CUP",
+        "MEDAL",
+        "PENNANT",
+        "RING"
+      ]
+    },
+    {
+      "title": "MATTER AT HAND",
+      "members": [
+        "CONCERN",
+        "FOCUS",
+        "POINT",
+        "SUBJECT"
+      ]
+    },
+    {
+      "title": "'80S COMEDIES",
+      "members": [
+        "AIRPLANE",
+        "BIG",
+        "CLUE",
+        "TWINS"
+      ]
+    },
+    {
+      "title": "ANAGRAMS",
+      "members": [
+        "ENLIST",
+        "LISTEN",
+        "SILENT",
+        "TINSEL"
+      ]
+    }
+  ]
+}
