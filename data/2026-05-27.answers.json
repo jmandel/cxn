@@ -1,0 +1,43 @@
+{
+  "id": 1159,
+  "print_date": "2026-05-27",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SMALL COMMUNITY",
+      "members": [
+        "COMMUNE",
+        "HAMLET",
+        "TOWNSHIP",
+        "VILLAGE"
+      ]
+    },
+    {
+      "title": "CLASSIC BOARD GAMES",
+      "members": [
+        "BATTLESHIP",
+        "OPERATION",
+        "OTHELLO",
+        "TROUBLE"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF WAYS OF LOOKING",
+      "members": [
+        "AYE",
+        "LEAR",
+        "PIER",
+        "STAIR"
+      ]
+    },
+    {
+      "title": "ENDING IN THE \"LITTLE WOMEN\" MARCH SISTERS",
+      "members": [
+        "BANJO",
+        "MACBETH",
+        "MONOGAMY",
+        "NUTMEG"
+      ]
+    }
+  ]
+}
