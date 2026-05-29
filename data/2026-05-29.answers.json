@@ -1,0 +1,43 @@
+{
+  "id": 1164,
+  "print_date": "2026-05-29",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "OCEANS",
+      "members": [
+        "ARCTIC",
+        "ATLANTIC",
+        "PACIFIC",
+        "SOUTHERN"
+      ]
+    },
+    {
+      "title": "SOURCES OF DISTINCTIVE SMELLS",
+      "members": [
+        "AMMONIA",
+        "BO",
+        "DURIAN",
+        "WET DOG"
+      ]
+    },
+    {
+      "title": "KINDS OF ROOMS IN A MANSION",
+      "members": [
+        "BILLIARD",
+        "DRAWING",
+        "POWDER",
+        "READING"
+      ]
+    },
+    {
+      "title": "WHAT \"PA\" MIGHT REFER TO",
+      "members": [
+        "FATHER",
+        "PENNSYLVANIA",
+        "PROTACTINIUM",
+        "PUBLIC ADDRESS"
+      ]
+    }
+  ]
+}
