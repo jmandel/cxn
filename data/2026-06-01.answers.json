@@ -1,0 +1,43 @@
+{
+  "id": 1167,
+  "print_date": "2026-06-01",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ROOM FEATURES",
+      "members": [
+        "CEILING",
+        "DOOR",
+        "WALL",
+        "WINDOW"
+      ]
+    },
+    {
+      "title": "OLD-TIMEY LOUNGING ACCESSORIES",
+      "members": [
+        "NEWSPAPER",
+        "PIPE",
+        "ROBE",
+        "SLIPPERS"
+      ]
+    },
+    {
+      "title": "SUBJECTS IN TENNESSEE WILLIAMS TITLES",
+      "members": [
+        "STREETCAR",
+        "CAT",
+        "MENAGERIE",
+        "TATTOO"
+      ]
+    },
+    {
+      "title": "___ RING",
+      "members": [
+        "KEY",
+        "ONION",
+        "TREE",
+        "WEDDING"
+      ]
+    }
+  ]
+}
