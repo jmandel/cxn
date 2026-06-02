@@ -1,0 +1,43 @@
+{
+  "id": 1173,
+  "print_date": "2026-06-02",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CLANDESTINE",
+      "members": [
+        "CLOAK-AND-DAGGER",
+        "COVERT",
+        "HUSH-HUSH",
+        "TOP SECRET"
+      ]
+    },
+    {
+      "title": "BRITISH POTATO DISHES",
+      "members": [
+        "BUBBLE AND SQUEAK",
+        "CHIPS",
+        "JACKET POTATO",
+        "MASH"
+      ]
+    },
+    {
+      "title": "HERALDIC ACHIEVEMENTS",
+      "members": [
+        "COAT OF ARMS",
+        "CREST",
+        "HELMET",
+        "SHIELD"
+      ]
+    },
+    {
+      "title": "ENDING IN MODAL AUXILIARY VERBS",
+      "members": [
+        "CAPE MAY",
+        "FREE WILL",
+        "GRAPE MUST",
+        "TIN CAN"
+      ]
+    }
+  ]
+}
