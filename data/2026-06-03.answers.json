@@ -1,0 +1,43 @@
+{
+  "id": 1170,
+  "print_date": "2026-06-03",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KINDS OF RICE",
+      "members": [
+        "BROWN",
+        "JASMINE",
+        "STICKY",
+        "SUSHI"
+      ]
+    },
+    {
+      "title": "GUMMY BEAR DESCRIPTORS",
+      "members": [
+        "COLORFUL",
+        "GUMMY",
+        "SUGARY",
+        "URSINE"
+      ]
+    },
+    {
+      "title": "SAVORY STUFFED PASTRIES",
+      "members": [
+        "EMPANADA",
+        "FATAYER",
+        "PASTY",
+        "SAMOSA"
+      ]
+    },
+    {
+      "title": "DISNEY PRINCESSES MINUS LAST LETTER",
+      "members": [
+        "ARIE",
+        "BELL",
+        "MOAN",
+        "RAY"
+      ]
+    }
+  ]
+}
