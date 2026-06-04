@@ -1,0 +1,43 @@
+{
+  "id": 1162,
+  "print_date": "2026-06-04",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PAINTING MEDIA",
+      "members": [
+        "ACRYLIC",
+        "GOUACHE",
+        "OIL",
+        "TEMPERA"
+      ]
+    },
+    {
+      "title": "ESPRIT",
+      "members": [
+        "GUSTO",
+        "PANACHE",
+        "VERVE",
+        "VINEGAR"
+      ]
+    },
+    {
+      "title": "STARTS OF CLASSIC HIP-HOP GROUPS",
+      "members": [
+        "BEASTIE",
+        "PUBLIC",
+        "RUN",
+        "SALT"
+      ]
+    },
+    {
+      "title": "GHOST ___",
+      "members": [
+        "KITCHEN",
+        "PEPPER",
+        "TOWN",
+        "WRITER"
+      ]
+    }
+  ]
+}
