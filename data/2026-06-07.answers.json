@@ -1,0 +1,43 @@
+{
+  "id": 1171,
+  "print_date": "2026-06-07",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "TRANSLUCENT, AS FABRIC",
+      "members": [
+        "GAUZY",
+        "GOSSAMER",
+        "SHEER",
+        "THIN"
+      ]
+    },
+    {
+      "title": "SPEAK",
+      "members": [
+        "EXPRESS",
+        "STATE",
+        "UTTER",
+        "VOICE"
+      ]
+    },
+    {
+      "title": "DEMOLISH",
+      "members": [
+        "GUT",
+        "LEVEL",
+        "TOTAL",
+        "TRASH"
+      ]
+    },
+    {
+      "title": "MUSIC GENRE SUFFIXES",
+      "members": [
+        "CORE",
+        "POP",
+        "STEP",
+        "WAVE"
+      ]
+    }
+  ]
+}
