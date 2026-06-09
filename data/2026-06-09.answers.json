@@ -1,0 +1,43 @@
+{
+  "id": 1179,
+  "print_date": "2026-06-09",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SYMBOLS OF INNOCENCE",
+      "members": [
+        "ANGEL",
+        "BABE",
+        "DOVE",
+        "LAMB"
+      ]
+    },
+    {
+      "title": "THINGS YOU'RE NOT SUPPOSED TO REVEAL",
+      "members": [
+        "PASSWORD",
+        "SECRET",
+        "SPOILER",
+        "SURPRISE"
+      ]
+    },
+    {
+      "title": "THINGS REPRESENTED IN SUPERSCRIPT",
+      "members": [
+        "ASTERISK",
+        "DEGREE",
+        "EXPONENT",
+        "TRADEMARK"
+      ]
+    },
+    {
+      "title": "SLANG FOR MUSICAL INSTRUMENTS",
+      "members": [
+        "AXE",
+        "BONE",
+        "KEYS",
+        "SKINS"
+      ]
+    }
+  ]
+}
