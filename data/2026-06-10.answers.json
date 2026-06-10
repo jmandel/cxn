@@ -1,0 +1,43 @@
+{
+  "id": 1176,
+  "print_date": "2026-06-10",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "TECHNIQUE",
+      "members": [
+        "FASHION",
+        "MANNER",
+        "METHOD",
+        "WAY"
+      ]
+    },
+    {
+      "title": "GROSS THINGS THAT FORM ON WET SURFACES",
+      "members": [
+        "CRUST",
+        "FILM",
+        "SCUM",
+        "SKIN"
+      ]
+    },
+    {
+      "title": "PARTS OF A THEATER",
+      "members": [
+        "CATWALK",
+        "PIT",
+        "STAGE",
+        "WINGS"
+      ]
+    },
+    {
+      "title": "COUNTED IN DOCUMENT WORD COUNTS",
+      "members": [
+        "CHARACTER",
+        "LINE",
+        "PAGE",
+        "WORD"
+      ]
+    }
+  ]
+}
