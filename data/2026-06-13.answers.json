@@ -1,0 +1,43 @@
+{
+  "id": 1178,
+  "print_date": "2026-06-13",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SEEN AT A TEA SERVICE",
+      "members": [
+        "SAUCER",
+        "SPOON",
+        "TEACUP",
+        "TONGS"
+      ]
+    },
+    {
+      "title": "ENDURING SONG",
+      "members": [
+        "CLASSIC",
+        "HIT",
+        "OLDIE",
+        "STANDARD"
+      ]
+    },
+    {
+      "title": "USED IN MOVIE PRACTICAL EFFECTS",
+      "members": [
+        "MAKEUP",
+        "MINIATURE",
+        "PROSTHETIC",
+        "PUPPET"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE \"STORY\" IN MOVIE TITLES",
+      "members": [
+        "CHRISTMAS",
+        "NEVERENDING",
+        "TOY",
+        "WEST SIDE"
+      ]
+    }
+  ]
+}
