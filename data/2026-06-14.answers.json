@@ -1,0 +1,43 @@
+{
+  "id": 1175,
+  "print_date": "2026-06-14",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CLASSIC SLAPSTICK PROPS",
+      "members": [
+        "BANANA PEEL",
+        "CREAM PIE",
+        "RUBBER CHICKEN",
+        "SELTZER BOTTLE"
+      ]
+    },
+    {
+      "title": "THINGS THAT SPIN",
+      "members": [
+        "GLOBE",
+        "GRINDSTONE",
+        "GYROSCOPE",
+        "ROULETTE WHEEL"
+      ]
+    },
+    {
+      "title": "FEATURED IN \"ALICE'S ADVENTURES IN WONDERLAND\"",
+      "members": [
+        "CATERPILLAR",
+        "POCKET WATCH",
+        "RABBIT HOLE",
+        "TEA PARTY"
+      ]
+    },
+    {
+      "title": "WHAT \"MA\" MIGHT REFER TO",
+      "members": [
+        "MASSACHUSETTS",
+        "MASTER OF ARTS",
+        "MILLIAMPERE",
+        "MOTHER"
+      ]
+    }
+  ]
+}
