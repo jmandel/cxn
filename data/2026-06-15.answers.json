@@ -1,0 +1,43 @@
+{
+  "id": 1184,
+  "print_date": "2026-06-15",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "STAYING POWER",
+      "members": [
+        "LEGS",
+        "MOMENTUM",
+        "STAMINA",
+        "TRACTION"
+      ]
+    },
+    {
+      "title": "GET READY FOR A NIGHT OUT",
+      "members": [
+        "ACCESSORIZE",
+        "CHANGE",
+        "PRIMP",
+        "SHOWER"
+      ]
+    },
+    {
+      "title": "CHINESE ZODIAC ANIMALS",
+      "members": [
+        "DOG",
+        "DRAGON",
+        "HORSE",
+        "SNAKE"
+      ]
+    },
+    {
+      "title": "FLOWERS",
+      "members": [
+        "ANEMONE",
+        "LARKSPUR",
+        "MONKSHOOD",
+        "PHLOX"
+      ]
+    }
+  ]
+}
