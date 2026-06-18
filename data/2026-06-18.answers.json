@@ -1,0 +1,43 @@
+{
+  "id": 1189,
+  "print_date": "2026-06-18",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FITNESS CLASS TYPES",
+      "members": [
+        "AEROBICS",
+        "BARRE",
+        "BOOTCAMP",
+        "PILATES"
+      ]
+    },
+    {
+      "title": "DEMEANOR",
+      "members": [
+        "ATTITUDE",
+        "BEARING",
+        "CARRIAGE",
+        "PRESENCE"
+      ]
+    },
+    {
+      "title": "PEACE ACTIVISTS",
+      "members": [
+        "GANDHI",
+        "KING",
+        "MANDELA",
+        "TUTU"
+      ]
+    },
+    {
+      "title": "TOOLS MINUS LAST TWO LETTERS",
+      "members": [
+        "HAMM",
+        "JIGS",
+        "PLIE",
+        "WREN"
+      ]
+    }
+  ]
+}
