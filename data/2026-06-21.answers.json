@@ -1,0 +1,43 @@
+{
+  "id": 1186,
+  "print_date": "2026-06-21",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PRECIPITATION",
+      "members": [
+        "DRIZZLE",
+        "RAIN",
+        "SHOWERS",
+        "SPRINKLES"
+      ]
+    },
+    {
+      "title": "BOWLS OVER",
+      "members": [
+        "FLOORS",
+        "ROCKS",
+        "STUNS",
+        "SURPRISES"
+      ]
+    },
+    {
+      "title": "NBC SITCOMS",
+      "members": [
+        "COMMUNITY",
+        "FRIENDS",
+        "SCRUBS",
+        "WINGS"
+      ]
+    },
+    {
+      "title": "STARTING WITH KINDS OF INSULTS",
+      "members": [
+        "BARBADOS",
+        "DIGGITY",
+        "DISSECT",
+        "SLAPDASH"
+      ]
+    }
+  ]
+}
