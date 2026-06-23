@@ -1,0 +1,43 @@
+{
+  "id": 1194,
+  "print_date": "2026-06-23",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "DANCE STYLES",
+      "members": [
+        "FOXTROT",
+        "MODERN",
+        "SWING",
+        "TAP"
+      ]
+    },
+    {
+      "title": "IN A MONOPOLY BOX",
+      "members": [
+        "DEED",
+        "HOTEL",
+        "MONEY",
+        "TOKEN"
+      ]
+    },
+    {
+      "title": "CONTENT SORTING OPTIONS ONLINE",
+      "members": [
+        "FEATURED",
+        "POPULAR",
+        "RECENT",
+        "TRENDING"
+      ]
+    },
+    {
+      "title": "THINGS WITH MANTLES/MANTELS",
+      "members": [
+        "EARTH",
+        "EMPEROR",
+        "FIREPLACE",
+        "YANKEES"
+      ]
+    }
+  ]
+}
