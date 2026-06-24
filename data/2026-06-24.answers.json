@@ -1,0 +1,43 @@
+{
+  "id": 1196,
+  "print_date": "2026-06-24",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PROG BANDS",
+      "members": [
+        "GENESIS",
+        "KING CRIMSON",
+        "PINK FLOYD",
+        "RUSH"
+      ]
+    },
+    {
+      "title": "CLASSIC WEDDING GIFTS",
+      "members": [
+        "CHINA",
+        "LUGGAGE",
+        "MONEY",
+        "TOASTER"
+      ]
+    },
+    {
+      "title": "RED CHARACTERS",
+      "members": [
+        "CLIFFORD",
+        "DEADPOOL",
+        "KOOL-AID MAN",
+        "MR. KRABS"
+      ]
+    },
+    {
+      "title": "RHYMING COMPOUND WORDS",
+      "members": [
+        "CHICK FLICK",
+        "HELTER SKELTER",
+        "HUMPTY DUMPTY",
+        "MUMBO JUMBO"
+      ]
+    }
+  ]
+}
