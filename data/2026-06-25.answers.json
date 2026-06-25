@@ -1,0 +1,43 @@
+{
+  "id": 1183,
+  "print_date": "2026-06-25",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "COMPUTER PERIPHERALS",
+      "members": [
+        "MICROPHONE",
+        "MONITOR",
+        "PRINTER",
+        "TRACKPAD"
+      ]
+    },
+    {
+      "title": "TIGHTLY PACKED",
+      "members": [
+        "COMPACT",
+        "COMPRESSED",
+        "DENSE",
+        "SQUASHED"
+      ]
+    },
+    {
+      "title": "HAZARDOUS ELEMENTAL METALS",
+      "members": [
+        "FRANCIUM",
+        "LEAD",
+        "MERCURY",
+        "POLONIUM"
+      ]
+    },
+    {
+      "title": "STARTING WITH BIRD HOMOPHONES",
+      "members": [
+        "CRANIUM",
+        "CROQUETTE",
+        "DUCTILE",
+        "HOCKEY"
+      ]
+    }
+  ]
+}
