@@ -1,0 +1,43 @@
+{
+  "id": 1195,
+  "print_date": "2026-06-26",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CRUNCHY SNACK ITEM",
+      "members": [
+        "CHIP",
+        "CRACKER",
+        "NUT",
+        "PRETZEL"
+      ]
+    },
+    {
+      "title": "VARIOUS AMOUNTS OF WOOD",
+      "members": [
+        "BOARD",
+        "LOG",
+        "SPLINTER",
+        "TREE"
+      ]
+    },
+    {
+      "title": "AREAS OF LOW GROUND",
+      "members": [
+        "DALE",
+        "DELL",
+        "GORGE",
+        "HOLLOW"
+      ]
+    },
+    {
+      "title": "COLORS PLUS A LETTER",
+      "members": [
+        "BRONZER",
+        "PINKY",
+        "REDO",
+        "TANG"
+      ]
+    }
+  ]
+}
