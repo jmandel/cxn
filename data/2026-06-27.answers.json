@@ -1,0 +1,43 @@
+{
+  "id": 1198,
+  "print_date": "2026-06-27",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "MONOPOLY SQUARES",
+      "members": [
+        "BOARDWALK",
+        "INCOME TAX",
+        "SHORT LINE",
+        "WATER WORKS"
+      ]
+    },
+    {
+      "title": "COMPONENTS OF A FASHION SHOW",
+      "members": [
+        "CATWALK",
+        "COLLECTION",
+        "DESIGNER",
+        "MODEL"
+      ]
+    },
+    {
+      "title": "COMMONLY STRIPED THINGS",
+      "members": [
+        "BARBER POLE",
+        "BILLIARD BALL",
+        "CREDIT CARD",
+        "CROSSWALK"
+      ]
+    },
+    {
+      "title": "ENDING IN HORSE GAITS",
+      "members": [
+        "DECANTER",
+        "ENVELOPE",
+        "FIREWALK",
+        "FOXTROT"
+      ]
+    }
+  ]
+}
