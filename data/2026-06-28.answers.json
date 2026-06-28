@@ -1,0 +1,43 @@
+{
+  "id": 1200,
+  "print_date": "2026-06-28",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "HIGH-QUALITY",
+      "members": [
+        "CHOICE",
+        "FINE",
+        "PRIME",
+        "SELECT"
+      ]
+    },
+    {
+      "title": "SIGNALS TO COMMENCE",
+      "members": [
+        "BEGIN",
+        "GO",
+        "NOW",
+        "START"
+      ]
+    },
+    {
+      "title": "ACCESSORIES FOR A GUITARIST",
+      "members": [
+        "CAPO",
+        "PICK",
+        "SLIDE",
+        "STRAP"
+      ]
+    },
+    {
+      "title": "THEY HAVE BOARDS",
+      "members": [
+        "CHESS",
+        "CORPORATION",
+        "DARTS",
+        "SURFER"
+      ]
+    }
+  ]
+}
