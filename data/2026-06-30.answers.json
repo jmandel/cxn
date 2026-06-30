@@ -1,0 +1,43 @@
+{
+  "id": 1193,
+  "print_date": "2026-06-30",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "DIVIDING STRUCTURES",
+      "members": [
+        "FENCE",
+        "GATE",
+        "HEDGE",
+        "WALL"
+      ]
+    },
+    {
+      "title": "PARTICIPATE IN SOME WINTER OLYMPICS",
+      "members": [
+        "CURL",
+        "LUGE",
+        "SKATE",
+        "SKI"
+      ]
+    },
+    {
+      "title": "COMMON RECYCLABLES",
+      "members": [
+        "BOTTLE",
+        "BOX",
+        "CAN",
+        "NEWSPAPER"
+      ]
+    },
+    {
+      "title": "WHAT \"DRAFT\" MIGHT REFER TO",
+      "members": [
+        "BREEZE",
+        "ON TAP",
+        "RECRUIT",
+        "SKETCH"
+      ]
+    }
+  ]
+}
