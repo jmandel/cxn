@@ -1,0 +1,43 @@
+{
+  "id": 1207,
+  "print_date": "2026-07-04",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PERSIST",
+      "members": [
+        "CONTINUE",
+        "LAST",
+        "LINGER",
+        "STAY"
+      ]
+    },
+    {
+      "title": "KINDS OF POEMS",
+      "members": [
+        "BALLAD",
+        "EPIC",
+        "ODE",
+        "VILLANELLE"
+      ]
+    },
+    {
+      "title": "TROPICAL DRINKS",
+      "members": [
+        "HURRICANE",
+        "PAINKILLER",
+        "SCORPION",
+        "ZOMBIE"
+      ]
+    },
+    {
+      "title": "SWEET ___",
+      "members": [
+        "DREAMS",
+        "NOTHINGS",
+        "PEA",
+        "SPOT"
+      ]
+    }
+  ]
+}
