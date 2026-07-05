@@ -1,0 +1,43 @@
+{
+  "id": 1204,
+  "print_date": "2026-07-05",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "GRANOLA INGREDIENTS",
+      "members": [
+        "HONEY",
+        "NUTS",
+        "OATS",
+        "SEEDS"
+      ]
+    },
+    {
+      "title": "PAYMENT METHODS",
+      "members": [
+        "CARD",
+        "CASH",
+        "CHECK",
+        "WIRE"
+      ]
+    },
+    {
+      "title": "AMEX CARD TYPES",
+      "members": [
+        "CENTURION",
+        "GOLD",
+        "GREEN",
+        "PLATINUM"
+      ]
+    },
+    {
+      "title": "WHAT \"W\" MIGHT STAND FOR",
+      "members": [
+        "TUNGSTEN",
+        "WEST",
+        "WIN",
+        "WITH"
+      ]
+    }
+  ]
+}
