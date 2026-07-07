@@ -1,0 +1,43 @@
+{
+  "id": 1191,
+  "print_date": "2026-07-07",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ROOMS IN CLUE",
+      "members": [
+        "CONSERVATORY",
+        "HALL",
+        "KITCHEN",
+        "STUDY"
+      ]
+    },
+    {
+      "title": "STUDENT-ATHLETE DESIGNATIONS",
+      "members": [
+        "ALL-AMERICAN",
+        "JOCK",
+        "LETTERMAN",
+        "TEAM CAPTAIN"
+      ]
+    },
+    {
+      "title": "___ TWIST",
+      "members": [
+        "FRENCH",
+        "LEMON",
+        "OLIVER",
+        "PLOT"
+      ]
+    },
+    {
+      "title": "ENDING IN \"SESAME STREET\" CHARACTERS",
+      "members": [
+        "BERNIE",
+        "COLBERT",
+        "DISCOUNT",
+        "SAN ANSELMO"
+      ]
+    }
+  ]
+}
