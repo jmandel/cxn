@@ -1,0 +1,43 @@
+{
+  "id": 1205,
+  "print_date": "2026-07-08",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CUT INTO THIN PIECES",
+      "members": [
+        "GRATE",
+        "PLANE",
+        "SHAVE",
+        "SLIVER"
+      ]
+    },
+    {
+      "title": "MOTIF",
+      "members": [
+        "DRIFT",
+        "PLOT",
+        "THEME",
+        "THREAD"
+      ]
+    },
+    {
+      "title": "GUITAR-PLAYING TECHNIQUES",
+      "members": [
+        "PICK",
+        "PLUCK",
+        "STRUM",
+        "TAP"
+      ]
+    },
+    {
+      "title": "HOUSE OF ___",
+      "members": [
+        "CARDS",
+        "LORDS",
+        "WAX",
+        "WORSHIP"
+      ]
+    }
+  ]
+}
