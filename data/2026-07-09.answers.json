@@ -1,0 +1,43 @@
+{
+  "id": 1206,
+  "print_date": "2026-07-09",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "NON-ALCOHOLIC DESIGNATORS",
+      "members": [
+        "NA",
+        "SPIRIT-FREE",
+        "VIRGIN",
+        "ZERO-PROOF"
+      ]
+    },
+    {
+      "title": "MUSIC PUBLICATIONS",
+      "members": [
+        "BILLBOARD",
+        "PITCHFORK",
+        "ROLLING STONE",
+        "SPIN"
+      ]
+    },
+    {
+      "title": "KINDS OF RUGS",
+      "members": [
+        "PERSIAN",
+        "PRAYER",
+        "SHAG",
+        "THROW"
+      ]
+    },
+    {
+      "title": "PONTIAC MODELS",
+      "members": [
+        "FIREBIRD",
+        "G6",
+        "GRAND PRIX",
+        "TRANS AM"
+      ]
+    }
+  ]
+}
