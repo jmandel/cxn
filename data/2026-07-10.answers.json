@@ -1,0 +1,43 @@
+{
+  "id": 1197,
+  "print_date": "2026-07-10",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SMARTPHONE SETTINGS",
+      "members": [
+        "AIRPLANE MODE",
+        "DO NOT DISTURB",
+        "HOTSPOT",
+        "LOCATION SERVICES"
+      ]
+    },
+    {
+      "title": "DESSERT MENU DESCRIPTORS",
+      "members": [
+        "DECADENT",
+        "FRESH-BAKED",
+        "MOLTEN",
+        "À LA MODE"
+      ]
+    },
+    {
+      "title": "'80S SYNTH-POP BANDS",
+      "members": [
+        "DEPECHE MODE",
+        "ERASURE",
+        "NEW ORDER",
+        "PET SHOP BOYS"
+      ]
+    },
+    {
+      "title": "STARTING WITH BASEBALL CALLS",
+      "members": [
+        "BALL GOWN",
+        "OUTKAST",
+        "SAFE MODE",
+        "STRIKE A POSE"
+      ]
+    }
+  ]
+}
