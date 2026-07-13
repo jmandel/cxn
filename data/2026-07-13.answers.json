@@ -1,0 +1,43 @@
+{
+  "id": 1208,
+  "print_date": "2026-07-13",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "INTERROGATE",
+      "members": [
+        "EXAMINE",
+        "GRILL",
+        "PUMP",
+        "QUESTION"
+      ]
+    },
+    {
+      "title": "THINGS WITH HANDLES",
+      "members": [
+        "BUCKET",
+        "DRAWER",
+        "MUG",
+        "UMBRELLA"
+      ]
+    },
+    {
+      "title": "FICTIONAL CATS",
+      "members": [
+        "FIGARO",
+        "PUSS",
+        "SALEM",
+        "TOM"
+      ]
+    },
+    {
+      "title": "STARTING WITH SMOOCHES",
+      "members": [
+        "BUSSIN",
+        "KISSER",
+        "PECKISH",
+        "SMACKDOWN"
+      ]
+    }
+  ]
+}
