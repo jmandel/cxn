@@ -1,0 +1,43 @@
+{
+  "id": 1218,
+  "print_date": "2026-07-14",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CONTRACT",
+      "members": [
+        "AGREEMENT",
+        "BARGAIN",
+        "DEAL",
+        "UNDERSTANDING"
+      ]
+    },
+    {
+      "title": "EDIT MENU OPTIONS",
+      "members": [
+        "COPY",
+        "CUT",
+        "DELETE",
+        "PASTE"
+      ]
+    },
+    {
+      "title": "KINDS OF BASKETS",
+      "members": [
+        "EASTER",
+        "GROCERY",
+        "LAUNDRY",
+        "PICNIC"
+      ]
+    },
+    {
+      "title": "SYMBOLIZED WITH ARROWS",
+      "members": [
+        "RECYCLING",
+        "SHUFFLE",
+        "THIS SIDE UP",
+        "U-TURN"
+      ]
+    }
+  ]
+}
