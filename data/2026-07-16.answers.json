@@ -1,0 +1,43 @@
+{
+  "id": 1202,
+  "print_date": "2026-07-16",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SKINCARE PRODUCTS",
+      "members": [
+        "CLAY MASK",
+        "EYE CREAM",
+        "PEEL",
+        "TONER"
+      ]
+    },
+    {
+      "title": "SHADES OF BLACK",
+      "members": [
+        "CHARCOAL",
+        "INK",
+        "JET",
+        "PITCH"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH PRECISION",
+      "members": [
+        "BULLSEYE",
+        "CLOCKWORK",
+        "LASER",
+        "NEEDLE"
+      ]
+    },
+    {
+      "title": "STARTING WITH TINY MARKS",
+      "members": [
+        "DOT MATRIX",
+        "PERIOD PIECE",
+        "POINT BREAK",
+        "SPOT REMOVER"
+      ]
+    }
+  ]
+}
