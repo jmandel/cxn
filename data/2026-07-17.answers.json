@@ -1,0 +1,43 @@
+{
+  "id": 1212,
+  "print_date": "2026-07-17",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "GRAND FINALE",
+      "members": [
+        "EPILOGUE",
+        "FAREWELL",
+        "LAST DANCE",
+        "SWAN SONG"
+      ]
+    },
+    {
+      "title": "SEEN IN AN ARCADE",
+      "members": [
+        "CRANE GAME",
+        "PINBALL",
+        "TICKETS",
+        "TOKENS"
+      ]
+    },
+    {
+      "title": "FOUR GROUPS OF FOUR",
+      "members": [
+        "CARDINAL DIRECTIONS",
+        "CLASSICAL ELEMENTS",
+        "SEASONS",
+        "SUITS"
+      ]
+    },
+    {
+      "title": "ENDING IN PARTS OF A CAR",
+      "members": [
+        "PLOT SPOILER",
+        "ROBIN HOOD",
+        "SATIRES",
+        "TREE TRUNK"
+      ]
+    }
+  ]
+}
