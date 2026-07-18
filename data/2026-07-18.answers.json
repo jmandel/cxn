@@ -1,0 +1,43 @@
+{
+  "id": 1216,
+  "print_date": "2026-07-18",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "COMMIT A BASKETBALL VIOLATION",
+      "members": [
+        "CARRY",
+        "DOUBLE DRIBBLE",
+        "GOALTEND",
+        "TRAVEL"
+      ]
+    },
+    {
+      "title": "BELIEF",
+      "members": [
+        "ATTITUDE",
+        "MIND",
+        "OPINION",
+        "VIEW"
+      ]
+    },
+    {
+      "title": "THINGS TRACKED IN VIDEO GAMES",
+      "members": [
+        "HEALTH",
+        "LIVES",
+        "SCORE",
+        "TIME"
+      ]
+    },
+    {
+      "title": "WORDS AFTER \"POP\"",
+      "members": [
+        "CULTURE",
+        "FLY",
+        "QUIZ",
+        "TART"
+      ]
+    }
+  ]
+}
