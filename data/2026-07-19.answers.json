@@ -1,0 +1,43 @@
+{
+  "id": 1210,
+  "print_date": "2026-07-19",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CIRCUIT COMPONENTS",
+      "members": [
+        "BREAKER",
+        "FUSE",
+        "RELAY",
+        "SWITCH"
+      ]
+    },
+    {
+      "title": "DIGITAL COUPLING VERBS",
+      "members": [
+        "CONNECT",
+        "JOIN",
+        "PAIR",
+        "SYNC"
+      ]
+    },
+    {
+      "title": "THINGS TOILETS DO",
+      "members": [
+        "DRAIN",
+        "FLUSH",
+        "REFILL",
+        "SWIRL"
+      ]
+    },
+    {
+      "title": "___ FACE EXPRESSIONS",
+      "members": [
+        "GAME",
+        "LONG",
+        "POKER",
+        "STRAIGHT"
+      ]
+    }
+  ]
+}
