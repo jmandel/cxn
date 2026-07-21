@@ -1,0 +1,43 @@
+{
+  "id": 1224,
+  "print_date": "2026-07-21",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KINDS OF TOPS",
+      "members": [
+        "CROP",
+        "HALTER",
+        "TANK",
+        "TUBE"
+      ]
+    },
+    {
+      "title": "SOFTWARE DOWNLOADS",
+      "members": [
+        "APP",
+        "DRIVER",
+        "EXTENSION",
+        "PLUGIN"
+      ]
+    },
+    {
+      "title": "ELEMENTS OF A MUSICAL",
+      "members": [
+        "BOOK",
+        "LYRICS",
+        "MUSIC",
+        "ORCHESTRATION"
+      ]
+    },
+    {
+      "title": "TELE___",
+      "members": [
+        "GRAM",
+        "KINESIS",
+        "PROMPTER",
+        "VISION"
+      ]
+    }
+  ]
+}
