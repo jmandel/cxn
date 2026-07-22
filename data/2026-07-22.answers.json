@@ -1,0 +1,43 @@
+{
+  "id": 1225,
+  "print_date": "2026-07-22",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SYMPTOMS OF AN ALLERGIC REACTION",
+      "members": [
+        "HIVES",
+        "ITCHING",
+        "RASH",
+        "REDNESS"
+      ]
+    },
+    {
+      "title": "ON A GOLF SCORECARD",
+      "members": [
+        "HOLE",
+        "PAR",
+        "SCORE",
+        "STROKES"
+      ]
+    },
+    {
+      "title": "PLATFORM-SPECIFIC POSTS",
+      "members": [
+        "PINS",
+        "SNAPS",
+        "TWEETS",
+        "VINES"
+      ]
+    },
+    {
+      "title": "FEATURES OF A ZEBRA",
+      "members": [
+        "HOOVES",
+        "MANE",
+        "TAIL",
+        "WHITE STRIPES"
+      ]
+    }
+  ]
+}
