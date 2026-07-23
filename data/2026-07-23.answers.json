@@ -1,0 +1,43 @@
+{
+  "id": 1222,
+  "print_date": "2026-07-23",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SPHERICAL THINGS",
+      "members": [
+        "BASEBALL",
+        "GLOBE",
+        "MARBLE",
+        "ORANGE"
+      ]
+    },
+    {
+      "title": "IN AN ANXIOUS STATE",
+      "members": [
+        "EXCITED",
+        "FEBRILE",
+        "FRENETIC",
+        "INTENSE"
+      ]
+    },
+    {
+      "title": "PARTS OF AN AIRPORT",
+      "members": [
+        "APRON",
+        "HANGAR",
+        "RUNWAY",
+        "TERMINAL"
+      ]
+    },
+    {
+      "title": "ENDING IN GEOMETRY TERMS",
+      "members": [
+        "APPOINT",
+        "DEPLANE",
+        "FELINE",
+        "JANGLE"
+      ]
+    }
+  ]
+}
