@@ -1,0 +1,43 @@
+{
+  "id": 1223,
+  "print_date": "2026-07-24",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "TALK AT LENGTH",
+      "members": [
+        "BABBLE",
+        "DRONE",
+        "RAMBLE",
+        "YAK"
+      ]
+    },
+    {
+      "title": "OUTCOMES FOR A BATTER",
+      "members": [
+        "HOME RUN",
+        "SINGLE",
+        "STRIKEOUT",
+        "WALK"
+      ]
+    },
+    {
+      "title": "BRING TO MIND, AS A MEMORY",
+      "members": [
+        "JOG",
+        "PROMPT",
+        "REFRESH",
+        "SPARK"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF RELIGIOUS ROLES",
+      "members": [
+        "CANTER",
+        "FRYER",
+        "LLAMA",
+        "NONE"
+      ]
+    }
+  ]
+}
