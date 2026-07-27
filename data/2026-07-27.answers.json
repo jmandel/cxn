@@ -1,0 +1,43 @@
+{
+  "id": 1220,
+  "print_date": "2026-07-27",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "GYMNASTICS APPARATUS",
+      "members": [
+        "BEAM",
+        "HORSE",
+        "RINGS",
+        "VAULT"
+      ]
+    },
+    {
+      "title": "LONG TAPERED THINGS",
+      "members": [
+        "CARROT",
+        "ICICLE",
+        "KNITTING NEEDLE",
+        "STALACTITE"
+      ]
+    },
+    {
+      "title": "KINDS OF SHIFTS",
+      "members": [
+        "DOPPLER",
+        "GRAVEYARD",
+        "PARADIGM",
+        "STICK"
+      ]
+    },
+    {
+      "title": "ICONS ON A SHOPPING SITE",
+      "members": [
+        "BELL",
+        "CART",
+        "HEART",
+        "MAGNIFYING GLASS"
+      ]
+    }
+  ]
+}
