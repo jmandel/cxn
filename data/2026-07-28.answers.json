@@ -1,0 +1,43 @@
+{
+  "id": 1227,
+  "print_date": "2026-07-28",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "COMMAND",
+      "members": [
+        "CAPTAIN",
+        "DIRECT",
+        "HEAD",
+        "LEAD"
+      ]
+    },
+    {
+      "title": "HOW DO YOU LIKE THEM APPLES",
+      "members": [
+        "EMPIRE",
+        "FUJI",
+        "GALA",
+        "HONEYCRISP"
+      ]
+    },
+    {
+      "title": "SHOE BRANDS STARTING WITH \"C\"",
+      "members": [
+        "CAMPER",
+        "CLARKS",
+        "CONVERSE",
+        "CROCS"
+      ]
+    },
+    {
+      "title": "STARTING WITH PALINDROMIC NAMES",
+      "members": [
+        "ANNAPOLIS",
+        "BOBSLED",
+        "EVEREST",
+        "OTTOMAN"
+      ]
+    }
+  ]
+}
