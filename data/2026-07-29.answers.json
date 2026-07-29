@@ -1,0 +1,43 @@
+{
+  "id": 1232,
+  "print_date": "2026-07-29",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FASTENERS",
+      "members": [
+        "NAIL",
+        "RIVET",
+        "SCREW",
+        "STAPLE"
+      ]
+    },
+    {
+      "title": "NONDESCRIPT",
+      "members": [
+        "BASIC",
+        "MID",
+        "PLAIN",
+        "VANILLA"
+      ]
+    },
+    {
+      "title": "UNITS OF WISDOM",
+      "members": [
+        "GEM",
+        "NUGGET",
+        "PEARL",
+        "WORD"
+      ]
+    },
+    {
+      "title": "___BOARDS IN A CLASSROOM",
+      "members": [
+        "BLACK",
+        "CHALK",
+        "CORK",
+        "WHITE"
+      ]
+    }
+  ]
+}
