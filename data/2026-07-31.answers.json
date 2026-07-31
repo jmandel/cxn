@@ -1,0 +1,43 @@
+{
+  "id": 1233,
+  "print_date": "2026-07-31",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CONSTRUCT",
+      "members": [
+        "FASHION",
+        "MODEL",
+        "MOLD",
+        "SHAPE"
+      ]
+    },
+    {
+      "title": "SUPER MARIO FIGURES",
+      "members": [
+        "DINOSAUR",
+        "MUSHROOM",
+        "PLUMBER",
+        "PRINCESS"
+      ]
+    },
+    {
+      "title": "FRUITS PLUS STARTING LETTER",
+      "members": [
+        "DAPPLE",
+        "JDATE",
+        "SLIME",
+        "SPEAR"
+      ]
+    },
+    {
+      "title": "STARTING WITH MERRIMENTS",
+      "members": [
+        "CHEERIOS",
+        "FUNGUS",
+        "GLEEK",
+        "JOYSTICK"
+      ]
+    }
+  ]
+}
