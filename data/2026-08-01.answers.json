@@ -1,0 +1,43 @@
+{
+  "id": 1231,
+  "print_date": "2026-08-01",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "BEDDING",
+      "members": [
+        "COMFORTER",
+        "SHAM",
+        "SHEET",
+        "THROW"
+      ]
+    },
+    {
+      "title": "OSCAR-WINNING ACTORS SINCE 2010",
+      "members": [
+        "BALE",
+        "JORDAN",
+        "PHOENIX",
+        "WALTZ"
+      ]
+    },
+    {
+      "title": "PERFORM SOME HOLE MACHINING OPERATIONS",
+      "members": [
+        "BORE",
+        "COUNTERSINK",
+        "DRILL",
+        "REAM"
+      ]
+    },
+    {
+      "title": "STARTING WITH BREAD SHAPES",
+      "members": [
+        "BOULEVARD",
+        "BUNDLE",
+        "LOAFER",
+        "ROLLS-ROYCE"
+      ]
+    }
+  ]
+}
