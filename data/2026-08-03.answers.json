@@ -1,0 +1,43 @@
+{
+  "id": 1230,
+  "print_date": "2026-08-03",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ROAD LESS TRAVELED",
+      "members": [
+        "ALLEY",
+        "BACKSTREET",
+        "BYWAY",
+        "LANE"
+      ]
+    },
+    {
+      "title": "SHADES OF GREEN",
+      "members": [
+        "FOREST",
+        "HUNTER",
+        "MINT",
+        "SAGE"
+      ]
+    },
+    {
+      "title": "\"Y\" IS THE ONLY VOWEL",
+      "members": [
+        "FLY BY",
+        "MYRRH",
+        "NSYNC",
+        "RHYTHM"
+      ]
+    },
+    {
+      "title": "STARTING WITH SYNONYMS FOR \"PESTER\"",
+      "members": [
+        "BUG FIX",
+        "NAG CHAMPA",
+        "NEEDLESS",
+        "TEA SET"
+      ]
+    }
+  ]
+}
