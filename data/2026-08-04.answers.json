@@ -1,0 +1,43 @@
+{
+  "id": 1237,
+  "print_date": "2026-08-04",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "LONG CYLINDRICAL THINGS",
+      "members": [
+        "CIGARETTE",
+        "FOAM ROLLER",
+        "POOL NOODLE",
+        "PRETZEL ROD"
+      ]
+    },
+    {
+      "title": "ICONIC NYC SIGHTS",
+      "members": [
+        "BODEGA",
+        "PIGEON",
+        "SUBWAY STATION",
+        "TAXI CAB"
+      ]
+    },
+    {
+      "title": "THINGS WITH PEDALS",
+      "members": [
+        "PIANO",
+        "SEWING MACHINE",
+        "SWAN BOAT",
+        "UNICYCLE"
+      ]
+    },
+    {
+      "title": "V-SHAPED THINGS",
+      "members": [
+        "ANGLE BRACKET",
+        "CHEVRON",
+        "GOOSE FORMATION",
+        "PEACE SIGN"
+      ]
+    }
+  ]
+}
