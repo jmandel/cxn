@@ -1,0 +1,43 @@
+{
+  "id": 1235,
+  "print_date": "2026-08-05",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "NAVIGATE",
+      "members": [
+        "DRIVE",
+        "MANEUVER",
+        "PILOT",
+        "STEER"
+      ]
+    },
+    {
+      "title": "JEANS BRANDS",
+      "members": [
+        "DIESEL",
+        "GAP",
+        "LUCKY",
+        "WRANGLER"
+      ]
+    },
+    {
+      "title": "HOUSE STYLES",
+      "members": [
+        "CAPE COD",
+        "MISSION",
+        "RANCH",
+        "TUDOR"
+      ]
+    },
+    {
+      "title": "WHAT \"STOCK\" MIGHT REFER TO",
+      "members": [
+        "BROTH",
+        "CATTLE",
+        "INVESTMENT",
+        "MERCHANDISE"
+      ]
+    }
+  ]
+}
