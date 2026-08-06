@@ -1,0 +1,43 @@
+{
+  "id": 1234,
+  "print_date": "2026-08-06",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CLASSIC WOODEN TOYS",
+      "members": [
+        "ALPHABET BLOCKS",
+        "CUP-AND-BALL",
+        "JACOB'S LADDER",
+        "LINCOLN LOGS"
+      ]
+    },
+    {
+      "title": "PLACES WITH LANES",
+      "members": [
+        "BOWLING ALLEY",
+        "FREEWAY",
+        "SUPERMARKET",
+        "SWIMMING POOL"
+      ]
+    },
+    {
+      "title": "ICONIC ROMAN LANDMARKS",
+      "members": [
+        "COLOSSEUM",
+        "PANTHEON",
+        "SPANISH STEPS",
+        "TREVI FOUNTAIN"
+      ]
+    },
+    {
+      "title": "PLACES WITH NETS",
+      "members": [
+        "BARCLAYS CENTER",
+        "FISHING BOAT",
+        "HOCKEY RINK",
+        "TENNIS COURT"
+      ]
+    }
+  ]
+}
