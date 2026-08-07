@@ -1,0 +1,43 @@
+{
+  "id": 1238,
+  "print_date": "2026-08-07",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "COMPONENTS OF A CANDLE",
+      "members": [
+        "FRAGRANCE",
+        "JAR",
+        "WAX",
+        "WICK"
+      ]
+    },
+    {
+      "title": "COLD THINGS",
+      "members": [
+        "LIQUID NITROGEN",
+        "REFRIGERATOR",
+        "SNOW",
+        "SUNDAE"
+      ]
+    },
+    {
+      "title": "PARTS OF AN ELEVATOR",
+      "members": [
+        "BUTTONS",
+        "CABLES",
+        "MOTOR",
+        "SHAFT"
+      ]
+    },
+    {
+      "title": "STARTING WITH MALE ANIMALS",
+      "members": [
+        "BUCKYBALL",
+        "JACKPOT",
+        "RAMBO",
+        "TOMATILLO"
+      ]
+    }
+  ]
+}
