@@ -1,0 +1,43 @@
+{
+  "id": 1236,
+  "print_date": "2026-08-10",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "HAPHAZARDLY",
+      "members": [
+        "ANY OLD HOW",
+        "AT RANDOM",
+        "HELTER-SKELTER",
+        "WILLY-NILLY"
+      ]
+    },
+    {
+      "title": "WAYS TO RECEIVE EVENT TICKETS",
+      "members": [
+        "MAIL DELIVERY",
+        "MOBILE TICKET",
+        "PRINT-AT-HOME",
+        "WILL CALL"
+      ]
+    },
+    {
+      "title": "SECTIONS ON AN INVOICE",
+      "members": [
+        "BALANCE DUE",
+        "BILL TO",
+        "ORDER NUMBER",
+        "UNIT PRICE"
+      ]
+    },
+    {
+      "title": "FAMOUS GOATEES",
+      "members": [
+        "BILLY GOAT",
+        "COLONEL SANDERS",
+        "DOCTOR STRANGE",
+        "THE DEVIL"
+      ]
+    }
+  ]
+}
