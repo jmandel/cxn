@@ -1,0 +1,43 @@
+{
+  "id": 1248,
+  "print_date": "2026-08-14",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "BLACK-AND-YELLOW",
+      "members": [
+        "BUMBLEBEE",
+        "CAUTION TAPE",
+        "CHARLIE BROWN",
+        "WOLVERINE"
+      ]
+    },
+    {
+      "title": "PLACES WHERE EVERYONE THINKS THE SAME WAYS",
+      "members": [
+        "BUBBLE",
+        "ECHO CHAMBER",
+        "HIVEMIND",
+        "SILO"
+      ]
+    },
+    {
+      "title": "COMIC BOOK ARTIST'S TOOLS",
+      "members": [
+        "BRISTOL BOARD",
+        "DIP PEN",
+        "INDIA INK",
+        "STRAIGHTEDGE"
+      ]
+    },
+    {
+      "title": "TRIANGLE LOGOS",
+      "members": [
+        "BASS ALE",
+        "CITGO",
+        "DELTA AIRLINES",
+        "GOOGLE DRIVE"
+      ]
+    }
+  ]
+}
