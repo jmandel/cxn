@@ -1,0 +1,43 @@
+{
+  "id": 1247,
+  "print_date": "2026-08-16",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "MUSICAL PERFORMANCE",
+      "members": [
+        "CONCERT",
+        "GIG",
+        "SET",
+        "SHOW"
+      ]
+    },
+    {
+      "title": "PARTICIPANT",
+      "members": [
+        "ACTOR",
+        "AGENT",
+        "PARTY",
+        "PLAYER"
+      ]
+    },
+    {
+      "title": "FAMILY RELATIONSHIP MODIFIERS",
+      "members": [
+        "GRAND",
+        "GREAT",
+        "HALF",
+        "STEP"
+      ]
+    },
+    {
+      "title": "DESCRIPTORS FOR OUR HUMAN ANCESTORS",
+      "members": [
+        "FROM NEANDER",
+        "HANDY",
+        "UPRIGHT",
+        "WISE"
+      ]
+    }
+  ]
+}
