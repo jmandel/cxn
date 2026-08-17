@@ -1,0 +1,43 @@
+{
+  "id": 1246,
+  "print_date": "2026-08-17",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "VIDEO CALL PLATFORMS",
+      "members": [
+        "HUDDLE",
+        "MEET",
+        "TEAMS",
+        "ZOOM"
+      ]
+    },
+    {
+      "title": "SPREADSHEET FEATURES",
+      "members": [
+        "FORMULA",
+        "FUNCTION",
+        "MACRO",
+        "SCRIPT"
+      ]
+    },
+    {
+      "title": "FIRST NAMES OF COUNTRY MUSIC LEGENDS",
+      "members": [
+        "DOLLY",
+        "JOHNNY",
+        "PATSY",
+        "WILLIE"
+      ]
+    },
+    {
+      "title": "STARTING WITH PETS",
+      "members": [
+        "BIRDIE",
+        "CATTLE",
+        "DOGIE",
+        "FISHEYE"
+      ]
+    }
+  ]
+}
