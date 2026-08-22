@@ -1,0 +1,43 @@
+{
+  "id": 1249,
+  "print_date": "2026-08-22",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CARPENTRY TOOLS",
+      "members": [
+        "CHISEL",
+        "HAMMER",
+        "PLANE",
+        "SAW"
+      ]
+    },
+    {
+      "title": "KINDS OF MELON",
+      "members": [
+        "BITTER",
+        "MUSK",
+        "WATER",
+        "WINTER"
+      ]
+    },
+    {
+      "title": "GARDEN HOSE SETTINGS",
+      "members": [
+        "CONE",
+        "JET",
+        "MIST",
+        "SHOWER"
+      ]
+    },
+    {
+      "title": "___ GIRLS OF POP CULTURE",
+      "members": [
+        "GILMORE",
+        "GOLDEN",
+        "MEAN",
+        "SPICE"
+      ]
+    }
+  ]
+}
