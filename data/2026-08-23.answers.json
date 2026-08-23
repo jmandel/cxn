@@ -1,0 +1,43 @@
+{
+  "id": 1253,
+  "print_date": "2026-08-23",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "POTENTIALLY EXPLOSIVE THINGS",
+      "members": [
+        "POWDER KEG",
+        "TIME BOMB",
+        "TINDERBOX",
+        "VOLCANO"
+      ]
+    },
+    {
+      "title": "DOUBLE VOWELS",
+      "members": [
+        "ANTIFREEZE",
+        "BAZAAR",
+        "SKIING",
+        "VACUUM"
+      ]
+    },
+    {
+      "title": "MADE WITH POTATOES",
+      "members": [
+        "HOME FRIES",
+        "POTATO BATTERY",
+        "VISCHYSSOISE",
+        "VODKA"
+      ]
+    },
+    {
+      "title": "HOUSEHOLD STAIN REMOVERS",
+      "members": [
+        "BAKING SODA",
+        "CLUB SODA",
+        "HYDROGEN PEROXIDE",
+        "VINEGAR"
+      ]
+    }
+  ]
+}
