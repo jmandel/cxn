@@ -1,0 +1,43 @@
+{
+  "id": 1250,
+  "print_date": "2026-08-24",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FISH",
+      "members": [
+        "MULLET",
+        "PIKE",
+        "SOLE",
+        "TANG"
+      ]
+    },
+    {
+      "title": "PRINCIPAL",
+      "members": [
+        "ARCH",
+        "CHIEF",
+        "MAIN",
+        "PRIME"
+      ]
+    },
+    {
+      "title": "PRO-WRESTLING LINGO",
+      "members": [
+        "FACE",
+        "HEEL",
+        "JOBBER",
+        "KAYFABE"
+      ]
+    },
+    {
+      "title": "LETTER HOMOPHONE PLUS TENNIS TERM",
+      "members": [
+        "BESET",
+        "DESERVE",
+        "EX-LOVE",
+        "EYELET"
+      ]
+    }
+  ]
+}
