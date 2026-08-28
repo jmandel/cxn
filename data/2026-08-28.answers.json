@@ -1,0 +1,43 @@
+{
+  "id": 1260,
+  "print_date": "2026-08-28",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "BEDTIME PARTING WORDS",
+      "members": [
+        "NIGHT",
+        "REST EASY",
+        "SLEEP TIGHT",
+        "SWEET DREAMS"
+      ]
+    },
+    {
+      "title": "PALINDROMES",
+      "members": [
+        "MOM",
+        "NOON",
+        "SIS",
+        "TOP SPOT"
+      ]
+    },
+    {
+      "title": "MODERN ADD-ONS/COMBINING FORMS",
+      "members": [
+        "BRO",
+        "CODED",
+        "ERA",
+        "MAXXING"
+      ]
+    },
+    {
+      "title": "TOP OF THE ___",
+      "members": [
+        "HOUR",
+        "LINE",
+        "MORNING",
+        "POPS"
+      ]
+    }
+  ]
+}
