@@ -1,0 +1,43 @@
+{
+  "id": 1276,
+  "print_date": "2026-08-29",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "UNDER THE HOOD OF A CAR",
+      "members": [
+        "ALTERNATOR",
+        "BATTERY",
+        "ENGINE",
+        "RADIATOR"
+      ]
+    },
+    {
+      "title": "KINDS OF SALAD",
+      "members": [
+        "CHOPPED",
+        "GREEK",
+        "HOUSE",
+        "WEDGE"
+      ]
+    },
+    {
+      "title": "KEYBOARD KEYS",
+      "members": [
+        "CONTROL",
+        "ESCAPE",
+        "SHIFT",
+        "SPACE"
+      ]
+    },
+    {
+      "title": "STARTING WITH FIGURES FROM GREEK MYTH",
+      "members": [
+        "AT LAST",
+        "HERALD",
+        "HYDRANT",
+        "TRITONE"
+      ]
+    }
+  ]
+}
