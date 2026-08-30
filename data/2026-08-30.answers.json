@@ -1,0 +1,43 @@
+{
+  "id": 1256,
+  "print_date": "2026-08-30",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "EXERCISE FACILITIES",
+      "members": [
+        "GYMNASIUM",
+        "HEALTH CLUB",
+        "REC CENTER",
+        "YMCA"
+      ]
+    },
+    {
+      "title": "WINE ACCESSORIES",
+      "members": [
+        "AERATOR",
+        "CORKSCREW",
+        "DECANTER",
+        "STOPPER"
+      ]
+    },
+    {
+      "title": "BRANDS WITH BUNNY RABBIT MASCOTS",
+      "members": [
+        "CADBURY",
+        "ENERGIZER",
+        "PLAYBOY",
+        "TRIX"
+      ]
+    },
+    {
+      "title": "WORDS ON AN OLD WEST WANTED POSTER",
+      "members": [
+        "ALIAS",
+        "OUTLAW",
+        "REWARD",
+        "WANTED"
+      ]
+    }
+  ]
+}
