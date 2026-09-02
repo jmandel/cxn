@@ -1,0 +1,43 @@
+{
+  "id": 1273,
+  "print_date": "2026-09-02",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FLABBERGAST",
+      "members": [
+        "DAZZLE",
+        "FLOOR",
+        "STUN",
+        "WOW"
+      ]
+    },
+    {
+      "title": "THINGS IN A VIOLIN CASE",
+      "members": [
+        "BOW",
+        "MUTE",
+        "ROSIN",
+        "SHOULDER REST"
+      ]
+    },
+    {
+      "title": "___ DOGS (THAT ARE DOGS)",
+      "members": [
+        "HUNTING",
+        "RESCUE",
+        "SAUSAGE",
+        "SHEEP"
+      ]
+    },
+    {
+      "title": "___ DOGS (THAT AREN'T DOGS)",
+      "members": [
+        "CORN",
+        "PRAIRIE",
+        "SALTY",
+        "TOP"
+      ]
+    }
+  ]
+}
