@@ -1,0 +1,43 @@
+{
+  "id": 1278,
+  "print_date": "2026-09-03",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "TWO SHAKES OF A LAMB'S TAIL",
+      "members": [
+        "BLINK",
+        "FLASH",
+        "HEARTBEAT",
+        "TRICE"
+      ]
+    },
+    {
+      "title": "SHADES OF RED",
+      "members": [
+        "CARMINE",
+        "CINNABAR",
+        "MAROON",
+        "VERMILLION"
+      ]
+    },
+    {
+      "title": "TOY CAR BRANDS",
+      "members": [
+        "HOT WHEELS",
+        "MATCHBOX",
+        "MICRO MACHINES",
+        "TONKA"
+      ]
+    },
+    {
+      "title": "SPREADSHEET FUNCTIONS",
+      "members": [
+        "AVERAGE",
+        "COUNT",
+        "MAX",
+        "SUM"
+      ]
+    }
+  ]
+}
