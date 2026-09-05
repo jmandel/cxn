@@ -1,0 +1,43 @@
+{
+  "id": 1289,
+  "print_date": "2026-09-05",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "MOVE UNSTEADILY",
+      "members": [
+        "SWAY",
+        "TODDLE",
+        "TOTTER",
+        "WOBBLE"
+      ]
+    },
+    {
+      "title": "BIRD ONOMATOPOEIA",
+      "members": [
+        "COO",
+        "GOBBLE",
+        "HONK",
+        "WARBLE"
+      ]
+    },
+    {
+      "title": "___HEAD",
+      "members": [
+        "BOBBLE",
+        "HAMMER",
+        "JUG",
+        "SLEEPY"
+      ]
+    },
+    {
+      "title": "DESSERTS MINUS LAST LETTER",
+      "members": [
+        "COBBLE",
+        "PI",
+        "TAR",
+        "TORT"
+      ]
+    }
+  ]
+}
