@@ -1,0 +1,43 @@
+{
+  "id": 1272,
+  "print_date": "2026-09-09",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "HARD TO UNDERSTAND",
+      "members": [
+        "BEWILDERING",
+        "ESOTERIC",
+        "INCOMPREHENSIBLE",
+        "OPAQUE"
+      ]
+    },
+    {
+      "title": "WORDS WITH \"SMALL\" PREFIXES",
+      "members": [
+        "MICROBREWERY",
+        "MINIVAN",
+        "NANOTECHNOLOGY",
+        "PICOSECOND"
+      ]
+    },
+    {
+      "title": "HORROR MOVIES",
+      "members": [
+        "ARACHNOPHOBIA",
+        "HALLOWEEN",
+        "IT",
+        "SAW"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE \"FORCE\"",
+      "members": [
+        "BRUTE",
+        "ELECTROMAGNETIC",
+        "G",
+        "TASK"
+      ]
+    }
+  ]
+}
