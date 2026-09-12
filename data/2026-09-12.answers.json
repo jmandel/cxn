@@ -1,0 +1,43 @@
+{
+  "id": 1285,
+  "print_date": "2026-09-12",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "WAYS TO PERSONALIZE A CAR",
+      "members": [
+        "BUMPER STICKER",
+        "FUZZY DICE",
+        "HOOD ORNAMENT",
+        "VANITY PLATE"
+      ]
+    },
+    {
+      "title": "PEOPLE IN AN ONLINE FORUM",
+      "members": [
+        "LURKER",
+        "POSTER",
+        "SPAMMER",
+        "TROLL"
+      ]
+    },
+    {
+      "title": "THINGS THAT BLINK",
+      "members": [
+        "CURSOR",
+        "EYELIDS",
+        "SMOKE DETECTOR",
+        "TURN SIGNAL"
+      ]
+    },
+    {
+      "title": "___ ALERT",
+      "members": [
+        "NERD",
+        "RED",
+        "SPOILER",
+        "WEATHER"
+      ]
+    }
+  ]
+}
