@@ -1,0 +1,43 @@
+{
+  "id": 1283,
+  "print_date": "2026-09-15",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "INSTRUCT",
+      "members": [
+        "COACH",
+        "DIRECT",
+        "GUIDE",
+        "TRAIN"
+      ]
+    },
+    {
+      "title": "PARTS OF A WHISTLING KETTLE",
+      "members": [
+        "HANDLE",
+        "LID",
+        "SPOUT",
+        "WHISTLE"
+      ]
+    },
+    {
+      "title": "UNDERCOVER OPERATIVE",
+      "members": [
+        "ASSET",
+        "MOLE",
+        "PLANT",
+        "SLEEPER"
+      ]
+    },
+    {
+      "title": "THINGS THAT APPEAR AT THE END",
+      "members": [
+        "CABOOSE",
+        "DECEMBER",
+        "DESSERT",
+        "EPILOGUE"
+      ]
+    }
+  ]
+}
