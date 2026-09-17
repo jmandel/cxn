@@ -1,0 +1,43 @@
+{
+  "id": 1296,
+  "print_date": "2026-09-17",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ELASTICITY",
+      "members": [
+        "BOUNCE",
+        "FLEXIBILITY",
+        "GIVE",
+        "SPRING"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE UNDERGROUND",
+      "members": [
+        "MINE SHAFT",
+        "SEWER LINE",
+        "SUBWAY STATION",
+        "WELL"
+      ]
+    },
+    {
+      "title": "HUGH JACKMAN MOVIES, WITH \"THE\"",
+      "members": [
+        "FOUNTAIN",
+        "PRESTIGE",
+        "SHEEP DETECTIVES",
+        "WOLVERINE"
+      ]
+    },
+    {
+      "title": "LOVE ___",
+      "members": [
+        "HANDLES",
+        "LANGUAGE",
+        "TAP",
+        "TRIANGLE"
+      ]
+    }
+  ]
+}
