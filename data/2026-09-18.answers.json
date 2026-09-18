@@ -1,0 +1,43 @@
+{
+  "id": 1294,
+  "print_date": "2026-09-18",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SEGMENT OF A PROCESS",
+      "members": [
+        "PHASE",
+        "ROUND",
+        "STAGE",
+        "STEP"
+      ]
+    },
+    {
+      "title": "ASSORTMENTS OF FOOD/DRINK",
+      "members": [
+        "FLIGHT",
+        "MEDLEY",
+        "PLATTER",
+        "SAMPLER"
+      ]
+    },
+    {
+      "title": "PARTS OF A FLIGHT",
+      "members": [
+        "BOARDING",
+        "CRUISE",
+        "LANDING",
+        "TAKEOFF"
+      ]
+    },
+    {
+      "title": "___CASE",
+      "members": [
+        "BRIEF",
+        "PILLOW",
+        "STAIR",
+        "UPPER"
+      ]
+    }
+  ]
+}
