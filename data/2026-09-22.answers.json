@@ -1,0 +1,43 @@
+{
+  "id": 1307,
+  "print_date": "2026-09-22",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "DEMONSTRATIVES",
+      "members": [
+        "THAT",
+        "THESE",
+        "THIS",
+        "THOSE"
+      ]
+    },
+    {
+      "title": "EMBELLISHMENT",
+      "members": [
+        "ACCENT",
+        "DETAIL",
+        "FLOURISH",
+        "TOUCH"
+      ]
+    },
+    {
+      "title": "OPTIONS ON A MULTIPLE CHOICE SURVEY",
+      "members": [
+        "AGREE",
+        "DISAGREE",
+        "NEUTRAL",
+        "OTHER"
+      ]
+    },
+    {
+      "title": "BEVERAGES WITH ACUTE ACCENTS REMOVED",
+      "members": [
+        "CAFE",
+        "PATRON",
+        "ROSE",
+        "THE"
+      ]
+    }
+  ]
+}
