@@ -1,0 +1,43 @@
+{
+  "id": 1306,
+  "print_date": "2026-09-27",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SCULPTURE MEDIA",
+      "members": [
+        "BRONZE",
+        "CLAY",
+        "MARBLE",
+        "PLASTER"
+      ]
+    },
+    {
+      "title": "RESTAURANT SEATING OPTIONS",
+      "members": [
+        "BANQUETTE",
+        "BOOTH",
+        "CHAIR",
+        "STOOL"
+      ]
+    },
+    {
+      "title": "TELECOM",
+      "members": [
+        "CARRIER",
+        "NETWORK",
+        "OPERATOR",
+        "PROVIDER"
+      ]
+    },
+    {
+      "title": "ENDING IN CHINESE DYNASTIES",
+      "members": [
+        "BBQING",
+        "HOMING",
+        "LOHAN",
+        "WU-TANG"
+      ]
+    }
+  ]
+}
