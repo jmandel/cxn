@@ -1,0 +1,43 @@
+{
+  "id": 1305,
+  "print_date": "2026-09-28",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "THINGS WITH STALKS",
+      "members": [
+        "BAMBOO",
+        "CELERY",
+        "CORN",
+        "WHEAT"
+      ]
+    },
+    {
+      "title": "OYSTER CONDIMENTS",
+      "members": [
+        "HORSERADISH",
+        "LEMON",
+        "MIGNONETTE",
+        "TABASCO"
+      ]
+    },
+    {
+      "title": "DODGE MODELS",
+      "members": [
+        "CHALLENGER",
+        "CHARGER",
+        "DURANGO",
+        "VIPER"
+      ]
+    },
+    {
+      "title": "THREE LETTERS PLUS REPEATED TRIGRAMS",
+      "members": [
+        "ARKANSANS",
+        "CHIHUAHUA",
+        "POSSESSES",
+        "SPRINGING"
+      ]
+    }
+  ]
+}
