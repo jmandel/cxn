@@ -1,0 +1,43 @@
+{
+  "id": 1311,
+  "print_date": "2026-09-30",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SECURITIES",
+      "members": [
+        "BOND",
+        "FUTURE",
+        "OPTION",
+        "STOCK"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE SHAKEN (NOT STIRRED)",
+      "members": [
+        "ETCH A SKETCH",
+        "MARTINI",
+        "SPRAY PAINT",
+        "TAMBOURINE"
+      ]
+    },
+    {
+      "title": "GANGSTER MOVIES",
+      "members": [
+        "BUGSY",
+        "CASINO",
+        "DONNIE BRASCO",
+        "SCARFACE"
+      ]
+    },
+    {
+      "title": "STARTING WITH MONTH ABBREVIATIONS",
+      "members": [
+        "DECENT",
+        "NOVELTY",
+        "OCTOPUSSY",
+        "SEPTUM"
+      ]
+    }
+  ]
+}
