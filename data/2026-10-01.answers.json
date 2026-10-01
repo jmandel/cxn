@@ -1,0 +1,43 @@
+{
+  "id": 1314,
+  "print_date": "2026-10-01",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PUT",
+      "members": [
+        "PLACE",
+        "POSITION",
+        "SITUATE",
+        "STICK"
+      ]
+    },
+    {
+      "title": "DRESS SHIRT MEASUREMENTS",
+      "members": [
+        "CHEST",
+        "NECK",
+        "SLEEVE",
+        "WAIST"
+      ]
+    },
+    {
+      "title": "2000S INDIE ROCK BANDS, WITH \"THE\"",
+      "members": [
+        "DECEMBERISTS",
+        "NATIONAL",
+        "SHINS",
+        "WALKMEN"
+      ]
+    },
+    {
+      "title": "STARTS OF NYT PRINT PUZZLES",
+      "members": [
+        "ACRO",
+        "CROSS",
+        "KEN",
+        "SUD"
+      ]
+    }
+  ]
+}
