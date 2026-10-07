@@ -1,0 +1,43 @@
+{
+  "id": 1320,
+  "print_date": "2026-10-07",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SAVE FOR LATER",
+      "members": [
+        "BANK",
+        "SQUIRREL",
+        "STASH",
+        "STORE"
+      ]
+    },
+    {
+      "title": "KINDS OF BUNS",
+      "members": [
+        "CINNAMON",
+        "HAMBURGER",
+        "HOT DOG",
+        "STICKY"
+      ]
+    },
+    {
+      "title": "GREEK NUMERICAL PREFIXES",
+      "members": [
+        "DICHOTOMY",
+        "MONOLOGUE",
+        "TETRACYCLINE",
+        "TRIDENT"
+      ]
+    },
+    {
+      "title": "BEST ___ TONY AWARDS",
+      "members": [
+        "CHOREOGRAPHY",
+        "MUSICAL",
+        "ORCHESTRATIONS",
+        "PLAY"
+      ]
+    }
+  ]
+}
