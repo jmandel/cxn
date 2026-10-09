@@ -1,0 +1,43 @@
+{
+  "id": 1319,
+  "print_date": "2026-10-09",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "DECISIVE VICTORY",
+      "members": [
+        "BLOWOUT",
+        "ROMP",
+        "ROUT",
+        "SWEEP"
+      ]
+    },
+    {
+      "title": "CONTROLLED BY A TV REMOTE",
+      "members": [
+        "CHANNEL",
+        "INPUT",
+        "POWER",
+        "VOLUME"
+      ]
+    },
+    {
+      "title": "FEATURES OF A SPORTS SHOW",
+      "members": [
+        "HIGHLIGHTS",
+        "RECAP",
+        "SCORES",
+        "STATS"
+      ]
+    },
+    {
+      "title": "AIR ___",
+      "members": [
+        "CONDITIONER",
+        "GUITAR",
+        "KISS",
+        "QUOTES"
+      ]
+    }
+  ]
+}
