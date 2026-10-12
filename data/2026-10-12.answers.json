@@ -1,0 +1,43 @@
+{
+  "id": 1317,
+  "print_date": "2026-10-12",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "STATUS",
+      "members": [
+        "CONDITION",
+        "SHAPE",
+        "SITUATION",
+        "STATE"
+      ]
+    },
+    {
+      "title": "TOLERATE",
+      "members": [
+        "BEAR",
+        "HANDLE",
+        "STAND",
+        "WEATHER"
+      ]
+    },
+    {
+      "title": "WORD SHORTENINGS, OFTEN",
+      "members": [
+        "ABBREVIATION",
+        "CONTRACTION",
+        "ELISION",
+        "NICKNAME"
+      ]
+    },
+    {
+      "title": "WORDS MADE USING U.S. POSTAL ABBREVIATIONS",
+      "members": [
+        "ALKYLAMIDE",
+        "CALAMARI",
+        "MANDARIN",
+        "MELAMINE"
+      ]
+    }
+  ]
+}
