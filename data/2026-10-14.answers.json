@@ -1,0 +1,43 @@
+{
+  "id": 1330,
+  "print_date": "2026-10-14",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "HINT",
+      "members": [
+        "FLICKER",
+        "SUGGESTION",
+        "TRACE",
+        "WHIFF"
+      ]
+    },
+    {
+      "title": "TENNIS SHOTS",
+      "members": [
+        "SERVE",
+        "SLICE",
+        "SMASH",
+        "VOLLEY"
+      ]
+    },
+    {
+      "title": "SUPERHEROES, WITH \"THE\"",
+      "members": [
+        "FLASH",
+        "HULK",
+        "PUNISHER",
+        "THING"
+      ]
+    },
+    {
+      "title": "STARTING WITH \"FEE, FI, FO, FUM\"",
+      "members": [
+        "FEED",
+        "FIERY",
+        "FOMENT",
+        "FUMBLE"
+      ]
+    }
+  ]
+}
