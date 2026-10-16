@@ -1,0 +1,43 @@
+{
+  "id": 1325,
+  "print_date": "2026-10-16",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SURFACE IMPERFECTIONS",
+      "members": [
+        "CHIP",
+        "MARK",
+        "NICK",
+        "SCRATCH"
+      ]
+    },
+    {
+      "title": "LANDLOCKED COUNTRIES",
+      "members": [
+        "CHAD",
+        "HUNGARY",
+        "LAOS",
+        "PARAGUAY"
+      ]
+    },
+    {
+      "title": "EUROPEAN COUNTRIES MINUS A LETTER",
+      "members": [
+        "BULGARI",
+        "CYRUS",
+        "HUNGRY",
+        "SPAN"
+      ]
+    },
+    {
+      "title": "STARTING WITH WORDS FOR \"STYLISH\"",
+      "members": [
+        "CHICKEN",
+        "COOLIDGE",
+        "HIPPO",
+        "SMARTIES"
+      ]
+    }
+  ]
+}
