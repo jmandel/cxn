@@ -1,0 +1,43 @@
+{
+  "id": 1327,
+  "print_date": "2026-10-19",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SEETHE",
+      "members": [
+        "BOIL",
+        "FUME",
+        "RAVE",
+        "STEAM"
+      ]
+    },
+    {
+      "title": "ALL TALK",
+      "members": [
+        "BLATHER",
+        "GAS",
+        "HOT AIR",
+        "WIND"
+      ]
+    },
+    {
+      "title": "\"MC\" THINGS AT MCDONALD'S",
+      "members": [
+        "FLURRY",
+        "MUFFIN",
+        "NUGGETS",
+        "RIB"
+      ]
+    },
+    {
+      "title": "ENDING IN BIRDS",
+      "members": [
+        "ALIBIS",
+        "BALLOON",
+        "ESCROW",
+        "MOHAWK"
+      ]
+    }
+  ]
+}
