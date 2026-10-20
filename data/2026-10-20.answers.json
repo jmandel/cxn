@@ -1,0 +1,43 @@
+{
+  "id": 1328,
+  "print_date": "2026-10-20",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FINISH",
+      "members": [
+        "CLOSE",
+        "END",
+        "STOP",
+        "WRAP"
+      ]
+    },
+    {
+      "title": "LACKEY",
+      "members": [
+        "MINION",
+        "POODLE",
+        "PUPPET",
+        "STOOGE"
+      ]
+    },
+    {
+      "title": "MUSTACHES",
+      "members": [
+        "CHEVRON",
+        "HORSESHOE",
+        "PENCIL",
+        "WALRUS"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF DISNEY CHARACTERS",
+      "members": [
+        "ARIAL",
+        "BELL",
+        "DOCK",
+        "MINI"
+      ]
+    }
+  ]
+}
