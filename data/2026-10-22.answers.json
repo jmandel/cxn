@@ -1,0 +1,43 @@
+{
+  "id": 1336,
+  "print_date": "2026-10-22",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PARTS TO BE GRASPED",
+      "members": [
+        "GRIP",
+        "HANDLE",
+        "HILT",
+        "KNOB"
+      ]
+    },
+    {
+      "title": "KINDS OF SCULPTURES",
+      "members": [
+        "BUST",
+        "MOBILE",
+        "RELIEF",
+        "STATUE"
+      ]
+    },
+    {
+      "title": "AMERICAN FOOTBALL POSITIONS",
+      "members": [
+        "END",
+        "GUARD",
+        "SAFETY",
+        "TACKLE"
+      ]
+    },
+    {
+      "title": "STARTS OF BEDDING",
+      "members": [
+        "BLANK",
+        "COMFORT",
+        "PILL",
+        "SHE"
+      ]
+    }
+  ]
+}
