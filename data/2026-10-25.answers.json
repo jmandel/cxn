@@ -1,0 +1,43 @@
+{
+  "id": 1343,
+  "print_date": "2026-10-25",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "STEAL",
+      "members": [
+        "BOOST",
+        "PALM",
+        "POCKET",
+        "SWIPE"
+      ]
+    },
+    {
+      "title": "PASTA SHAPES",
+      "members": [
+        "BOW TIE",
+        "ELBOW",
+        "SHELL",
+        "WAGON WHEEL"
+      ]
+    },
+    {
+      "title": "FICTIONAL TOMS",
+      "members": [
+        "RIPLEY",
+        "SAWYER",
+        "SWIFT",
+        "THUMB"
+      ]
+    },
+    {
+      "title": "THINGS THAT CAN BE SNAPPED",
+      "members": [
+        "FINGERS",
+        "FOOTBALL",
+        "GLOW STICK",
+        "RUBBER BAND"
+      ]
+    }
+  ]
+}
