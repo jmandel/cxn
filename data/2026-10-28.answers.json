@@ -1,0 +1,43 @@
+{
+  "id": 1337,
+  "print_date": "2026-10-28",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ROMANTIC LIKING",
+      "members": [
+        "ATTRACTION",
+        "CRUSH",
+        "FEELINGS",
+        "INTEREST"
+      ]
+    },
+    {
+      "title": "COMPONENTS OF AN EMAIL",
+      "members": [
+        "ATTACHMENT",
+        "BODY",
+        "SIGNATURE",
+        "SUBJECT"
+      ]
+    },
+    {
+      "title": "NASA MARS ROVERS",
+      "members": [
+        "CURIOSITY",
+        "OPPORTUNITY",
+        "PERSEVERANCE",
+        "SPIRIT"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF PATHS",
+      "members": [
+        "COARSE",
+        "RODE",
+        "ROUT",
+        "WEIGH"
+      ]
+    }
+  ]
+}
