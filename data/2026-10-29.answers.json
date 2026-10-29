@@ -1,0 +1,43 @@
+{
+  "id": 1340,
+  "print_date": "2026-10-29",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "THINGS YOU PUT COINS INTO",
+      "members": [
+        "PARKING METER",
+        "PAYPHONE",
+        "PIGGY BANK",
+        "WISHING WELL"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH PENGUINS",
+      "members": [
+        "ANTARCTICA",
+        "EMPEROR",
+        "TUXEDO",
+        "WADDLE"
+      ]
+    },
+    {
+      "title": "ENDS OF FAMOUS FONTS",
+      "members": [
+        "GOTHIC",
+        "ROMAN",
+        "SANS",
+        "TYPEWRITER"
+      ]
+    },
+    {
+      "title": "THINGS THAT FEATURE THREE COLORS",
+      "members": [
+        "CALICO",
+        "CANDY CORN",
+        "NEAPOLITAN",
+        "TRAFFIC LIGHT"
+      ]
+    }
+  ]
+}
