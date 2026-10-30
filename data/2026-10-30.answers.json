@@ -1,0 +1,43 @@
+{
+  "id": 1334,
+  "print_date": "2026-10-30",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PARTS OF A CAMERA",
+      "members": [
+        "FLASH",
+        "LENS",
+        "SHUTTER",
+        "VIEWFINDER"
+      ]
+    },
+    {
+      "title": "AROUND A THEATER STAGE",
+      "members": [
+        "BACKDROP",
+        "CURTAIN",
+        "PIT",
+        "WINGS"
+      ]
+    },
+    {
+      "title": "THROW ___",
+      "members": [
+        "HANDS",
+        "PILLOW",
+        "RUG",
+        "SHADE"
+      ]
+    },
+    {
+      "title": "FRUIT WITH FIRST LETTER CHANGED",
+      "members": [
+        "DEMON",
+        "DRAPE",
+        "GLUM",
+        "GRANGE"
+      ]
+    }
+  ]
+}
