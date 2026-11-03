@@ -1,0 +1,43 @@
+{
+  "id": 1345,
+  "print_date": "2026-11-03",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KEEP GOING",
+      "members": [
+        "CARRY ON",
+        "CONTINUE",
+        "PROCEED",
+        "RESUME"
+      ]
+    },
+    {
+      "title": "THINGS WITH WHEELS",
+      "members": [
+        "OFFICE CHAIR",
+        "ROLLER BAG",
+        "SHOPPING CART",
+        "STROLLER"
+      ]
+    },
+    {
+      "title": "THINGS A SERVER BRINGS AT A RESTAURANT",
+      "members": [
+        "CHECK",
+        "FOOD",
+        "MENU",
+        "TAP WATER"
+      ]
+    },
+    {
+      "title": "ENDING IN MENU BAR HEADINGS",
+      "members": [
+        "CREDIT",
+        "INTERVIEW",
+        "PROFILE",
+        "WHELP"
+      ]
+    }
+  ]
+}
