@@ -1,0 +1,43 @@
+{
+  "id": 1353,
+  "print_date": "2026-11-05",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KINDS OF HEELS",
+      "members": [
+        "KITTEN",
+        "PLATFORM",
+        "SPIKE",
+        "WEDGE"
+      ]
+    },
+    {
+      "title": "FLOWERS",
+      "members": [
+        "ANEMONE",
+        "LOTUS",
+        "NARCISSUS",
+        "ROSE"
+      ]
+    },
+    {
+      "title": "TEARDROP-SHAPED THINGS",
+      "members": [
+        "PEAR",
+        "RAINDROP",
+        "SPEEDBAG",
+        "UVULA"
+      ]
+    },
+    {
+      "title": "LIQUORS WITH LAST LETTERS CHANGED",
+      "members": [
+        "BRANDO",
+        "GIG",
+        "RUN",
+        "WHISKER"
+      ]
+    }
+  ]
+}
