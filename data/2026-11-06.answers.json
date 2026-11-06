@@ -1,0 +1,43 @@
+{
+  "id": 1346,
+  "print_date": "2026-11-06",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "COMPOSITION",
+      "members": [
+        "CONSTITUTION",
+        "FABRIC",
+        "MAKEUP",
+        "STRUCTURE"
+      ]
+    },
+    {
+      "title": "COPY",
+      "members": [
+        "BACKUP",
+        "EXTRA",
+        "REPLACEMENT",
+        "SPARE"
+      ]
+    },
+    {
+      "title": "KINDS OF TRUCKS",
+      "members": [
+        "FLATBED",
+        "PICKUP",
+        "SEMI",
+        "TANKER"
+      ]
+    },
+    {
+      "title": "ENDING IN PARTS OF THE EYE",
+      "members": [
+        "HOT ROD",
+        "OSIRIS",
+        "TRAFFIC CONE",
+        "WOOLENS"
+      ]
+    }
+  ]
+}
