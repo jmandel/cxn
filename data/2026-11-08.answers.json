@@ -1,0 +1,43 @@
+{
+  "id": 1351,
+  "print_date": "2026-11-08",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "MUSCULAR",
+      "members": [
+        "BUILT",
+        "CUT",
+        "JACKED",
+        "RIPPED"
+      ]
+    },
+    {
+      "title": "HAIR SALON SERVICES",
+      "members": [
+        "BLOWOUT",
+        "COLOR",
+        "EXTENSIONS",
+        "TRIM"
+      ]
+    },
+    {
+      "title": "THINGS THAT HELP MAKE SENSE OF A SITUATION",
+      "members": [
+        "CLARITY",
+        "CONTEXT",
+        "INSIGHT",
+        "PERSPECTIVE"
+      ]
+    },
+    {
+      "title": "VEGETABLE HOMOPHONES",
+      "members": [
+        "CARAT",
+        "CHARRED",
+        "KORN",
+        "LEAK"
+      ]
+    }
+  ]
+}
