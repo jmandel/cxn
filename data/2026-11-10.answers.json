@@ -1,0 +1,43 @@
+{
+  "id": 1361,
+  "print_date": "2026-11-10",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "HUBBUB",
+      "members": [
+        "BROUHAHA",
+        "FOOFARAW",
+        "HULLABALOO",
+        "KERFUFFLE"
+      ]
+    },
+    {
+      "title": "LITERARY DEVICES",
+      "members": [
+        "HYPERBOLE",
+        "METONYMY",
+        "ONOMATOPOEIA",
+        "OXYMORON"
+      ]
+    },
+    {
+      "title": "OLD-TIMEY OCCUPATIONS",
+      "members": [
+        "APOTHECARY",
+        "HABERDASHER",
+        "SCRIVENER",
+        "WAINWRIGHT"
+      ]
+    },
+    {
+      "title": "WORDS WITH FIVE OF ONE VOWEL",
+      "members": [
+        "ABRACADABRA",
+        "BEEKEEPER",
+        "INVISIBILITY",
+        "PROTOZOOLOGY"
+      ]
+    }
+  ]
+}
