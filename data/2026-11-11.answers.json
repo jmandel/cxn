@@ -1,0 +1,43 @@
+{
+  "id": 1354,
+  "print_date": "2026-11-11",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KINDS OF MEDICINE",
+      "members": [
+        "FOLK",
+        "HERBAL",
+        "HOLISTIC",
+        "TRADITIONAL"
+      ]
+    },
+    {
+      "title": "PARTS OF A GOLF COURSE",
+      "members": [
+        "GREEN",
+        "ROUGH",
+        "SAND TRAP",
+        "TEE BOX"
+      ]
+    },
+    {
+      "title": "THINGS FILLED WITH AIR",
+      "members": [
+        "AIR MATTRESS",
+        "BUBBLE",
+        "TIRE",
+        "WHOOPIE CUSHION"
+      ]
+    },
+    {
+      "title": "ENDING IN PALINDROMES",
+      "members": [
+        "AFTERNOON",
+        "PATOOT",
+        "RHEOSTATS",
+        "SHREDDER"
+      ]
+    }
+  ]
+}
