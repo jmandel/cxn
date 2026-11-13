@@ -1,0 +1,43 @@
+{
+  "id": 1360,
+  "print_date": "2026-11-13",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "USE THE INTERNET",
+      "members": [
+        "BROWSE",
+        "SCROLL",
+        "SEARCH",
+        "SURF"
+      ]
+    },
+    {
+      "title": "MEDIA ATTENTION",
+      "members": [
+        "COVERAGE",
+        "EXPOSURE",
+        "PRESS",
+        "PUBLICITY"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE TOWED",
+      "members": [
+        "BARGE",
+        "GLIDER",
+        "TRAILER",
+        "WATER SKIER"
+      ]
+    },
+    {
+      "title": "BRAIN ___",
+      "members": [
+        "FREEZE",
+        "TEASER",
+        "TRUST",
+        "WAVES"
+      ]
+    }
+  ]
+}
