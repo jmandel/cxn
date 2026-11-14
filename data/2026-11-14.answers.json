@@ -1,0 +1,43 @@
+{
+  "id": 1348,
+  "print_date": "2026-11-14",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CUTTING-EDGE",
+      "members": [
+        "ADVANCED",
+        "FOREMOST",
+        "MODERN",
+        "PROGRESSIVE"
+      ]
+    },
+    {
+      "title": "LOCATIONS FOR AN INSTITUTION",
+      "members": [
+        "CAMPUS",
+        "CENTER",
+        "COMPLEX",
+        "FACILITY"
+      ]
+    },
+    {
+      "title": "STRATEGY BOARD GAMES",
+      "members": [
+        "CHESS",
+        "GO",
+        "OTHELLO",
+        "STRATEGO"
+      ]
+    },
+    {
+      "title": "BABY GEAR WITH FIRST LETTER CHANGED",
+      "members": [
+        "BATTLE",
+        "MARRIAGE",
+        "MOTTLE",
+        "TRIB"
+      ]
+    }
+  ]
+}
