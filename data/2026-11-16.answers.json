@@ -1,0 +1,43 @@
+{
+  "id": 1363,
+  "print_date": "2026-11-16",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SUMMER ___",
+      "members": [
+        "BLOCKBUSTER",
+        "CAMP",
+        "SAUSAGE",
+        "SCHOOL"
+      ]
+    },
+    {
+      "title": "SPRING ___",
+      "members": [
+        "CHICKEN",
+        "CLEANING",
+        "ONION",
+        "WATER"
+      ]
+    },
+    {
+      "title": "WINTER ___",
+      "members": [
+        "GARDEN",
+        "GLOVES",
+        "MELON",
+        "WONDERLAND"
+      ]
+    },
+    {
+      "title": "FALL ___",
+      "members": [
+        "ASLEEP",
+        "FOLIAGE",
+        "GUY",
+        "IN LOVE"
+      ]
+    }
+  ]
+}
