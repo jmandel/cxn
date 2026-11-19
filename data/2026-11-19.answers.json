@@ -1,0 +1,43 @@
+{
+  "id": 1373,
+  "print_date": "2026-11-19",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "MAKE A HOLE IN THE GROUND",
+      "members": [
+        "BORE",
+        "BURROW",
+        "DIG",
+        "TUNNEL"
+      ]
+    },
+    {
+      "title": "MATERIALS OBTAINED FROM TREES",
+      "members": [
+        "CORK",
+        "RESIN",
+        "SAP",
+        "WOOD"
+      ]
+    },
+    {
+      "title": "PARTS OF AN ELECTRICAL APPLIANCE",
+      "members": [
+        "CORD",
+        "HOUSING",
+        "PLUG",
+        "SWITCH"
+      ]
+    },
+    {
+      "title": "START AND END WITH THE SAME THREE LETTERS",
+      "members": [
+        "EINSTEIN",
+        "GALANGAL",
+        "HOTSHOT",
+        "UNDERGROUND"
+      ]
+    }
+  ]
+}
