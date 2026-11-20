@@ -1,0 +1,43 @@
+{
+  "id": 1364,
+  "print_date": "2026-11-20",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PERSON WHO EXCELS AT SOMETHING",
+      "members": [
+        "ACE",
+        "BEAST",
+        "MAVEN",
+        "WIZARD"
+      ]
+    },
+    {
+      "title": "NOTICE",
+      "members": [
+        "CATCH",
+        "CLOCK",
+        "REGISTER",
+        "SPOT"
+      ]
+    },
+    {
+      "title": "DESCRIPTORS FOR SMALL ANIMALS",
+      "members": [
+        "MINIATURE",
+        "POCKET",
+        "TEACUP",
+        "TOY"
+      ]
+    },
+    {
+      "title": "ENDING IN LINGERIE",
+      "members": [
+        "CANDELABRA",
+        "COWSLIP",
+        "DIPHTHONG",
+        "STUTTGARTER"
+      ]
+    }
+  ]
+}
