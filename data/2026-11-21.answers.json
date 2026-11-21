@@ -1,0 +1,43 @@
+{
+  "id": 1371,
+  "print_date": "2026-11-21",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KINDS OF COOKIES",
+      "members": [
+        "BLACK AND WHITE",
+        "BUTTER",
+        "GIRL SCOUT",
+        "SUGAR"
+      ]
+    },
+    {
+      "title": "THINGS RATED IN A CUSTOMER SURVEY",
+      "members": [
+        "COURTESY",
+        "HELPFULNESS",
+        "SATISFACTION",
+        "WAIT TIME"
+      ]
+    },
+    {
+      "title": "TAROT CARDS, WITH \"THE\"",
+      "members": [
+        "DEVIL",
+        "EMPRESS",
+        "FOOL",
+        "HIEROPHANT"
+      ]
+    },
+    {
+      "title": "HOLD YOUR ___",
+      "members": [
+        "BREATH",
+        "HORSES",
+        "OWN",
+        "TONGUE"
+      ]
+    }
+  ]
+}
